@@ -25,6 +25,30 @@ President
 Vice President  
 [jannie@team3128.org](mailto:jannie@team3128.org)
 
+*Joshua F.*
+Head of Mechanical
+[joshua@team3128.org](mailto:joshua@team3128.org)
+
+*Ronak R.*
+Head of Controls
+[ronak@team3128.org](mailto:ronak@team3128.org)
+
+*Zoë C.*
+Head of Business
+[zoe@team3128.org](mailto: zoe@team3128.org)
+
+*Harris B.*
+Head of Submissions
+[harris@team3128.org](mailto: harris@team3128.org)
+
+*Drake T.*
+Head of Construction
+[drake@team3128.org](mailto: drake@team3128.org)
+
+*Alex L.*
+Head of Strategy
+[alex@team3128.org](mailto: alex@team3128.org)
+
 **Item Requests:**  
 If you would like to request an item for the workshop, the robot, or robotics, [tell us here](https://docs.google.com/forms/d/e/1FAIpQLSeDOGKZMsi8F6hn1Md16a8cnNyxb3TEy5sdJTwQK0GUv-Sf8w/viewform)
 
