@@ -1,5 +1,5 @@
 ---
-layout: single_page
+layout: grouped_page
 title: Narwhal Connections
 permalink: /outreach/narwhal-connections/
 ---
