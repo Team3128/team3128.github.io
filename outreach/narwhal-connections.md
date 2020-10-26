@@ -1,6 +1,7 @@
 ---
 layout: grouped_page
-title: Narwhal Connections
+title: Outreach
+subtitle: Narwhal Connections
 permalink: /outreach/narwhal-connections/
 ---
 
