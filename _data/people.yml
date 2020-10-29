@@ -10,10 +10,15 @@
 #   blurb: blah blah blah #a mini-bio about the person
 
 #   Mentors
+- group: mentors
+  name: Christine Low
+  photo: chris
+  title: Head Coach, Marketing, Mechanical
+  blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
 
 - group: mentors
   name: Tony Mauro
-  title: Faculty Advisor, Controls
+  title: Academic Advisor
   blurb: Tony teaches Engineering, Computer Science, and Robotics at CCA.  He received his BS and MS degrees in Electrical Engineering from Cal Poly and USC.  Prior to joining CCA, Tony worked as a Digital Hardware and Digital Signal Processing Software Engineer at Qualcomm.  Tony also leads the FTC teams at CCA.  His areas of interest include digital control systems, digital signal processing and mobile application development.
 
 - group: mentors
@@ -22,11 +27,6 @@
   title: Lead Mentor, Mechanical, Controls
   blurb: Garrison works for the Navy as a civilian researcher with a focus on augmented and virtual reality. He has a BS in Computer Science from San Diego State University and is currently working towards a MS in Computer Science at his alma mater. He is a founding member of Team 3128 and focuses primarily on mechanical design. He is currently too busy to have any other hobbies but when he is able to sneak away from the workshop, he enjoys hiking, rock climbing, and cooking.
 
-- group: mentors
-  name: Christine Low
-  photo: chris
-  title: Marketing, Mechanical
-  blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
 
 - group: mentors
   name: Mary Snyder
