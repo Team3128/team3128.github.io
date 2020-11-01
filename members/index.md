@@ -34,7 +34,7 @@ Review the steps below to make sure that you have done everything required to be
 Though Intro Day and NarWeek have passed, if you are still interested in joining the team, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org). Please note that our Mechanical and Controls departments are at capacity for the 2020-21 season. To find out about our other departments, visit [here](/about/departments/).
 -->
 
-Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](http://bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)! Please note that our Mechanical and Controls departments are at capacity for the 2020-21 season. To find out about our other departments, visit [here](/about/departments/)
+Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](http://bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)! Please note that our Mechanical and Controls departments are at capacity for the 2020-21 season. To find out about our other departments, visit [this page](/about/departments/).
 
 <!--
 To become part of the team, simply follow the steps below:
@@ -55,7 +55,7 @@ That's why we require all returning members to complete safety training by **Sep
 -->
 3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager, by January 9, 2021.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
 The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.**
-As a new requirement this year, **all youth team memebers must register** in order to participate in any remote or in-person FIRST activities.
+As a new requirement this year, **all youth team members must register** in order to participate in any remote or in-person FIRST activities.
 
 
 That's it! If you have any questions, feel free to reach out and contact our [coaches and leaders](/contact/). 
