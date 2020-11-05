@@ -43,20 +43,22 @@ To become part of the team, simply follow the steps below:
 <!--1. **Stop by the workshop!** For new members who would like to join in the Fall, you can [contact us](/contact/) or stop by our workshop and talk to one of our [student leaders](/about/leaders/). We'll introduce you to our five departments (Mechanical, Controls, Business, Marketing, and Strategy), and the department heads will be able to get you started with classes and projects.
 -->
 
-2. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
-6. **Review the [Team 3128 Handbook](/resources/Team3128Handbook.pdf).** The handbook contains information on the basics of what our team does, the code of conduct, team information for parents, build season, etc.
-<!--You will also need both you and your parent to sign the "Code of Conduct Agreement" page, located on the second page of the same document as the Safety Waiver (see Step 3) 
+1. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
+2. **Review the [Team 3128 Handbook](/resources/Team3128Handbook.pdf).** The handbook contains information on the basics of what our team does, the code of conduct, team information for parents, build season, etc. You will also need both you and your parent to sign the "Code of Conduct Agreement" page, located on the second page of the same document as the Parental Consent & Waiver (see Step 5).
+<!--
+PHYSICAL WAIVER
+4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
 -->
-<!--4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
--->
-5. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training and take the safety quiz.
+3. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training and take the safety quiz.
 <!--
 That's why we require all returning members to complete safety training by **September 7th, 2020** and all new members to complete it by **October 9th, 2020.**
 -->
-3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager, by January 9, 2021.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
+4. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager, by January 9, 2021.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
 The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.**
 As a new requirement this year, **all youth team members must register** in order to participate in any remote or in-person FIRST activities.
+5. **Turn in the [Parental Consent & Waiver for 2020-2021](https://docs.google.com/document/d/1UjWkqNu8Vob1p9chxhx3HSveeSVW7P9wvv6B3R-iq3k/edit#heading=h.5fghb1f5uj25).** You and your parental unit must read, understand, agree to, and sign the waiver. Once it's been signed, upload both pages to [this form](https://forms.gle/pN9pfaW34BWTHCWeA).
 
+*CCA has a "**[Health & Safety Agreement](https://drive.google.com/file/d/10I9Qjs45YUul7zUiLoQeGjVue881V42e/view?usp=sharing)**" that your parental unit will eventually need to sign and submit as a scanned document. As part of the agreement, you must also review [SDUHSD Reopening Information](https://www.sduhsd.net/Departments/Administrative-Services/Health-Services/Covid-19-Resources/index.html). However, because reopening procedures are subject to change, we are not requiring it at this point in time. Additional steps may have to be followed depending on how reopening proceeds.*
 
 That's it! If you have any questions, feel free to reach out and contact our [coaches and leaders](/contact/). 
 
