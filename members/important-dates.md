@@ -39,7 +39,4 @@ Please refer to the [Calendar](http://team3128.org/members/calendar) for any spe
 As soon as FIRST releases more information, this section will be updated. Right now, competition season dates are still TBD.
 
 **Additional FRC Competition Information**
-+ [FIRST Californai Competitions](http://cafirst.org/programs/first-robotics-competition/)
-
-
-
++ [FIRST California Competitions](http://cafirst.org/programs/first-robotics-competition/)
