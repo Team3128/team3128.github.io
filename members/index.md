@@ -55,8 +55,9 @@ That's why we require all returning members to complete safety training by **Sep
 The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.**
 As a new requirement this year, **all youth team members must register** in order to participate in any remote or in-person FIRST activities.
 5. **Turn in the [Parental Consent & Waiver for 2020-2021](https://docs.google.com/document/d/1UjWkqNu8Vob1p9chxhx3HSveeSVW7P9wvv6B3R-iq3k/edit#heading=h.5fghb1f5uj25).** You and your parental unit must read, understand, agree to, and sign the waiver. Once it's been signed, upload both pages to [this form](https://forms.gle/pN9pfaW34BWTHCWeA).
-
+<!--
 *CCA has a "**[Health & Safety Agreement](https://drive.google.com/file/d/10I9Qjs45YUul7zUiLoQeGjVue881V42e/view?usp=sharing)**" that your parental unit will eventually need to sign and submit as a scanned document. As part of the agreement, you must also review [SDUHSD Reopening Information](https://www.sduhsd.net/Departments/Administrative-Services/Health-Services/Covid-19-Resources/index.html). However, because reopening procedures are subject to change, we are not requiring it at this point in time. Additional steps may have to be followed depending on how reopening proceeds.*
+-->
 
 That's it! If you have any questions, feel free to reach out and contact our [coaches and leaders](/contact/). 
 
