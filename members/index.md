@@ -66,22 +66,22 @@ That's it! If you have any questions, feel free to reach out and contact our [co
 Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
 
 ## Robotics Reopening Plan
-### (starting Nov. 2020) 
+### Starting Nov. 2020 
 Some extracurriculars are allowed to reopen on the CCA campus starting November 2020.  This includes Robotics, meaning that you can come to the Robotics Workshop on the CCA campus (even if you are still in Distance Learning for school).  This is completely optional, and you can be a full member of Team 3128 even if you choose not to come to the Workshop in person.
 
-There are a lot of rules and regulations governing this (not a surprise) but if you are interested, please talk to your Department Coordinator.  Find out your department’s plans for meeting (when, where) and what “Pods” they are putting together.
+There are a lot of rules and regulations governing this but if you are interested, please talk to your Department Coordinator.  Find out your department’s plans for meeting (when, where) and what “Pods” they are putting together.
 
 In order to be eligible to join a "Pod", you MUST do the following:
-1. **Complete all 6 steps** in the "Join the Team" above to ensure that you are a registered member.
+1. **Complete all 5 steps** in the "Join the Team" above to ensure that you are a registered member.
 2. Thoroughly **review the [Team 3128 COVID-19 Safety Plan](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc).**
 3. **Read the CCA [“Health & Safety Agreement”](https://drive.google.com/file/d/10I9Qjs45YUul7zUiLoQeGjVue881V42e/view?usp=sharing)** with a parental unit. Have your parental unit sign the document, then scan (or take a picture of) the signed document and upload to [this form](https://forms.gle/dXTjEs13Cevjfvwe9).
-    * As part of the agreement, you must also review SDUHSD Reopening Information (link in their document).
+    * As part of the agreement, you must also review [SDUHSD Reopening Information](https://www.sduhsd.net/Departments/Administrative-Services/Health-Services/Covid-19-Resources/index.html).
     * Additional steps may have to be followed depending on how reopening proceeds.
 4. If you are in the Mechanical Department, pass the **“Mech & Construction Safety Quiz.”** If you are in the Controls Department, pass the **“Controls & Electrical Safety Quiz.”** Go to the [Safety page](/members/safety) to find the links to these quizzes.  
   
 Once all signed documents have been received, you may join a Pod (see your Department Coordinator for available Pods) and begin in-person training.
 
-Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc).
+Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan.”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc)
 
 Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  
 
