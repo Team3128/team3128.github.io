@@ -45,9 +45,7 @@ To become part of the team, simply follow the steps below:
 
 1. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
 2. **Review the [Team 3128 Handbook](/resources/Team3128Handbook.pdf).** The handbook contains information on the basics of what our team does, the code of conduct, team information for parents, build season, etc. You will also need both you and your parent to sign the "Code of Conduct Agreement" page, located on the second page of the same document as the Parental Consent & Waiver (see Step 5).
-<!--
-PHYSICAL WAIVER
-4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
+<!--4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
 -->
 3. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training and take the safety quiz.
 <!--
