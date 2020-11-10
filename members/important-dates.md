@@ -34,5 +34,12 @@ Department meetings, leadership meetings, and any other meetings are shown on ou
 
 Please refer to the [Calendar](http://team3128.org/members/calendar) for any special meeting dates.
 
+## FRC Competition Season
+
+As soon as FIRST releases more information, this section will be updated. Right now, competition season dates are still TBD.
+
+**Additional FRC Competition Information**
++ [FIRST Californai Competitions](http://cafirst.org/programs/first-robotics-competition/)
+
 
 
