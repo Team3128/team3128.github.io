@@ -20,7 +20,9 @@ Note that these steps do not allow you to start using power tools, but these are
 ## So you want to use power tools?
 <!--If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.-->
 
-Our Mechanical and Controls departments have reached capacity for the 2020-2021 season, but their respective safety presentations can be found below. Their respective safety quizzes for the 2020-2021 season are not yet available.
+Our Mechanical and Controls departments have reached capacity for the 2020-2021 season, but their respective safety presentations and quizzes can be found below.
+
+<!--Their respective safety quizzes for the 2020-2021 season are not yet available.-->
 
 <!--
 If you still need to complete the Mechanical or Controls safety quizzes, contact [Chris Low](mailto:chris@team3128.org).
@@ -31,31 +33,22 @@ If you have completed all of the steps above but are interested in joining the M
 -->
 
 **Mechanical/Construction Only**
-
-View the 2019-2020 Team 3128 Mech & Construction Safety presentation [here](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
-
-Reviewing the presentation *does not* mean you may use power tools.
-
-<!--
-1. Review the [Team 3128 Mech & Construction Safety presentation](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
-2. Take the [Mech & Construction Safety Quiz](https://docs.google.com/forms/d/1lGrXT2PVCbfEsD5MXlcSfNt633Z6U3cRhkgWNnN4CqM/viewform?edit_requested=true). You must pass with a score of 85% or higher. You may take the quiz as many times as you want.
+<!--View the 2019-2020 Team 3128 Mech & Construction Safety presentation [here](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
 -->
 
-<!--
+<!--Reviewing the presentation *does not* mean you may use power tools.-->
+
+1. Review the [2020-2021 Team 3128 Mech & Construction Safety presentation](https://docs.google.com/presentation/d/1ngjrVEYz4os1vO-taycgC9xWQwwzJZTaysqT8F0MATU/edit?usp=sharing).
+2. Take the [2020-2021 Mech & Construction Safety Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdm3aHeG4bZCh1VQz_QbNNkCNJM33MY54-lmgB9BB38LAVUNw/viewform?usp=sf_link). You must pass with a score of 85% or higher. You may take the quiz as many times as you want.
+
 Note: You may not use power tools until you pass the department-specific training.
--->
 
 **Controls Only**
+<!--View the 2019-2020 Team 3128 Controls/Electrical Safety presentation [here](https://docs.google.com/presentation/d/1phLBXfwegA6CF1v4O8o42MFOhwMspqC9bcXLJtz_uXo/edit?usp=sharing).-->
 
-View the 2019-2020 Team 3128 Controls/Electrical Safety presentation [here](https://docs.google.com/presentation/d/1edzdTAOpXih5eED6RA7A4ZohyB9Ey1BROv1zvDV0teo/edit#slide=id.g4266068401_3_70).
+<!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-Reviewing the presentation *does not* mean you may use power tools.
+1. Review the [2020-2021 Team 3128 Controls/Electrical Safety presentation](https://docs.google.com/presentation/d/1edzdTAOpXih5eED6RA7A4ZohyB9Ey1BROv1zvDV0teo/edit#slide=id.g4266068401_3_70).
+2. Take the [2020-2021 Controls/Electrical Safety Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc0EAn3R4hAIk7pDDqhEyblIVTdGAN2mDU3GYnahu60igYmAQ/viewform?usp=sf_link). You must pass with a score of 85% or higher. You may take the quiz as many times as you want. 
 
-<!--
-1. Review the [Team 3128 Controls/Electrical Safety presentation](https://docs.google.com/presentation/d/1edzdTAOpXih5eED6RA7A4ZohyB9Ey1BROv1zvDV0teo/edit#slide=id.g4266068401_3_70).
-2. Take the [Controls/Electrical Safety Quiz](https://docs.google.com/forms/d/1WS4DspHzV_yWrMsMJoLT5vn6JGG231zoomAKsejrUMs/viewform?edit_requested=true). You must pass with a score of 85% or higher. You may take the quiz as many times as you want. 
--->
-
-<!--
 Note: You may not use power tools until you pass the department-specific training.
--->
