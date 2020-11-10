@@ -8,7 +8,7 @@ permalink: /members/covid19/
 ## Basic Rules
 * Follow the [Team 3128 COVID-19 Safety Plan](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit).
 * If you feel sick, please stay at home!
-* If you get stick, please contact a coach as soon as possible (even if it's just a cold).
+* If you get sick, please contact a coach as soon as possible (even if it's just a cold).
 * Wear your mask.
 * Safety glasses must be on at all times while in the workshop.
 * No food or beverages are permitted in the workshop. If you bring food or beverages, they may be consumed outside the workshop only. No sharing!
