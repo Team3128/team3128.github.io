@@ -23,7 +23,8 @@ Additional Team Information
 <br>
 
 ### How to donate:
-In order to keep developing our skills and pursuing our goals, our requested Parent donation is $700. There are two ways to support our team:
+In order to keep developing our skills and pursuing our goals, our requested Parent donation is $250. There are two ways to support our team:
+<!--700 to 250 for 2020-2021-->
 
 <table width="100%">
 <tr>
@@ -68,7 +69,9 @@ San Diego, CA 92130</i>
 </table>
 
 ### In-Kind Donation
-For all physical items that you donate (Food during Build Season, Raw Materials, Mechanical and Electronic Components, etc.) the CCA Foundation provides an "In-Kind Donation Form" through which you can claim your Tax Deduction.
+For all physical items that you donate (food during Build Season, raw materials, mechanical and electronic components, etc.) the CCA Foundation provides an "In-Kind Donation Form" through which you can claim your tax deduction.
+
+The team's "[wish list](https://www.signupgenius.com/go/70a0a4bacab2ba1f85-sanitizing)" of goods is managed through SignUpGenius. Please add your name to any items you are able to donate. We are currently in need of cleaning and sanitizing products for the workshop.
 
 <div>
 <a href="/assets/documents/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf">
