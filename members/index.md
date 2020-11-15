@@ -66,7 +66,7 @@ That's it! If you have any questions, feel free to reach out and contact our [co
 
 Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
 
-[Robotics Reopening Plan](#reopening)
+<h2><a id="reopening"></a>Robotics Reopening Plan</h2>
 ### Starting Nov. 2020 
 Some extracurriculars are allowed to reopen on the CCA campus starting November 2020.  This includes Robotics, meaning that you can come to the Robotics Workshop on the CCA campus (even if you are still in Distance Learning for school).  This is completely optional, and you can be a full member of Team 3128 even if you choose not to come to the Workshop in person.
 
