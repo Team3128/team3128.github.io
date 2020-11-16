@@ -18,6 +18,7 @@ permalink: /members/covid19/
 **Q: How can students be going back to campus for extracurricular activities? We thought they weren't going back to school until January?**
 
 A: No one is more surprised than us. This question was asked multiple times with the same "yes" answer. If a student wants to return to campus in-person for robotics, they will be able to.
+
 This was referenced during a CCA presentation on November 4, 2020; a recording is available [here](https://www.youtube.com/watch?v=Orq5fWNKsDs&feature=youtu.be). Starting at 8:23, they list the groups that are allowed to return to campus. At 8:54, "small groups for extracurriculars" is mentioned, which includes robotics.
 
 **Q: What about other clubs and sports?**
@@ -31,6 +32,7 @@ A: We also do not know anything definitive in regards to other high schools. Ple
 **Q: How safe is my student, if they come back to the robotics workshop in-person?**
 
 A: As safe as we can possibly make it. We are limited to "Pods" of 14 students at a time. Cleaning and sanitising protocols are in place for the team and CCA is sanitising all classrooms. Contact tracing protocols are also in place. Cleaning and sanitising products are being purchased.
+
 This was referenced during a CCA presentation on November 4, 2020; a recording is available [here](https://www.youtube.com/watch?v=Orq5fWNKsDs&feature=youtu.be). Starting at 15:50, there is a presentation of the protocols that will be in place come January. These are the same protocols that Team 3128 will be adhering to.
 
 **Q: What if state, local, or SDUHSD rules change?**
