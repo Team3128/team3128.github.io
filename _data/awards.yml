@@ -9,6 +9,12 @@
 #       - Really Cool First Award
 #       - Even Cooler Second Award
 
+- year: 2020
+  events:
+   - name: Del Mar Regional
+     awards:
+      - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
+
 - year: 2019
   events:
    - name: San Diego Regional
