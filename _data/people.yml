@@ -78,8 +78,9 @@
 
 - group: leaders
   name: Mason Holst
+  photo: mason
   title: Controls Coordinator
-  blurb:
+  blurb: Mason is a senior and a fourth-year member on the team. Initially exposed to the FIRST organization in 4th grade as part of an FLL team with a group of friends, robotics has remained a fixture of his life ever since–taking particular interest in robot control and programming/wiring, he joined the Controls department of Team 3128 as a freshman and has worked there for the last four (three and a half?) years. As a Controls member, Mason has helped design and write many parts of the robot’s code, from mechanism control to computer vision; and during competitions he is often either conducting surgery on the robot to fix the inevitable technical breakage (which happens more often than perhaps would be optimal), or banging his head into a laptop keyboard in an attempt to resolve stubborn bugs (this is typically a successful strategy). Outside of the team, he does research and stuff, and spends his free time playing piano, gaming, plotting world domination, and doing Wikipedia.
 
 - group: leaders
   name: Francesca Piccioni
