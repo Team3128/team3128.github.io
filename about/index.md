@@ -13,7 +13,7 @@ permalink: /about/
     <td style="vertical-align: top;">
       <h4 style="margin-right: 10px; margin-left:20px; margin-top:35px; margin-bottom:35px">
         <i>
-            FRC Team 3128 strives to promote science and engineering within our school and community by fostering technical and interpersonal skills through robotics.
+            We strive to cultivate leadership and innovation through an engaging STEM education that embraces all students, regardless of background, in a vibrant and connected team culture.
         </i>
       </h4>
     </td>
