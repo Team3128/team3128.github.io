@@ -31,6 +31,11 @@ Over the past two weeks, Mech has been hard at work both inside the workshop and
 The Strategy department mainly focused on the game design challenge and now, we have a solid design of our game. We are currently working towards designing a theme for our game as we work with Business and Marketing. In addition to game design, Strategy is expanding it's project line up to give our more coding inclined members the option to contribute to the department and the team through projects like our E-scouting project and Database project
 <br>\-Yash V.
 
+**Business**
+<br>
+In the past two weeks, the Business department has directed its attention towards grant writing and working on the first newsletter of the 2020-2021 season. Veterans have been drafting, editing and finalizing the Sempra Energy Grant, which is projected to be submitted in the next coming weeks. Meanwhile, new members have been making good progress on the offseason newsletter and expecting to publish it soon. Business has also worked closely with Strategy on this year’s game design challenge.
+<br>\-Kevin Z.
+
 That's all the updates we have for now. Keep up the good work narwhals!
 
 For more updates, you can check out our Instagram page at [@3128aluminarwhals](https://instagram.com3128aluminarwhals)!
