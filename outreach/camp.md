@@ -17,4 +17,4 @@ Not only do we engage the younger members of our community, but by hosting summe
 
 This summer, camp will be held weekly from July 13, 2020 to July 31, 2020 for rising 1st to 8th graders.
 
-For information on registration, our programs, and more, visit our [camp website](http://team3128.org/camp/).
+For information on registration, our programs, and more, visit our <a href="http://team3128.org/camp" target="_blank">camp website</a>.
