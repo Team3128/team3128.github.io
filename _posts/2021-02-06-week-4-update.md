@@ -35,6 +35,8 @@ Last week, the Business department finished writing and designing the Offseason 
 
 
 
+
+
 <img src="https://photos.smugmug.com/photos/i-7kbsX3r/0/X2/i-7kbsX3r-X2.jpg" class="leftimage">
 
 **Strategy**
