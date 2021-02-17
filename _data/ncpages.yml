@@ -3,5 +3,10 @@
   subpages:
    - title: Home
      permalink: /narwhal-connections/
+   - title: Engineering
+     permalink: /narwhal-connections/engineering/
+   - title: Computer Science
+     # Perhaps this needs a better abbreviation? -- currently a placeholder
+     permalink: /narwhal-connections/compsci/
    - title: Business & Marketing 
-     permalink: /narwhal-connections/business
+     permalink: /narwhal-connections/business/
