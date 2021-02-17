@@ -13,6 +13,8 @@ With four weeks (well now five weeks since this post is a bit late) of build sea
 <br>
 Over the past couple of weeks, mechanical has been finalizing the robot’s design. As the CAD model gets finalized, the people in the workshop are kicking manufacturing into high gear. Although we have had some major setbacks regarding our CNC Router, we have been able to overcome them with only a minimal setback. As everyone at home wraps up design, they will transition into designing our curriculum for Narwhal Connections over the next few months.
 <br>\- Aaron B.
+
+
 <img src="https://photos.smugmug.com/photos/i-6rMz385/0/X2/i-6rMz385-X2.png" class="leftimage">
 
 **Controls**
@@ -30,6 +32,7 @@ We plan to start working on wiring the competition robot in the coming weeks, an
 <br>
 Last week, the Business department finished writing and designing the Offseason Newsletter. New members published the article, which details our team's accomplishments during that period, to our team's sponsors. Business is now focused on writing the Nissan grant and developing an entrepreneur curriculum.
 <br>\- Kevin Z.
+
 
 
 <img src="https://photos.smugmug.com/photos/i-7kbsX3r/0/X2/i-7kbsX3r-X2.jpg" class="leftimage">
