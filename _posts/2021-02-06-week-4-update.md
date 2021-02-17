@@ -22,12 +22,15 @@ In order to improve the robot’s ability to control itself autonomously, we hav
 Additionally, Drive Team has also been using the prebot to begin some preliminary practice, and Controls has been helping to provide technical support and optimize constants and code as the drivers continue to test the limits of the prebot’s teleoperated capability.
 We plan to start working on wiring the competition robot in the coming weeks, and programming it not long thereafter–we’re looking forward to seeing all of this work come to fruition in the form of a completed robot!
 <br>\- Mason H.
+
+
 <img src="https://photos.smugmug.com/photos/i-2z3wRQ8/0/X5/i-2z3wRQ8-X5.jpg" class="leftimage">
 
 **Business**
 <br>
 Last week, the Business department finished writing and designing the Offseason Newsletter. New members published the article, which details our team's accomplishments during that period, to our team's sponsors. Business is now focused on writing the Nissan grant and developing an entrepreneur curriculum.
 <br>\- Kevin Z.
+
 
 <img src="https://photos.smugmug.com/photos/i-7kbsX3r/0/X2/i-7kbsX3r-X2.jpg" class="leftimage">
 
