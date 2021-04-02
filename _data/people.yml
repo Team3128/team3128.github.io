@@ -68,12 +68,6 @@
 #   Leaders
 
 - group: leaders
-  name: El Fuego
-  photo: elfuego
-  title: Omnipotent Ruler
-  blurb: El fuego; the true leader of Team 3182. He's a person of mysterious nature, lurking below the Aluminum Narwhals workshop. It is rumored that he and his gremlins are working on a state-of-the-art robot for this season, fully equipped with baguettes, both for ranged and melee attacks. With all said, do not underestimate his power. 
-
-- group: leaders
   name: Christopher Caligiuri 
   photo: christopher
   title: President
