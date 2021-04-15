@@ -33,11 +33,8 @@ We plan to start working on wiring the competition robot in the coming weeks, an
 Last week, the Business department finished writing and designing the Offseason Newsletter. New members published the article, which details our team's accomplishments during that period, to our team's sponsors. Business is now focused on writing the Nissan grant and developing an entrepreneur curriculum.
 <br>\- Kevin Z.
 
-
-
-
-
-<img src="https://photos.smugmug.com/photos/i-7kbsX3r/0/X2/i-7kbsX3r-X2.jpg" class="leftimage">
+<img src="https://photos.smugmug.com/photos/i-7kbsX3r/0/X2/i-7kbsX3r-X2.jpg" class="rightimage">
+<br>
 
 **Strategy**
 <br>
