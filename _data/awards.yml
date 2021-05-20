@@ -8,7 +8,12 @@
 #      awards: #the list of the awards that we won at that event
 #       - Really Cool First Award
 #       - Even Cooler Second Award
-
+- year: 2021
+  events: 
+  - name: Greater San Diego Region
+    awards:
+    - Game Design Challenge Concept Award
+    - Woodie Flowers Finalist - Chris Low
 - year: 2020
   events:
    - name: Del Mar Regional
