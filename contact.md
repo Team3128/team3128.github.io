@@ -20,13 +20,13 @@ Coach
 [mary@team3128.org](mailto:mary@team3128.org)
 
 **Student Leadership**  
-*Christopher C.*  
+*Kevin Z.*  
 President  
-[christopher@team3128.org](mailto:christopher@team3128.org)
+[kevin@team3128.org](mailto:kevin@team3128.org)
 
-*Carolyn C.*  
+*Mark K.*  
 President  
-[carolyn@team3128.org](mailto:carolyn@team3128.org)
+[Mark@team3128.org](mailto:mark@team3128.org)
 
 <!-- 
 **Item Requests:**  

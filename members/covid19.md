@@ -1,11 +1,11 @@
----
-layout: grouped_page
+
+<!--- layout: grouped_page
 title: Members
-subtitle: Robotics During COVID-19
+<!--- subtitle: Robotics During COVID-19
 permalink: /members/covid19/
 ---
 
-## Basic Rules
+<!--- ## Basic Rules
 * Follow the [Team 3128 COVID-19 Safety Plan](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit).
 * If you feel sick, please stay at home!
 * If you get sick, please contact a coach as soon as possible (even if it's just a cold).
@@ -55,4 +55,4 @@ You can also email the Head Coach, Chris Low, at [chris@team3128.org](mailto:chr
 
 **Q: Is my student eating? Staying hydrated?**
 
-A: Normally, food and beverages are allowed in the workshop, but not during COVID-19. Students may bring food and beverages, but they must remain outside the workshop and can only be consumed outside the workshop. "Outside" is in reference to the area just beyond the workshop doors, where students generally congregate (while maintaining social distancing).
+A: Normally, food and beverages are allowed in the workshop, but not during COVID-19. Students may bring food and beverages, but they must remain outside the workshop and can only be consumed outside the workshop. "Outside" is in reference to the area just beyond the workshop doors, where students generally congregate (while maintaining social distancing). ---!>
