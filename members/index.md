@@ -52,7 +52,7 @@ To become part of the team, simply follow the steps below:
 That's why we require all returning members to complete safety training by **September 7th, 2020** and all new members to complete it by **October 9th, 2020.**
 -->
 4. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager, by January 9, 2021.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
-The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.**
+<!-- The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.** -->
 As a new requirement this year, **all youth team members must register** in order to participate in any remote or in-person FIRST activities.
 5. **Turn in the [Parental Consent & Waiver for 2020-2021](https://docs.google.com/document/d/1UjWkqNu8Vob1p9chxhx3HSveeSVW7P9wvv6B3R-iq3k/edit#heading=h.5fghb1f5uj25).** You and your parental unit must read, understand, agree to, and sign the waiver. Once it's been signed, upload both pages to [this form](https://forms.gle/pN9pfaW34BWTHCWeA).
 <!--
@@ -66,7 +66,7 @@ That's it! If you have any questions, feel free to reach out and contact our [co
 
 Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
 
-<h2><a id="reopening"></a>Robotics Reopening Plan</h2>
+<!-- <h2><a id="reopening"></a>Robotics Reopening Plan</h2>
 ### Starting Nov. 2020 
 Some extracurriculars are allowed to reopen on the CCA campus starting November 2020.  This includes Robotics, meaning that you can come to the Robotics Workshop on the CCA campus (even if you are still in Distance Learning for school).  This is completely optional, and you can be a full member of Team 3128 even if you choose not to come to the Workshop in person.
 
@@ -84,7 +84,7 @@ Once all signed documents have been received, you may join a Pod (see your Depar
 
 Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan.”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc)
 
-Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  
+Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  -->
 
 ### Finding the Workshop
 Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1nmsMCm0ZSwcSjjCppgf_gx3leKmMs5WY/view?usp=sharing). There are two ways to get to our workshop:
