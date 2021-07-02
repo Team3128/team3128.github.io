@@ -8,9 +8,10 @@
 
 - name: Business
   description: Business is responsible for our team's fundraising and communication with sponsors. Our business members hone their writing and speaking skills to effectively communicate what makes our team so special. Business members work closely with companies around San Diego to secure sponsorships, and are a very important component to keeping our team alive.
-
+  photo: business
 - name: Marketing
   description: Marketing manages our team's public presence, which includes our merchandise, our interactions with other teams, our outreach events, and our social media (if you aren't already, go follow @3128aluminarwhals on Instagram!). Marketing also handles designing and ordering our team merchandise (including t-shirts, jackets, socks, and pajama pants), and engaging with other teams and passersby at competitions.
+  photo: marketing
 
 - name: Strategy
   description: Strategy thoroughly analyzes the game manuals given by FIRST each year, making sure the team knows the most effective methods to play the game going into competitions. At competitions, they diligently watch every team, collecting qualitative and quantitative data so that we can build effective alliances in the elimination rounds. They also work closely with drive team to develop strategies for each match. The strategy department is all about using critical thinking in a collaborative environment to help the team be the best it can be.

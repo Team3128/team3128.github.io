@@ -68,43 +68,40 @@
 #   Leaders
 
 - group: leaders
-  name: Christopher Caligiuri 
-  photo: christopher
-  title: President
-  blurb: Christopher is a senior and a fourth year member of Team 3128. He first got involved in the FIRST program in 2013 after joining an FLL team with a group of friends and neighbors. As a Narwhal, Christopher spent the past three years in the Controls department, with responsibilities that included supporting the programing and wiring of the robot. At competitions, he can be spotted troubleshooting technical issues and helping other teams. This year, he is looking forward to furthering Team 3128 inclusivity and increasing the team's involvement within the community. Outside of robotics, Christopher enjoys hiking, visiting National Parks, investing, and tinkering with electronics.
-
-- group: leaders
-  name: Carolyn Cui
-  photo: carolyn
-  title: President
-  blurb: "Carolyn is a senior with this year being her third year on the team. She settled into the new marketing department two years ago and has been there since. Later, Carolyn also branched out to managing the team website, team photography, and pursuing numerous outreach opportunities. Outside of robotics, she enjoys writing, reading, and procrastinating: you can usually find her doing everything that she's not supposed to be doing. Although this year will be a challenging one, she's looking forward to making the most of it with her fellow narwhals."
-
-- group: leaders
-  name: Kevin Zhang
+  name:  Kevin Z.
   photo: kevin
+  title: President
+  blurb: Kevin is a senior who's been working with the team for three years. He first settled into the Business department as a freshman and has been diligently working there ever since. During his time in Business, he's helped with several grants and lead newsletter publications. Aside from Robotics, Kevin has also been in Public Forum debate for two years. He performed in several tournaments and made varsity. In his free time, Kevin enjoys drawing, reading, and spending time with friends.
+
+- group: leaders
+  name: Mark K.
+  title: President
+  blurb: 
+
+- group: leaders
+  name: Jessica L.
   title: Business Coordinator
-  blurb: Kevin is a junior who's been working with the team for two years. He first settled into the Business department as a freshman and has been diligently working there ever since. During his time in Business, he's helped with several grants and lead newsletter publications. Aside from Robotics, Kevin has also been in Public Forum debate for two years. He performed in several tournaments and made varsity. In his free time, Kevin enjoys drawing, reading, and spending time with friends.
+  blurb: 
 
 - group: leaders
-  name: Mason Holst
-  photo: mason
+  name: Jude L.
+  photo: jude
   title: Controls Coordinator
-  blurb: Mason is a senior and a fourth-year member on the team. Initially exposed to the FIRST organization in 4th grade as part of an FLL team with a group of friends, robotics has remained a fixture of his life ever since–taking particular interest in robot control and programming/wiring, he joined the Controls department of Team 3128 as a freshman and has worked there for the last four (three and a half?) years. As a Controls member, Mason has helped design and write many parts of the robot’s code, from mechanism control to computer vision; and during competitions he is often either conducting surgery on the robot to fix the inevitable technical breakage (which happens more often than perhaps would be optimal), or banging his head into a laptop keyboard in an attempt to resolve stubborn bugs (this is typically a successful strategy). Outside of the team, he does research and stuff, and spends his free time playing piano, gaming, plotting world domination, and doing Wikipedia.
+  blurb: Jude Lifset is a senior in high school and has been on Team 3128 since he was a freshman. He has grown his technical and practical knowledge on the team these past 3 years, and specifically has been interested in the controls (programming and wiring) part of robotics. Jude manages the controls department, coordinating the various projects throughout the off season and build season, and communicating with other departments so the team works with a unified purpose. At competitions, he troubleshoots hardware and software issues with the robot, fixing inevitable wiring faults and bugs in the program. In his free time, Jude enjoys playing board games, reading, hiking and programming.
 
 - group: leaders
-  name: Francesca Piccioni
+  name: Francesca P.
   photo: francesca
   title: Marketing Coordinator
-  blurb: Francesca is a junior and third year member of the team. After experimenting with controls and marketing, she chose to stick with marketing and has been there since. Francesca handles social media accounts and has designed merchandise for the team, including the stylish competition shirts. At competitions, she can be seen chatting with other team members and updating the Instagram story. Outside of robotics, Francesca enjoys reading and creating art. This year she is looking forward to meeting new members of the team, despite the challenges of online team meetings.
+  blurb: Francesca is a senior and fourth year member of the team. After experimenting with controls and marketing, she chose to stick with marketing and has been there since. Francesca handles social media accounts and has designed merchandise for the team, including the stylish competition shirts. At competitions, she can be seen chatting with other team members and updating the Instagram story. Outside of robotics, Francesca enjoys reading and creating art. This year she is looking forward to meeting new members of the team, despite the challenges of online team meetings.
 
 - group: leaders
-  name: Aaron Brucker
+  name: Will S.
   photo: aaron
   title: Mechanical Coordinator
-  blurb: Aaron (most commonly addressed by his last name) is a junior and has been a member of Team 3128 since his freshman year. All 3 of his years on the team have been spent in the Mechanical department, where he has worked with part fabrication, training new members, and robot design. During competitions, he is often seen frantically working on the robot in the pit. This summer, he spent most of his time messing around in CAD and creating the 2020 Mechanical Distance Learning Curriculum. Outside of robotics, he is an Eagle Scout with over 4 years of Boy Scout leadership experience, and enjoys pretty much everything outdoors, from mountain biking to hiking to camping.
-
+  blurb: Will is a Senior at CCA who has been a member of the mechanical department for 3 years. He worked with constructing field elements and manufacturing his first 2 years, and later served as the manufacturing lead and the lead for the serializer subassembly. He's looking forward to continuing project-based learning for new and returning members in the fall, and a return to an in-person build and competition season.
+  
 - group: leaders
-  name: Yashasvi Vangala
-  photo: yash
+  name: Shrey G.
   title: Strategy Coordinator
-  blurb: Yash is a senior and a third-year member of the Aluminum Narwhals. He has been part of the strategy department for 2 years devising excellent strategies with his peers to utilize the full potential of our robot at competitions. Other than robotics, he enjoys playing Badminton and Ultimate Frisbee. In his free time, he enjoys working out, learning new things, and playing video games - a little too many video games. He is looking forward to building up and adapting the Strategy department to this unusual year.
+  blurb: Shrey is a junior and a third-year member of the Aluminum Narwhals. They have been a member of the strategy department since freshman year, where they have helped with creating various strategies, training new members, leading the game design project team, and making lots of waffles. They have also been a member of drive team as secondary driver for two years. Outside of robotics, Shrey enjoys playing the keytar, doing research, playing lots of video games (especially rhythm games), and listening to cool music. This year, they look forward to transitioning the strategy department back to in person meetings, welcoming new members to the department, and developing new scouting systems.
