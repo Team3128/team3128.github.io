@@ -23,37 +23,36 @@
   blurb: Garrison works for the Navy as a civilian researcher with a focus on augmented and virtual reality. He has a BS in Computer Science from San Diego State University and is currently working towards a MS in Computer Science at his alma mater. He is a founding member of Team 3128 and focuses primarily on mechanical design. He is currently too busy to have any other hobbies but when he is able to sneak away from the workshop, he enjoys hiking, rock climbing, and cooking.
 
 - group: mentors
-  name: Mary Snyder
-  photo: mary
-  title: Business
-  blurb: Mary Snyder holds a BS in Biological Sciences Education from Miami University (in Ohio!) and a MS in Natural Sciences from Rensselaer Polytechnic Institute. Mary has taught middle school and high school science classes in different levels of Biology, Earth Science, Genetics, and different levels of Anatomy & Physiology for the past 23 years. Outside of her responsibilities as a classroom teacher, she also started a neighborhood FLL team (The Plastic Protons Always Positive!) that she coached for two years to support her son’s unwavering interest in robotics. When she's not spending hours in the workshop or driving students & robots around, her family enjoys hiking and visiting National Parks or the family farm in Ohio.
+  name: Pat Maynard
+  title: Strategy
+  blurb:
+#- group: mentors
+#  name: Mary Snyder
+#  photo: mary
+#  title: Business
+#  blurb: Mary Snyder holds a BS in Biological Sciences Education from Miami University (in Ohio!) and a MS in Natural Sciences from Rensselaer Polytechnic Institute. Mary has taught middle school and high school science classes in different levels of Biology, Earth Science, Genetics, and different levels of Anatomy & Physiology for the past 23 years. Outside of her responsibilities as a classroom teacher, she also started a neighborhood FLL team (The Plastic Protons Always Positive!) that she coached for two years to support her son’s unwavering interest in robotics. When she's not spending hours in the workshop or driving students & robots around, her family enjoys hiking and visiting National Parks or the family farm in Ohio.
   
 - group: mentors
   name: Denise Gibbs
   title: Marketing
   blurb: 
   
-- group: mentors
-  name: Matt Keen
-  photo: Matt
-  title: Controls
-  blurb: Matt Keen has 20 years experience in the computer industry working a variety of different areas including, software-defined radio, cyber security, hardware hacking, reverse engineering, rapid prototyping and enterprise software systems engineering. He holds a M.S. in Information Security and a B.S. in Software Systems Engineering from Nova Southeastern University and CTU. At the intersection of arts and science, Matt splits his off hours between developing cheap embedded IoT systems with the ESP8266 chip-set and keeping the history of 30's and 40's Lindy Hop and Balboa Swing dancing alive, through teaching dance locally and competing nationally. 
+#- group: mentors
+#  name: Matt Keen
+#  photo: Matt
+#  title: Controls
+#  blurb: Matt Keen has 20 years experience in the computer industry working a variety of different areas including, software-defined radio, cyber security, hardware hacking, reverse engineering, rapid prototyping and enterprise software systems engineering. He holds a M.S. in Information Security and a B.S. in Software Systems Engineering from Nova Southeastern University and CTU. At the intersection of arts and science, Matt splits his off hours between developing cheap embedded IoT systems with the ESP8266 chip-set and keeping the history of 30's and 40's Lindy Hop and Balboa Swing dancing alive, through teaching dance locally and competing nationally. 
   
-- group: mentors
-  name: Scott Baron
-  title: Controls
-  blurb: 
+#- group: mentors
+#  name: Scott Baron
+#  title: Controls
+#  blurb: 
   
 - group: mentors
   name: Christine Lau Dizon
   photo: christine
   title: Mentor
   blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
-
-- group: mentors
-  name: Pat Maynard
-  title: Strategy
-  blurb:
 
 - group: mentors
   name: Sylvia Chan
