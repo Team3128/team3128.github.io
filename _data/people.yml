@@ -99,8 +99,38 @@
   photo: will
   title: Mechanical Coordinator
   blurb: Will is a Senior at CCA who has been a member of the mechanical department for 3 years. He worked with constructing field elements and manufacturing his first 2 years, and later served as the manufacturing lead and the lead for the serializer subassembly. He's looking forward to continuing project-based learning for new and returning members in the fall, and a return to an in-person build and competition season.
-  
+
 - group: leaders
   name: Shrey G.
   title: Strategy Coordinator
   blurb: Shrey is a junior and a third-year member of the Aluminum Narwhals. They have been a member of the strategy department since freshman year, where they have helped with creating various strategies, training new members, leading the game design project team, and making lots of waffles. They have also been a member of drive team as secondary driver for two years. Outside of robotics, Shrey enjoys playing the keytar, doing research, playing lots of video games (especially rhythm games), and listening to cool music. This year, they look forward to transitioning the strategy department back to in person meetings, welcoming new members to the department, and developing new scouting systems.
+
+#project leads
+- group: projectleads
+  name: Aaron B.
+  photo: aaron
+  title: Mechanical Training Lead
+
+- group: projectleads
+  name: Kimmi M.
+  title: Narwhal Connections Lead (Mechanical)
+
+- group: projectleads
+  name: Aidan R.
+  title: Strategy Training Lead
+
+- group: projectleads
+  name: Mihika T.
+  title: Strategy E-Scouting Lead
+
+- group: projectleads
+  name: Priyanka S.
+  title: Controls Curriculum Lead
+
+- group: projectleads
+  name: Daniel Wang
+  title: Documenting Narwhal Dashboard Lead
+
+- group: projectleads
+  name: Jenny Mar
+  title: Documenting New Auto Lead

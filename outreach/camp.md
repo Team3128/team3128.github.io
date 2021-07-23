@@ -15,6 +15,6 @@ By inviting team members to partake as counselors and alumni as head counselors,
 
 Not only do we engage the younger members of our community, but by hosting summer camps we also are able to help fund the academics at our school and allow our own team to grow and invest in new technologies.
 
-Summer Camp 2020 was cancelled due to COVID-19 concerns. We hope to safely reopen in Summer 2021, and we will continue updating the camp website to reflect any new information regarding reopening.
+Summer Camp 2021 was cancelled due to COVID-19 concerns. We hope to safely reopen in Summer 2022, and we will continue updating the camp website to reflect any new information regarding reopening.
 
 For information on registration, our programs, and more, visit our <a href="http://team3128.org/camp" target="_blank">camp website</a>.
