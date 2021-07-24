@@ -13,8 +13,10 @@
 - year: 2021
   game: "INFINITE RECHARGE AT HOME"
   name: Grogu
+  stats: true
+  dimensions: 24.24” x 28.125” x 34.384”
   description: Coming soon...
-  
+
 - year: 2020
   game: "INFINITE RECHARGE"
   name: Cheems the Harvester of Souls

@@ -13,7 +13,7 @@
      permalink: /about/leaders/
    - title: Our Mentors
      permalink: /about/mentors/
-   - title: Project Leads
+   - title: Our Project Leads
      permalink: /about/projectleads/
    - title: Outreach
      permalink: /outreach/
@@ -64,8 +64,8 @@
    #  permalink: /members/covid19/
    - title: Team Leadership
      permalink: /members/leadership/
-   - title: Project Leaders
-     permalink: /members/project-leads/
+   #- title: Project Leaders
+   #  permalink: /members/project-leads/
    - title: Important Dates
      permalink: /members/important-dates/
    - title: Donate
