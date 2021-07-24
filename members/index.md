@@ -27,14 +27,16 @@ The process for getting registered with the team is currently being updated, and
 -->
 
 
-Are you sure you're part of the team for the 2020-2021 school year?
+Are you sure you're part of the team for the 2021-2022 school year?
 Review the steps below to make sure that you have done everything required to be an official member of Team 3128!
 
 <!-- GENERAL/In-Person Post-ID/NEW Blurb
 Though Intro Day and NarWeek have passed, if you are still interested in joining the team, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org). Please note that our Mechanical and Controls departments are at capacity for the 2020-21 season. To find out about our other departments, visit [here](/about/departments/).
 -->
 
+<!-- 
 Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](http://bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)! Please note that our Mechanical and Controls departments are at capacity for the 2020-21 season. To find out about our other departments, visit [this page](/about/departments/).
+-->
 
 <!--
 To become part of the team, simply follow the steps below:

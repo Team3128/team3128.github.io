@@ -14,4 +14,4 @@ Our two Co-Presidents are elected in May by a team vote (except for extenuating 
 
 ### Appointed Positions
 
-Our leadership team and mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time. For the 2020-2021 season, each of our departments will have a Division Coordinator and multiple Project Leads. [Learn more about our departments](/about/departments/).
+Our leadership team and mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time. For the 2021-2022 season, each of our departments will have a Departmet Coordinator and multiple Project Leads. [Learn more about our departments](/about/departments/).

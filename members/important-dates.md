@@ -13,18 +13,20 @@ During a normal year, preseason (which runs from fall to the beginning of winter
 
 ## Leadership Meetings
 
-Every week, the leadership team holds a meeting where they discuss the happenings of the team and any logistics, events, and changes necessary. For the 2020-2021 year, leadership meetings will happen every Wednesday, immediately following the team meeting at 3:45 pm. Leadership meetings are open to all members of the team.
+Every week, the leadership team holds a meeting where they discuss the happenings of the team and any logistics, events, and changes necessary. For the 2020-2021 year, leadership meetings will happen every Wednesday, immediately following the team meeting at 3:45 pm. Leadership meetings are open to all members of the team. Please check back later for updates about the 2021-2022 year leadership meeting schedule.
 
+<!--
 **Leadership Tentative Self-Nominations Open:** May 4th, 2021
 
 **Leadership Self-Nominations Close:** May 20th, 2021
 
 **Election Day:** TBD, 2021
+-->
 
 ## FRC Build Season
 
 Our Build Season is an exhilarating (and stressful) season to design and build a robot to compete against many other teams in the Southern California area, and hopefully the World.
-For the 2020-2021 school year, Build Season/Kickoff begins on Saturday, January 9, 2021 at 10:30 AM Eastern Time (ET), or 7:30 AM PST, with the game reveal. This year, the game is a repeat of last year, so redesign and modification of last year’s robot is already underway.
+For the 2020-2021 school year, Build Season/Kickoff begins on Saturday, January 8, 2022 at 10:00 AM Eastern Time (ET), or 7:00 AM PST, with the game reveal. 
 
 **Normal Scheduled Meetings**  
 

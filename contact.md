@@ -15,10 +15,6 @@ Head Coach
 Senior Coach  
 [garrison@team3128.org](mailto:garrison@team3128.org) 
 
-*Mary Snyder*  
-Coach  
-[mary@team3128.org](mailto:mary@team3128.org)
-
 **Student Leadership**  
 *Kevin Z.*  
 President  
