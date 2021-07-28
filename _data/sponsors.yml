@@ -1,79 +1,95 @@
-# 2019/2020 Sponsor
- - level: Title
-   name: McCarthy Family Foundation
-   description:	The McCarthy Family Foundation is a small private foundation established in 1988; organized as a California public benefit nonprofit corporation, it operates from San Diego, California. Their main funding areas include K-12 science education; HIV/AIDS research, education and direct services; assistance to homeless persons; and child abuse prevention and services for victims and families.
-   logo: /assets/sponsorlogos/mccarthyfamilyfoundation.png
-   link: http://mccarthyfamilyfdn.org/
 
-# 2019/2020 Sponsor
- - level: Platinum
+# 2020/2021 Sponsor
+ - level: Silver
    name: DoDSTEM
    description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
    logo: /assets/sponsorlogos/dodstem.png
    link: https://dodstem.us
-   
-# 2019/2020 Sponsor
- - level: Gold
-   name: ViaSat
-   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
-   logo: /assets/sponsorlogos/viasat.png
-   link: http://viasat.com
 
-# 2019/2020 Sponsor
- - level: Silver
+# 2020/2021 Sponsor
+ - level: Bronze
    name: Qualcomm
    description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
    logo: /assets/sponsorlogos/qualcomm.png
    link: http://qualcomm.com
 
-# 2019/2020 Sponsor
- - level: Silver
+# 2020/2021 Sponsor
+ - level: Bronze
+   name: NASA
+   description:	NASA is an American government organization that carries out aeronautics, space, and scientific research. NASA uses research gathered from the atmosphere and beyond to help better lives on Earth.
+   logo: /assets/sponsorlogos/NASA.png
+   link: https://www.nasa.gov/
+
+# 2020/2021 Sponsor
+ - level: Bronze
+   name: Caterpillar
+   description:	Caterpillar is an American company that specializes in manufacturing mining and construction equipment. Caterpillar offers a variety of products, from bulldozers to gas and diesel fuel generators.
+   logo: /assets/sponsorlogos/caterpillar.png
+   link: https://www.caterpillar.com/
+
+# 2020/2021 Sponsor
+ - level: Bronze
    name: Google
    description: Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies.
    logo: /assets/sponsorlogos/google.png
    link: https://www.google.com/
    
-# 2019/2020 Sponsor
- - level: Silver
+# 2020/2021 Sponsor
+ - level: Bronze
    name: Gene Haas
    description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
    logo: /assets/sponsorlogos/genehaas.png
    link: https://ghaasfoundation.org/
    
-# 2019/2020 Sponsor
- - level: Silver
-   name: Leidos
-   description: Leidos is an American defense, aviation, information technology, and biomedical research company that provides scientific, engineering, systems integration, and technical services. Their technology-driven business solves the toughest scientific and engineering problems for customers.
-   logo: /assets/sponsorlogos/leidos.png
-   link: https://www.leidos.com/
-
-# 2019/2020 Sponsor
- - level: Bronze
-   name: Solar Turbines
-   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
-   logo: /assets/sponsorlogos/SolarTurbines.png
-   link: https://www.solarturbines.com/
-   
- # 2019/2020 Sponsor
- - level: Bronze
-   name: BAE Systems
-   description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
-   logo: /assets/sponsorlogos/baesystems1.png
-   link: https://www.baesystems.com/en/home
-   
- # 2019/2020 Sponsor
+ # 2020/2021 Sponsor
  - level: Bronze
    name: Intuitive
    description: Intuitive Surgical Inc. is an American corporation that develops, manufactures and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System.
    logo: /assets/sponsorlogos/intuitive1.png
    link: https://www.intuitive.com/en-us
+  
+# 2020/2021 Sponsor
+ - level: Friend
+   name: BAE Systems
+   description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
+   logo: /assets/sponsorlogos/baesystems1.png
+   link: https://www.baesystems.com/en/home
    
+
 # 2019/2020 Sponsor
- - level: In-Kind
-   name: Solidworks
-   description: Solidworks is a Computer Aided Design program created by Dassault Systems that allows organizations of all industries to model in 3D. Additionally, FRC teams such as our own are provided with Solidworks licenses in order to design our robots.
-   logo: /assets/sponsorlogos/solidworks.png
-   link: http://www.3ds.com/products-services/solidworks/
+# - level: Gold
+#   name: ViaSat
+#   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+#   logo: /assets/sponsorlogos/viasat.png
+#   link: http://viasat.com
+
+# 2019/2020 Sponsor
+# - level: Silver
+#   name: Leidos
+#   description: Leidos is an American defense, aviation, information technology, and biomedical research company that provides scientific, engineering, systems integration, and technical services. Their technology-driven business solves the toughest scientific and engineering problems for customers.
+#   logo: /assets/sponsorlogos/leidos.png
+#   link: https://www.leidos.com/
+
+# 2019/2020 Sponsor
+# - level: Bronze
+#   name: Solar Turbines
+#   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+#   logo: /assets/sponsorlogos/SolarTurbines.png
+#   link: https://www.solarturbines.com/
+
+ # 2019/2020 Sponsor
+# - level: Title
+#   name: McCarthy Family Foundation
+#   description:	The McCarthy Family Foundation is a small private foundation established in 1988; organized as a California public benefit nonprofit corporation, it operates from San Diego, California. Their main funding areas include K-12 science education; HIV/AIDS research, education and direct services; assistance to homeless persons; and child abuse prevention and services for victims and families.
+#   logo: /assets/sponsorlogos/mccarthyfamilyfoundation.png
+#   link: http://mccarthyfamilyfdn.org/
+
+# 2019/2020 Sponsor
+# - level: In-Kind
+#  name: Solidworks
+#   description: Solidworks is a Computer Aided Design program created by Dassault Systems that allows organizations of all industries to model in 3D. Additionally, FRC teams such as our own are provided with Solidworks licenses in order to design our robots.
+#   logo: /assets/sponsorlogos/solidworks.png
+#   link: http://www.3ds.com/products-services/solidworks/
    
 # 2018/2019 Sponsor
 # - level: Title

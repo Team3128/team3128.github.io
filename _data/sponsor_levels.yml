@@ -2,7 +2,7 @@
   id: 5
   color: "#1b1464"
   money: "$10,000+"
-  show: true
+  show: false
   benefits:
     - Featured as Title Sponsor at FRC Competitions & Off-Season Events
     - Featured as team sponsor on our competition robot (Large Logo and Prominent Location)
@@ -21,7 +21,7 @@
   id: 4
   color: "#c2c0bc"
   money: "$7,500-$9,999"
-  show: true
+  show: false
   benefits:
     - Featured as team sponsor on our competition robot (Large Logo)
     - Featured as team sponsor at our pit at FRC Competitions (Medium Logo)
@@ -39,7 +39,7 @@
   id: 3
   color: gold
   money: "$5,000-$7,499"
-  show: true
+  show: false
   benefits:
     - Featured as team sponsor on our competition robot (Medium Logo)
     - Featured as team sponsor at our pit at FRC Competitions (Small Logo)
@@ -84,7 +84,7 @@
   id: 0
   color: "#00a2ff"
   money: "$500-$999"
-  show: false
+  show: true
   benefits:
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
@@ -93,4 +93,4 @@
 
 - name: In-Kind
   color: black
-  show: true
+  show: false

@@ -1,5 +1,5 @@
 - name: Mechanical
-  description: Mechanical is responsible for the design and construction of our robots. They work with a Computer Aided Design (CAD) software called Solidworks to design our entire robot digitally, and then they use that design to machine all of those parts in our workshop. Our machining is all done in-house, so Mechanical members learn how to use the lathe, mill, CNC router, and various other power tools. Those in Mechanical then assemble those parts together to create our two 120+ pound robots each year.
+  description: Mechanical is responsible for the design and construction of our robots. They work with a Computer Aided Design (CAD) software called Onshape to design our entire robot digitally, and then they use that design to machine all of those parts in our workshop. Our machining is all done in-house, so Mechanical members learn how to use the lathe, mill, CNC router, and various other power tools. Those in Mechanical then assemble those parts together to create our robot, which can weigh up to 120 pounds, each year.
   photo: mechanical
 
 - name: Controls
