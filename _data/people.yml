@@ -24,8 +24,9 @@
 
 - group: mentors
   name: Pat Maynard
+  photo: pat
   title: Strategy
-  blurb:
+  blurb: 'Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.'
 #- group: mentors
 #  name: Mary Snyder
 #  photo: mary
@@ -80,8 +81,9 @@
 
 - group: leaders
   name: Jessica L.
+  photo: jessica
   title: Business Coordinator
-  blurb: 
+  blurb: Jessica Li is a senior at CCA and has been a member of Team 3128 for two years. She joined the Business department in her sophomore year, remaining there since then. Jessica has helped write numerous grants in order to raise enough money to build the robot used in competitions. She has also helped in designing newsletter templates. Outside of robotics, Jessica loves to draw, read, and play the piano. She looks forward to meeting new members in the fall and being able to see everyone in person this year.
 
 - group: leaders
   name: Jude L.
@@ -115,11 +117,15 @@
 
 - group: projectleads
   name: Kimmi M.
+  photo: kimmi
   title: Narwhal Connections Lead (Mechanical)
+  blurb: This year marks Kimmi's fourth year on the team, as well as on the mechanical department. On any given day, you might find her engrossed in a project, reorganizing workflows, or teaching members new skills. As the Narwhal Connections project lead, Kimmi runs the design and production of the Engineering portion of the team's curriculum for elementary and middle school students. She is also an ambassador for LGBTQ+ of FIRST and a member of the team's outreach and awards committees. Outside of robotics, she enjoys spending time watching birds and going on picnics.
 
 - group: projectleads
   name: Aidan R.
   title: Strategy Training Lead
+  photo: aidan
+  blurb: Aidan is a sophomore, a member of the Strategy department, and has been on the team since he was a freshman. In his first year, he worked on a variety of projects, with an emphasis on the game design project. He was also a member of drive team. Outside of robotics, he enjoys playing video games (a very original hobby), reading, writing, working out, and practicing martial arts. Now, he's eager to organize the curriculum and teach new members about the ins and outs of Strategy! Outside of robotics, he enjoys video games (a very original hobby), reading, working out, and practicing martial arts (Muay Thai and Kali).
 
 - group: projectleads
   name: Mihika T.
