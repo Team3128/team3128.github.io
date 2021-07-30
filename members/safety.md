@@ -11,11 +11,11 @@ We work with a lot of cool tools and hardware on our team, and while these enabl
 Note that these steps do not allow you to start using power tools, but these are **required** for entry and use of the workshop. 
 <!--Returning members must complete training **by September 7th, 2020** and new members must complete training **by October 9th, 2020**.
 -->
-1. Review the [FIRST 2020 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2020/2020-FIRST-Robotics-Competition-Safety-Manual.pdf)
-2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing)
-3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1Lsyq6jehboyW4cqJPWuCwsNZEb9QVZMqq7Yk6N01uQc/edit#slide=id.g4266068401_3_70)
-4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube
-5. Take the [Team 3128 Safety Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfrByHxM9RUenTgmUedLrb8GmSEqFLDsDi9Y721f6BdXvU1aw/viewform?usp=sf_link). To complete Safety Training, you must pass this quiz with a score of 85% or higher.
+1. Review the [FIRST 2021 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2021/2021%20FRC-FTC%20Safety%20Manual.pdf).
+2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing).
+3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1KFtCwP8C42CqkaYhAYieHBCPWheEuGCgpP0atNEpx8s/edit#slide=id.g4266068401_3_70).
+4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube.
+5. Take the [Team 3128 Safety Quiz](https://forms.gle/YeU6LYZDWd2xato26). To complete Safety Training, you must pass this quiz with a **score of 85% or higher**. As aforementioned on the [members page](/members/index/), the safety quiz also requests the submission for the Parent and Consent Waiver and Code of Conduct Form. If you retake the safety quiz, you do not need to submit your consent forms again; please only submit your consent forms the first time you take the quiz.
 
 ## So you want to use power tools?
 <!--If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.-->
