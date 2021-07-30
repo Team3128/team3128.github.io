@@ -7,7 +7,7 @@ permalink: /members/important-dates/
 
 ## Weekly Meetings
 
-Our weekly meeting schedule for the 2021-2022 school year are yet to be determined, but will definietly be in person. Please check back later for updates. 
+Our weekly meeting schedule for the 2021-2022 school year are yet to be determined, but will definitely be in person. Please check back later for updates. 
 
 <!-- 
 This year, our meetings are all currently online and held through Slack, Google Meet, and/or Discord. See our calendar for specific dates!
