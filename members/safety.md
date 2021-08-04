@@ -15,12 +15,12 @@ Note that these steps do not allow you to start using power tools, but these are
 2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing).
 3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1KFtCwP8C42CqkaYhAYieHBCPWheEuGCgpP0atNEpx8s/edit#slide=id.g4266068401_3_70).
 4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube.
-5. Take the [Team 3128 Safety Quiz](https://forms.gle/YeU6LYZDWd2xato26). To complete Safety Training, you must pass this quiz with a **score of 85% or higher**. As aforementioned on the [members page](/members/index/), the safety quiz also requests the submission for the Parent and Consent Waiver and Code of Conduct Form. If you retake the safety quiz, you do not need to submit your consent forms again; please only submit your consent forms the first time you take the quiz.
+<!-- 5. Take the [Team 3128 Safety Quiz](https://forms.gle/YeU6LYZDWd2xato26). To complete Safety Training, you must pass this quiz with a **score of 85% or higher**. As aforementioned on the [members page](/members/index/), the safety quiz also requests the submission for the Parent and Consent Waiver and Code of Conduct Form. If you retake the safety quiz, you do not need to submit your consent forms again; please only submit your consent forms the first time you take the quiz.
 
 ## So you want to use power tools?
-<!--If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.-->
+<!--If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.
 
-Our Mechanical and Controls departments have reached capacity for the 2020-2021 season, but their respective safety presentations and quizzes can be found below.
+Our Mechanical and Controls departments have reached capacity for the 2020-2021 season, but their respective safety presentations and quizzes can be found below.--->
 
 <!--Their respective safety quizzes for the 2020-2021 season are not yet available.-->
 
