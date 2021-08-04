@@ -31,21 +31,15 @@ We meet in the Robotics Workshop, which is the gated area right next to the Nest
 
 **Is it mandatory that I be at every meeting?**
 
-Our team is open to students with a variety of time commitments. However, there are certain requirements for various privileges such as joining the leadership team, travel team, or being selected for a competition position. Specific attendance policies for the 2021-2022 season TBD. 
-
-Students with limited time must be aware of their availability and act accordingly. Getting involved in build project groups or leadership positions where you hold a key position might not be the wisest decision if you have other responsibilities. 
+Yes.  You are expected to attend the weekly All-Team meeting and your department meetings.  Assume your department meetings are mandatory - if they are optional, your Department Coordinator will announce that in advance.  All training meetings are mandatory as well.  Please see our handbook for more information.
 
 **Is it mandatory that I stay for the entire meeting?**
 
-Students can come and leave as they like from each meeting. They should make sure to sign in and out with our Timekeeping Tool so that their hours are properly logged. However, most of the time announcements, project logistics, etc, will all happen at the beginning of the meeting. So, if you get there late make sure to talk to a mentor or student to find out what is happening.
-
-If you need to leave early, you are required to clean up your work area prior to leaving.  This is especially true of the Construction and Mechanical Divisions, who make the most use of our Power and Machine Tools (if anyone fails to do this, workshop privileges may be revoked).  Make sure the people you are working with are aware of your departure time. That way all of you can work together to figure out when clean up needs to happen, future plans, etc.
+Yes.  Please see our handbook for more information.
 
 **I have a fall sport. Can I be involved?**
 
-Students involved in seasonal sports can still be involved during their off-season. For instance, if you are a member of a fall sport which usually ends October/November, you can definitely hop in. Just make sure that you’ve finished our [Getting Started checklist](/members/).
-
-A good rule of thumb is that our most busy time is from November – March. If you sport doesn’t overlap with those months, you definitely can be involved during our main competition season.
+If you can manage the time commitment of the Robotics Team and a Sport - yes.  If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  Please see our handbook for more information.
 
 <!--
 **I have a sport during competition season. Can I get involved during Fall/Spring?**
