@@ -135,10 +135,14 @@
 - group: projectleads
   name: Priyanka S.
   title: Controls Curriculum Lead
+  photo: priyanka
+  blurb: Priyanka is a rising junior and third year member of the team. She has held an active role in the controls department, being the WPILib Redesign lead and curriculum lead in the past two years. She further assists the wiring, programming, and troubleshooting involved in the department. Outside of robotics, you can find her watching sunsets, listening to music, or utterly confused on stack overflow.
 
 - group: projectleads
   name: Daniel Wang
   title: Documenting Narwhal Dashboard Lead
+  photo: daniel
+  blurb: Daniel is a senior at CCA and has been a member of Team 3128 since his freshman year. As a member of the Controls department, he has worked on wiring and programming projects, including the Auto Test Suite and State Space Control projects. As the lead for the Documenting Narwhal Dashboard project, Daniel writes documentation for Narwhal Dashboard, the team’s web-based control panel. Outside of robotics, Daniel enjoys reading, board games, and programming.
 
 - group: projectleads
   name: Jenny Mar
