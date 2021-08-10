@@ -22,7 +22,41 @@
   link: /resources/IRSLetterofDetermination.pdf
   description: The official letter from the Internal Revenue Service that certifies Team 3128&#58; Aluminum Narwhals as a non-private, 501(c)(3) organization.
 
+# - name: Mechanical Department Training
+#   category: info
+#   type: link
+#   link: 
+#   description: The safety training presentation for the mechanical department.
 
+# - name: Controls Department Training
+#   category: info
+#   type: link
+#   link: 
+#   description: The safety training presentation for the controls department.
+
+- name: FAQ Page
+  category: info
+  type: link
+  link: http://team3128.org/members/faq/
+  description: The link to the frequently asked questions page on our team.
+
+- name: Calendar
+  category: info
+  type: link
+  link: http://team3128.org/members/calendar/
+  description: The calendar contains information about team meetings and important events.
+
+- name: Mentors
+  category: info
+  type: link
+  link: http://team3128.org/about/mentors/
+  description: Get to know our amazing mentors!
+
+- name: Leaders
+  category: info
+  type: link
+  link: http://team3128.org/about/leaders/
+  description: Get to know our amazing student leaders!
 
 
 - name: Team 3128 Brand Standard

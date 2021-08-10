@@ -6,13 +6,15 @@ permalink: /contact/
 
 If you would like to contact us, you may email us at [info@team3128.org](mailto:info@team3128.org)
 
-**Coaches**    
+**Coaches**  
 *Garrison Price*  
-Head Coach
-[garrison@team3128.org](mailto:garrison@team3128.org) 
+Head Coach  
+[garrison@team3128.org](mailto:garrison@team3128.org)
 
-*Christine Low*   
+*Christine Low*  
+Coach  
 [chris@team3128.org](mailto:chris@team3128.org)
+
 
 **Student Leadership**  
 *Kevin Z.*  
