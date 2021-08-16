@@ -26,11 +26,15 @@ That said, do not worry if you are joining the team after Intro Day and NarWeek!
 The process for getting registered with the team is currently being updated, and we will walk you through how to do it once robotics starts back up for the 2019 - 2020 season. The steps for registration will be available in September.
 -->
 
+**IMPORTANT**
+<br>
+Right now, applications are only open to **returning members**. If your name is not on the returning members roster, please do not apply to the team as of now. Missed the returning members application? Do not fret, you can still apply as a new member after Narweek.
 
 Are you sure you're part of the team for the 2021-2022 school year?
 Review the steps below to make sure that you have done everything required to be an official member of Team 3128!
 
 **Join us for Intro Day and Narweek!**
+<br>
 Interested in being a part of CCA's Robotics Team? Come join us for Intro Day (9/10) and Narweek (9/13-17)! We highly recommend signing up for our [newsletter](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=4c89f7c84c) before then!
 
 Applications will be released after Narweek. Once applications are out, to become a part of our team, just follow the steps below:
