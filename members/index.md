@@ -105,7 +105,7 @@ Procedures for entering the workshop, social distancing, sanitizing, etc. are al
 Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  -->
 
 ### Finding the Workshop
-Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1nmsMCm0ZSwcSjjCppgf_gx3leKmMs5WY/view?usp=sharing). There are two ways to get to our workshop:
+Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1eCF6W_rqSJrtXeeTQKeTbEUN7-NlHxFs/view?usp=sharing). There are two ways to get to our workshop:
 1. **From the school.** Take the stairs between the B building and the Learning Commons towards the Admin Parking Lot. Our workshop is just past the Nest on the right side of the gate (the fenced-in area).
 2. **From the Admin Parking Lot** Our workshop can be accessed by entering the large concrete sidewalk just right of the Administration building. It is the fenced-in area.
 
