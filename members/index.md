@@ -26,21 +26,31 @@ That said, do not worry if you are joining the team after Intro Day and NarWeek!
 The process for getting registered with the team is currently being updated, and we will walk you through how to do it once robotics starts back up for the 2019 - 2020 season. The steps for registration will be available in September.
 -->
 
-**IMPORTANT**
+<!-- **IMPORTANT**
 <br>
 Right now, applications are only open to **returning members**. If your name is not on the returning members roster, please do not apply to the team as of now. Missed the returning members application? Do not fret, you can still apply as a new member after Narweek.
 
 Are you sure you're part of the team for the 2021-2022 school year?
-Review the steps below to make sure that you have done everything required to be an official member of Team 3128!
+Review the steps below to make sure that you have done everything required to be an official member of Team 3128! -->
+
+Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  Please see our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
 
 **Join us for Intro Day and Narweek!**
 <br>
 Interested in being a part of CCA's Robotics Team? Come join us for Intro Day (9/10) and Narweek (9/13-17)! We highly recommend signing up for our [newsletter](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=4c89f7c84c) before then!
+<br>
+
+**Narweek Department Days** <br>
+Monday: Mechanical <br>
+Tuesday: Strategy <br>
+Wednesday: Controls <br>
+Thursday: Business <br>
+Friday: Marketing <br>
 
 Applications will be released after Narweek. Once applications are out, to become a part of our team, just follow the steps below:
 
-1. Apply to the team through the form (coming soon!) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 24th, 11:59 PM**
-2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email.
+1. Apply to the team through the form (opened on **September 17th**) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 24th, 11:59 PM**
+2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
 3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have **7 calendar days** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
 
 If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information!
@@ -103,6 +113,7 @@ Once all signed documents have been received, you may join a Pod (see your Depar
 Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan.”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc)
 
 Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  -->
+**Acceptance criteria for Team 3128:**  Prior experience, willingness to learn, enthusiasm, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants.  Each department (link to departments) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
 ### Finding the Workshop
 Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1eCF6W_rqSJrtXeeTQKeTbEUN7-NlHxFs/view?usp=sharing). There are two ways to get to our workshop:
