@@ -53,7 +53,7 @@ Applications will be released after Narweek. Once applications are out, to becom
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
 3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have **7 calendar days** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
 
-If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information!
+
 
 
 <!-- GENERAL/In-Person Post-ID/NEW Blurb
@@ -92,7 +92,6 @@ That's why we require all returning members to complete safety training by **Sep
 <!--After that, the only thing left to do is to show up! You can also check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
 -->
 
-Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
 
 <!-- <h2><a id="reopening"></a>Robotics Reopening Plan</h2>
 ### Starting Nov. 2020 
@@ -113,12 +112,14 @@ Once all signed documents have been received, you may join a Pod (see your Depar
 Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan.”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc)
 
 Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  -->
-**Acceptance criteria for Team 3128:**  Prior experience, willingness to learn, enthusiasm, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants.  Each department (link to departments) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
+**Acceptance criteria for Team 3128:**  Prior experience, willingness to learn, enthusiasm, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants.  Each department (link to departments) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full. <br>
 
-### Finding the Workshop
+If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br>
+
+<!-- ### Finding the Workshop
 Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1eCF6W_rqSJrtXeeTQKeTbEUN7-NlHxFs/view?usp=sharing). There are two ways to get to our workshop:
 1. **From the school.** Take the stairs between the B building and the Learning Commons towards the Admin Parking Lot. Our workshop is just past the Nest on the right side of the gate (the fenced-in area).
-2. **From the Admin Parking Lot** Our workshop can be accessed by entering the large concrete sidewalk just right of the Administration building. It is the fenced-in area.
+2. **From the Admin Parking Lot** Our workshop can be accessed by entering the large concrete sidewalk just right of the Administration building. It is the fenced-in area. -->
 
 ## Growing Your Skills
 
@@ -126,9 +127,9 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 
 <img src="/assets/page_photos/members/11.jpg" class="leftimage">
 
-**Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team. Unfortunately, while we are in an online setting, this won't be possible, but videos may be provided soon!
-**Attend Workshops and Classes.** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.  
-**Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.  
-**Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).
+**Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team. <br>
+**Attend Workshops and Classes.** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season. <br>
+**Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.<br>
+**Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).<br>
 
 If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
