@@ -49,9 +49,9 @@ Friday: Marketing <br>
 
 Applications will be released after Narweek. Once applications are out, to become a part of our team, just follow the steps below:
 
-1. Apply to the team through the form (opened on **September 17th**) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 24th, 11:59 PM**
+1. Apply to the team through the form (opened on **September 17th**) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 21th, 11:59 PM**
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
-3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have **7 calendar days** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
+3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
 
 
 
