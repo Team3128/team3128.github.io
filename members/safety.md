@@ -13,7 +13,7 @@ Note that these steps do not allow you to start using power tools, but these are
 -->
 1. Review the [FIRST 2021 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2021/2021%20FRC-FTC%20Safety%20Manual.pdf).
 2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1gTw1WBlAibeMDqZq60wFhrIeMC9_9V-_CoyP7S0CSsU/edit).
-3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1KFtCwP8C42CqkaYhAYieHBCPWheEuGCgpP0atNEpx8s/edit#slide=id.g4266068401_3_70).
+3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1KFtCwP8C42CqkaYhAYieHBCPWheEuGCgpP0atNEpx8s/edit?usp=sharing).
 4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube.
 5. Once you are accepted onto the Team, the Basic Safety Quiz will be sent via email. You must pass with an 85% or higher.
 
@@ -40,7 +40,7 @@ If you have completed all of the steps above but are interested in joining the M
 
 <!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-1. Review the [2020-2021 Team 3128 Mech & Construction Safety presentation](https://docs.google.com/presentation/d/1ngjrVEYz4os1vO-taycgC9xWQwwzJZTaysqT8F0MATU/edit?usp=sharing).
+1. Review the [2020-2021 Team 3128 Mech & Construction Safety presentation](https://docs.google.com/presentation/d/1LVRR41THx2noiOfLxxRAfZqyvs1mbdJB3hDosAVZk5E/edit?usp=sharing).
 2. Once you have been accepted into this Department, the Quiz will be sent to you. You must pass with an 85% or higher.
 
 <!--
@@ -54,7 +54,7 @@ Note: You may not use power tools until you pass the department-specific trainin
 
 <!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-1. Review the [2020-2021 Team 3128 Controls/Electrical Safety presentation](https://docs.google.com/presentation/d/1edzdTAOpXih5eED6RA7A4ZohyB9Ey1BROv1zvDV0teo/edit#slide=id.g4266068401_3_70).
+1. Review the [2020-2021 Team 3128 Controls/Electrical Safety presentation](https://docs.google.com/presentation/d/1Qxm3neaMVAntKXNACLmRtEv-I_E9r03h-qKy2B8vFT8/edit?usp=sharing).
 2. Once you have been accepted into this Department, the Quiz will be sent to you. You must pass with an 85% or higher.
 
 <!--
