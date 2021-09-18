@@ -35,21 +35,10 @@ Review the steps below to make sure that you have done everything required to be
 
 Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  Please see our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
 
-**Join us for Intro Day and Narweek!**
-<br>
-Interested in being a part of CCA's Robotics Team? Come join us for Intro Day (9/10) and Narweek (9/13-17)! We highly recommend signing up for our [newsletter](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=4c89f7c84c) before then!
-<br>
 
-**Narweek Department Days** <br>
-Monday: Mechanical <br>
-Tuesday: Strategy <br>
-Wednesday: Controls <br>
-Thursday: Business <br>
-Friday: Marketing <br>
+Applications are out! To become a part of our team, just follow the steps below:
 
-Applications will be released after Narweek. Once applications are out, to become a part of our team, just follow the steps below:
-
-1. Apply to the team through the form (opened on **September 17th**) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 21th, 11:59 PM**
+1. Apply to the team through the [form](https://forms.gle/hdZak2tcih2R9Ke38) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 21th, 11:59 PM**
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
 3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
 
