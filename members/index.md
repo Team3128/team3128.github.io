@@ -8,7 +8,6 @@ redirect_from:
  - join/
 ---
 
-## Join the Team!
 
 <!-- General/In-Person Intro Day/NarWeek blurb
 If you are interested in joining the team, come to our **Intro Day** on **September 13th at 3:00pm at the workshop**! The week of September 16th - 20th, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. 
@@ -109,7 +108,8 @@ Once all signed documents have been received, you may join a Pod (see your Depar
 Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan.”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc)
 
 Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  -->
-**Acceptance criteria for Team 3128:**  Prior experience, willingness to learn, enthusiasm, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants.  Each department (link to departments) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full. <br>
+**Acceptance criteria for Team 3128:**  Willingness to learn, enthusiasm, ability to communicate and remain calm under pressure, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required.
+Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.<br>
 
 If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br>
 
