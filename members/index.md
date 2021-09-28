@@ -35,13 +35,21 @@ Review the steps below to make sure that you have done everything required to be
 
 Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  Please see our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
 
-
+<!---
 Applications are out! To become a part of our team, just follow the steps below:
 
 1. Apply to the team through the [form](https://forms.gle/hdZak2tcih2R9Ke38) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 21th, 11:59 PM**
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
-3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
+3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate. -->
+Team member applications and selection are complete for the 2021-2022 school year. 
+We had many more applicants than spots available, and selection was extremely difficult. <br>
 
+If you applied, emails with acceptance/rejection were sent out the evening of Sunday, Sept. 27, 2021. <br>
+
+If you applied, but did not receive an email response on Sept. 27 - please contact the Team at [info@team3128.org](mailto:info@team3128.org). <br>
+
+If you received an acceptance email, it included instructions for items that must be completed by Thursday Sept. 30 2021 (midnight), to be rostered with the Team. 
+If any prospective member fails to complete rostering by that date, we will assume they are no longer interested, and move on to any waitlisted candidates.
 
 
 
