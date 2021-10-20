@@ -33,7 +33,12 @@
 #   type: link
 #   link: 
 #   description: The safety training presentation for the controls department.
-
+- name: Parent Info Night 
+  category: info
+  type: link
+  link: https://docs.google.com/presentation/d/1Bfxi1IMxTQ-Oio1klFpzVsyv8czBfIgeRORGaaUGJ0c/edit#slide=
+  description: The link to the Parent Information Night Presentation
+  
 - name: FAQ Page
   category: info
   type: link
