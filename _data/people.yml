@@ -27,6 +27,18 @@
   photo: pat
   title: Strategy
   blurb: 'Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.'
+
+- group: mentors
+  name: Josh Kessler
+  photo: josh
+  blurb: Josh Kessler is originally from East Longmeadow, MA, where he was an active member of his high school's VEX robotics team for 4 years. Josh graduated from Penn State, where he studied Biomedical and Mechanical Engineering. In college, he was very involved in Engineers for a Sustainable World, where he worked on a number of projects at the intersection of engineering and sustainability, including a solar powered smoothie cart. After graduating, Josh transitioned to software engineering, and he now is a software development engineer at Amazon in San Diego.
+
+- group: mentors
+  name: Peter Fitzgibbons
+
+- group: mentors
+  name: Raylen Li
+  
 #- group: mentors
 #  name: Mary Snyder
 #  photo: mary
@@ -38,32 +50,32 @@
 #  title: Marketing
 #  blurb: 
   
-- group: mentors
-  name: Matt Keen
-  photo: Matt
-  title: Controls
-  blurb: Matt Keen has 20 years experience in the computer industry working a variety of different areas including, software-defined radio, cyber security, hardware hacking, reverse engineering, rapid prototyping and enterprise software systems engineering. He holds a M.S. in Information Security and a B.S. in Software Systems Engineering from Nova Southeastern University and CTU. At the intersection of arts and science, Matt splits his off hours between developing cheap embedded IoT systems with the ESP8266 chip-set and keeping the history of 30's and 40's Lindy Hop and Balboa Swing dancing alive, through teaching dance locally and competing nationally. 
+#- group: mentors
+#  name: Matt Keen
+#  photo: Matt
+#  title: Controls
+#  blurb: Matt Keen has 20 years experience in the computer industry working a variety of different areas including, software-defined radio, cyber security, hardware hacking, reverse engineering, rapid prototyping and enterprise software systems engineering. He holds a M.S. in Information Security and a B.S. in Software Systems Engineering from Nova Southeastern University and CTU. At the intersection of arts and science, Matt splits his off hours between developing cheap embedded IoT systems with the ESP8266 chip-set and keeping the history of 30's and 40's Lindy Hop and Balboa Swing dancing alive, through teaching dance locally and competing nationally. 
   
-- group: mentors
-  name: Scott Baron
-  title: Controls
-  blurb: 
+#- group: mentors
+#  name: Scott Baron
+#  title: Controls
+#  blurb: 
   
-- group: mentors
-  name: Christine Lau Dizon
-  photo: christine
-  title: Mentor
-  blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
+#- group: mentors
+#  name: Christine Lau Dizon
+#  photo: christine
+#  title: Mentor
+#  blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
 
-- group: mentors
-  name: Sylvia Chan
-  title: Mentor
-  blurb:
+#- group: mentors
+#  name: Sylvia Chan
+#  title: Mentor
+#   blurb:
 
-- group: mentors
-  name: Jennifer Accolti-Gil
-  title: Mentor
-  blurb:
+#- group: mentors
+#  name: Jennifer Accolti-Gil
+#  title: Mentor
+#  blurb:
 
 #   Leaders
 
