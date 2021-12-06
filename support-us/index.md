@@ -13,6 +13,15 @@ Come join other Parents of the Robotics Team to help build Field Elements, so ou
 **Weekend of January 8 & 9, 10 AM - 5 PM** (but any amount of time you can help is appreciated).  We have some "handy" parents leading the charge, please sign up so we know you are coming.  If you have any of the power tools listed and can bring them, that will also help.
 *Please wear long pants and closed-toe shoes, and bring a mask.  We will have safety glasses and room to spread out.* <br>
 The students on the Team will be prototyping the robot - you will be near your student, but not "with" them (so not completely 'uncool')
+<div>
+<a href="https://www.signupgenius.com/go/70a0a4bacab2ba1f85-help">
+<div class="button hover_animate" style="text-align: center;">
+Sign up here!
+</div>
+</a>
+</div>
+<br>
+
 ## Become a Mentor
 We are always looking for expertise in programming, electronics, engineering, mechanics, design, marketing, finances, and business who can share their knowledge with our members. If you are interested in helping out high school students and would like to volunteer in any capacity as a mentor for Team 3128 or have any questions, please let us know!
 <div>
