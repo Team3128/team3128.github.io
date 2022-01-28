@@ -3,12 +3,13 @@ layout: post
 title: "2022 Build Season - Week 1"
 date: 2022-01-19  3:00:00 -0800
 author: Emma C.
-categories: offseason
+categories: build-season
 ---
 Hello friends!
 Here’s a little introduction about me. My name is Emma C. I am head of the Marketing department, and I am a member of the class of 2023. I will be doing weekly updates on what each department has done in the past week. Enough of introductions, let’s get into robotics!! 
 We are onto our second week of build season with the new game Rapid React that is sponsored by Boeing with a theme of transportation. All departments have been very busy strategizing and prototyping for the new game and robot. Here is an update on each of the departments:
 <br>
+
 **Business**
 <br>
 In the past week, the Business Department has continued working on newsletters and writing grants that have opened up this month. New members have published the Offseason Newsletter and sent it to our sponsors, as well as interviewed members for the Kickoff Newsletter. In addition to submitting the Brain Corp Grant, both veterans and new members have been working diligently to edit and finalize the Sony Grant as we prepare to submit it in the following days.
@@ -33,4 +34,6 @@ The majority of mechanics have been spending the week prototyping. Starting at k
 <br>
 The marketing department has been working on the new T-shirt design based on the theme of the game this year of transportation. We have many designs in the running but a Narplane looks like it is the team favorite. We have also been working with Chris L. on the travel logistics of Port Hueneme including buses and food options/menus. This week we secured our order of narwhal lanyards, which should come before the first regional. In addition to lanyards, we have begun sewing training for making narwhal horns for judges and fans at regionals. This coming week our main goal is to finalize the logo for the T-shirt and order them in time for the regional Port Hueneme.
 <br>\- Emma C.
+<br>
+<br>
 So far, our departments have been working hard to get a head start on this year’s build season. We are ecstatic to play the new Rapid React game and look forward to improving the robot. That’s all for now, **Go Narwhals!**
