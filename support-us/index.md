@@ -7,7 +7,7 @@ permalink: /support-us/
 
 As a FIRST Robotics Competition team who is dedicated to providing a rich learning enviornment for its members and always seeks to extend our positive influence in the community, we are always in need of resources and help from those who have a passion in STEM. We would love if you could support our students in their quest to achieve their goals and learn valuable skills in any of the ways below!
 
-## Parent Event!
+<!--- ## Parent Event!
 Can you swing a hammer?  Woodworking experience?  No experience, but willing to try? Want to meet other Robotics Parents, Mentors, Coaches? 
 Come join other Parents of the Robotics Team to help build Field Elements, so our robot can practice before our competitions. <br>
 **Weekend of January 8 & 9, 10 AM - 5 PM** (but any amount of time you can help is appreciated).  We have some "handy" parents leading the charge, please sign up so we know you are coming.  If you have any of the power tools listed and can bring them, that will also help.
@@ -21,7 +21,7 @@ Sign up here!
 </a>
 </div>
 <br>
-
+--->
 ## Become a Mentor
 We are always looking for expertise in programming, electronics, engineering, mechanics, design, marketing, finances, and business who can share their knowledge with our members. If you are interested in helping out high school students and would like to volunteer in any capacity as a mentor for Team 3128 or have any questions, please let us know!
 <div>

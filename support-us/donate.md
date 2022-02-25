@@ -12,6 +12,14 @@ All of your donations to the Aluminum Narwhals are tax deductible. If you would 
 
 ### How do your donations help us?
 We love what we do, and we wish we could achieve everything we think up. The only problem is that everything we need - electronics, lumber, gear boxes, aluminum, polycarbonate, coaching, travel - costs money. That's why we need you; with your donation, we are able to realize our dreams and learn valuable skills.
+<div>
+<a href="https://docs.google.com/spreadsheets/d/1bIJekgcC5poyS72Xn-yZ9ALvS7UgMLulK6QNVCoD_ug/edit?usp=sharing">
+<div class="button hover_animate" style="text-align: center;">
+Team 3128 Finance History
+</div>
+</a>
+</div>
+<br>
 
 <div>
 <a href="/resources/">
@@ -21,6 +29,7 @@ Additional Team Information
 </a>
 </div>
 <br>
+
 
 ### How to donate:
 In order to keep developing our skills and pursuing our goals, our requested Parent donation is $250. There are two ways to support our team:
