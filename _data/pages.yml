@@ -74,12 +74,14 @@
 - title: Resources
   permalink: /resources/
   subpages:
-   - title: Team Information
-     permalink: /resources/
-   - title: Branding
-     permalink: /resources/branding/
-   - title: Technical
-     permalink: /resources/technical/
+  - title: Championship Forms
+    permalink: /resources/
+  - title: Team Information
+    permalink: /resources/info/
+  - title: Branding
+    permalink: /resources/branding/
+  - title: Technical
+    permalink: /resources/technical/
 
 - title: Support Us
   permalink: /support-us/

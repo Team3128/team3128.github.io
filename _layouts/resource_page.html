@@ -7,7 +7,7 @@ layout: grouped_page
     {% if resource.category == page.category %}
       <tr width="100%">
         <td colspan=2 width="33%" style="text-align: left; vertical-align: top; padding: 15px">
-          <img width="128px" style="float: left; margin-right: 10px; margin-bottom: 0px;" src="/assets/graphics/{{ resource.type }}-icon.png" />
+          <a href="{{ resource.link }}"><img width="128px" style="float: left; margin-right: 10px; margin-bottom: 0px; border: solid blue 3px; " src="/assets/graphics/{{ resource.type }}-icon.png" /></a>
           <h3>{{ resource.name }}</h3>
           {{ resource.description }}
         </td>
