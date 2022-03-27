@@ -14,20 +14,47 @@
         <div id="normal_navigation" class="normal_navigation">
             <nav class="site-nav" style="display: flex; flex-direction: row; justify-content: flex-end; align-items: stretch; margin-right: 12px; ">
                 {% for page in site.data.pages %}
-                <div class="menu_button hover_animate">
-                    <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
-                        <div style="height: 100%; padding: 20px;">
-                            {{ page.title }}
-                        </div>
-                    </a>
-                </div>
-                {% endfor %}
+                <div class="dropdown">
+                    <div id="{{ page.title }}" class="menu_button hover_animate">
+                        <script>
+                            document.getElementById("{{ page.title }}").addEventListener("mouseenter", function(){
+                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "block";
+                            }, false);
+                            document.getElementById("{{ page.title }}").addEventListener("mouseleave", function(){
+                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "none";
+                            }, false);
+                        </script>
+                        <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
+                            <div style="height: 100%; padding: 20px;">
+                                {{ page.title }}
+                            </div>
+                        </a>
+                    </div>
+                    <div id="{{ page.title }}-dropdown-content" class="dropdown-content">
+                        <script>
+                            document.getElementById("{{ page.title }}-dropdown-content").addEventListener("mouseenter", function(){
+                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "block";
+                            }, false);
+                            document.getElementById("{{ page.title }}-dropdown-content").addEventListener("mouseleave", function(){
+                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "none";
+                            }, false);
+                        </script>
+                        {% for subpage in page.subpages %}
+                        <a href="{{ subpage.permalink }}">
+                            <div class="element hover_animate {% if subpage.title == page.subtitle %} selected {% endif %}">
+                                {{ subpage.title }}
+                            </div>
+                        </a>
+                        {% endfor %}
+                    </div>
+                    {% endfor %}
 
-                {% for social in site.data.socials %}
-                <div style="flex: 40px 0 0; margin-left: 8px; display: flex; flex-direction: column; justify-content: center;">
-                    <a href="{{ social.link }}">
-                        <img id="{{ social.name }}" />
-                    </a>
+                    {% for social in site.data.socials %}
+                    <div style="flex: 40px 0 0; margin-left: 8px; display: flex; flex-direction: column; justify-content: center;">
+                        <a href="{{ social.link }}">
+                            <img id="{{ social.name }}" />
+                        </a>
+                    </div>
                 </div>
                 {% endfor %}
             </nav>
