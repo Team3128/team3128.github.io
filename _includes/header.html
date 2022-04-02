@@ -17,12 +17,13 @@
                 <div class="dropdown">
                     <div id="{{ page.title }}" class="menu_button hover_animate">
                         <script>
-                            document.getElementById("{{ page.title }}").addEventListener("mouseenter", function(){
-                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "block";
-                            }, false);
-                            document.getElementById("{{ page.title }}").addEventListener("mouseleave", function(){
-                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "none";
-                            }, false);
+                            $("#{{ page.title }}").mouseenter(function(){
+                                $("#{{ page.title }}-dropdown").css("display","block");
+                                $("#{{ page.title }}").css("background-color", "#1b3a98");
+                            }).mouseleave(function(){
+                                $("#{{ page.title }}-dropdown").css("display","none");
+                                $("#{{ page.title }}").css("background-color", "initial");
+                            });
                         </script>
                         <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
                             <div style="height: 100%; padding: 20px;">
@@ -30,21 +31,24 @@
                             </div>
                         </a>
                     </div>
-                    <div id="{{ page.title }}-dropdown-content" class="dropdown-content">
+                    <div id="{{ page.title }}-dropdown" class="dropdown-content hover_animate">
                         <script>
-                            document.getElementById("{{ page.title }}-dropdown-content").addEventListener("mouseenter", function(){
-                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "block";
-                            }, false);
-                            document.getElementById("{{ page.title }}-dropdown-content").addEventListener("mouseleave", function(){
-                                document.getElementById("{{ page.title }}-dropdown-content").style.display = "none";
-                            }, false);
+                            $("#{{ page.title }}-dropdown").mouseenter(function(){
+                                $("#{{ page.title }}-dropdown").css("display","block");
+                                $("#{{ page.title }}").css("background-color", "#1b3a98");
+                            }).mouseleave(function(){
+                                $("#{{ page.title }}-dropdown").css("display","none");
+                                $("#{{ page.title }}").css("background-color", "initial");
+                            });
                         </script>
                         {% for subpage in page.subpages %}
-                        <a href="{{ subpage.permalink }}">
-                            <div class="element hover_animate {% if subpage.title == page.subtitle %} selected {% endif %}">
-                                {{ subpage.title }}
-                            </div>
-                        </a>
+                        <div class="dropdown_element hover_animate">
+                            <a href="{{ subpage.permalink }}" class="nounder">
+                                <div style="padding: 12px">
+                                    {{ subpage.title }}
+                                </div>
+                            </a>
+                        </div>
                         {% endfor %}
                     </div>
                     {% endfor %}
