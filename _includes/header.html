@@ -14,20 +14,51 @@
         <div id="normal_navigation" class="normal_navigation">
             <nav class="site-nav" style="display: flex; flex-direction: row; justify-content: flex-end; align-items: stretch; margin-right: 12px; ">
                 {% for page in site.data.pages %}
-                <div class="menu_button hover_animate">
-                    <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
-                        <div style="height: 100%; padding: 20px;">
-                            {{ page.title }}
+                <div class="dropdown">
+                    <div id="{{ page.title }}" class="menu_button hover_animate">
+                        <script>
+                            $("#{{ page.title }}").mouseenter(function(){
+                                $("#{{ page.title }}-dropdown").css("display","block");
+                                $("#{{ page.title }}").css("background-color", "#1b3a98");
+                            }).mouseleave(function(){
+                                $("#{{ page.title }}-dropdown").css("display","none");
+                                $("#{{ page.title }}").css("background-color", "initial");
+                            });
+                        </script>
+                        <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
+                            <div style="height: 100%; padding: 20px;">
+                                {{ page.title }}
+                            </div>
+                        </a>
+                    </div>
+                    <div id="{{ page.title }}-dropdown" class="dropdown-content hover_animate">
+                        <script>
+                            $("#{{ page.title }}-dropdown").mouseenter(function(){
+                                $("#{{ page.title }}-dropdown").css("display","block");
+                                $("#{{ page.title }}").css("background-color", "#1b3a98");
+                            }).mouseleave(function(){
+                                $("#{{ page.title }}-dropdown").css("display","none");
+                                $("#{{ page.title }}").css("background-color", "initial");
+                            });
+                        </script>
+                        {% for subpage in page.subpages %}
+                        <div class="dropdown_element hover_animate">
+                            <a href="{{ subpage.permalink }}" class="nounder">
+                                <div style="padding: 12px">
+                                    {{ subpage.title }}
+                                </div>
+                            </a>
                         </div>
-                    </a>
-                </div>
-                {% endfor %}
+                        {% endfor %}
+                    </div>
+                    {% endfor %}
 
-                {% for social in site.data.socials %}
-                <div style="flex: 40px 0 0; margin-left: 8px; display: flex; flex-direction: column; justify-content: center;">
-                    <a href="{{ social.link }}">
-                        <img id="{{ social.name }}" />
-                    </a>
+                    {% for social in site.data.socials %}
+                    <div style="flex: 40px 0 0; margin-left: 8px; display: flex; flex-direction: column; justify-content: center;">
+                        <a href="{{ social.link }}">
+                            <img id="{{ social.name }}" />
+                        </a>
+                    </div>
                 </div>
                 {% endfor %}
             </nav>
