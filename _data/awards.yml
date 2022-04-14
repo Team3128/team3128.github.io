@@ -8,6 +8,16 @@
 #      awards: #the list of the awards that we won at that event
 #       - Really Cool First Award
 #       - Even Cooler Second Award
+- year: 2022
+  events: 
+  - name: Port Hueneme Regional
+    awards:
+    - Innovation in Controls Award
+  - name: San Diego Regional
+    awards:
+    - Regional Winner
+    - Gracious Professionalism Award
+
 - year: 2021
   events: 
   - name: Greater San Diego Region
