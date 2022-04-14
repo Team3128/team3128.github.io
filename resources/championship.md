@@ -5,3 +5,4 @@ subtitle: Championship Forms
 category: championship
 permalink: /resources/
 ---
+## Championship Info and Forms

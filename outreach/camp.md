@@ -3,6 +3,8 @@ layout: grouped_page
 title: Outreach
 subtitle: Summer Camp
 permalink: /outreach/camp/
+redirect_from:
+    - /camp/ 
 ---
 
 <img src = "/assets/page_photos/outreach/camp1.png" class="rightimage">
@@ -17,4 +19,4 @@ Not only do we engage the younger members of our community, but by hosting summe
 
 Summer Camp 2021 was cancelled due to COVID-19 concerns. We hope to safely reopen in Summer 2022, and we will continue updating the camp website to reflect any new information regarding reopening.
 
-For information on registration, our programs, and more, visit our <a href="http://team3128.org/camp" target="_blank">camp website</a>.
+For information on registration, our programs, and more, visit our [camp website](http://team3128.org/camp)
