@@ -1,6 +1,6 @@
 
 # 2021/2022 Sponsor
- - level: Silver
+ - level: Title
    name: DoDSTEM
    description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
    logo: /assets/sponsorlogos/dodstem.png
@@ -41,6 +41,13 @@
    description: Solectek Corp is an American company on the forefront of improving wireless communication.
    logo: /assets/sponsorlogos/solectek.png
    link: https://www.solectek.com/
+
+# 2021/2022 Sponsor
+ - level: Gold
+   name: Solar Turbines
+   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+   logo: /assets/sponsorlogos/SolarTurbines.png
+   link: https://www.solarturbines.com/
   
 # 2020/2021 Sponsor
 # - level: Bronze
