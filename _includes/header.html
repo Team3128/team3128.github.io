@@ -1,7 +1,7 @@
 <header class="site-header">
     <div style="display: flex; flex-direction: row; align-items: center; height: 70px; margin: 5px; padding: 0px 4px;">
         <a href="{{ site.baseurl }}/" style="flex: auto 1 0">
-            <img style="width: 90px; display: inline-block"  src="/assets/header/logo.png" />
+            <img style="width: 90px;" src="/assets/header/logo.png" />
             
             <img style="height: 70px;" class="normaltitle" src="/assets/header/wordmark.png" />
             <img style="height: 70px;" class="smalltitle" src="/assets/header/nummark.png" />
@@ -12,55 +12,59 @@
         </div>
 
         <div id="normal_navigation" class="normal_navigation">
-            <nav class="site-nav" style="display: flex; flex-direction: row; justify-content: flex-end; align-items: stretch; margin-right: 12px; ">
+            <nav class="site-nav" style="display: flex; flex-direction: row; justify-content: flex-end; align-items: stretch; margin-right: 12px; float:right">
                 {% for page in site.data.pages %}
-                <div class="dropdown">
-                    <div id="{{ page.title }}" class="menu_button hover_animate">
-                        <script>
-                            $("#{{ page.title }}").mouseenter(function(){
-                                $("#{{ page.title }}-dropdown").css("display","block");
-                                $("#{{ page.title }}").css("background-color", "#1b3a98");
-                            }).mouseleave(function(){
-                                $("#{{ page.title }}-dropdown").css("display","none");
-                                $("#{{ page.title }}").css("background-color", "initial");
-                            });
-                        </script>
-                        <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
-                            <div style="height: 100%; padding: 20px;">
-                                {{ page.title }}
-                            </div>
-                        </a>
-                    </div>
-                    <div id="{{ page.title }}-dropdown" class="dropdown-content hover_animate">
-                        <script>
-                            $("#{{ page.title }}-dropdown").mouseenter(function(){
-                                $("#{{ page.title }}-dropdown").css("display","block");
-                                $("#{{ page.title }}").css("background-color", "#1b3a98");
-                            }).mouseleave(function(){
-                                $("#{{ page.title }}-dropdown").css("display","none");
-                                $("#{{ page.title }}").css("background-color", "initial");
-                            });
-                        </script>
-                        {% for subpage in page.subpages %}
-                        <div class="dropdown_element hover_animate">
-                            <a href="{{ subpage.permalink }}" class="nounder">
-                                <div style="padding: 12px">
-                                    {{ subpage.title }}
+                    <div class="dropdown" id="{{ page.title }}-with-dropdown">
+                        <div id="{{ page.title }}" class="menu_button hover_animate">
+                            <script>
+                                $("#{{ page.title }}").mouseenter(function(){
+                                    $("#{{ page.title }}-dropdown").css("display","block");
+                                    $("#{{ page.title }}").css("background-color", "#1b3a98");
+                                }).mouseleave(function(){
+                                    $("#{{ page.title }}-dropdown").css("display","none");
+                                    $("#{{ page.title }}").css("background-color", "initial");
+                                });
+                            </script>
+                            <a href="{{ page.permalink }}" class="nounder page-link" style="height: 100%;">
+                                <div style="height: 100%; padding: 20px;">
+                                    {{ page.title }}
                                 </div>
                             </a>
                         </div>
-                        {% endfor %}
-                    </div>
-                    {% endfor %}
 
-                    {% for social in site.data.socials %}
+                        <div id="{{ page.title }}-dropdown" class="dropdown-content hover_animate">
+                            <script>
+                                $("#{{ page.title }}-dropdown").mouseenter(function(){
+                                    $("#{{ page.title }}-dropdown").css("display","block");
+                                    $("#{{ page.title }}").css("background-color", "#1b3a98");
+                                }).mouseleave(function(){
+                                    $("#{{ page.title }}-dropdown").css("display","none");
+                                    $("#{{ page.title }}").css("background-color", "initial");
+                                });
+                            </script>
+                            {% for subpage in page.subpages %}
+                                <div class="dropdown_element hover_animate">
+                                    <a href="{{ subpage.permalink }}" class="nounder">
+                                        <div style="padding: 12px">
+                                            {{ subpage.title }}
+                                        </div>
+                                    </a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+
+                {% endfor %}
+                    
+
+                {% for social in site.data.socials %}
                     <div style="flex: 40px 0 0; margin-left: 8px; display: flex; flex-direction: column; justify-content: center;">
                         <a href="{{ social.link }}">
                             <img id="{{ social.name }}" />
                         </a>
                     </div>
-                </div>
                 {% endfor %}
+                
             </nav>
         </div>
     </div>

@@ -62,6 +62,7 @@
 
 .menu_button {
     padding: 0px;
+    text-align: center;
 }
 .menu_button:hover {
     background: $light;
@@ -105,7 +106,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 1230px) {
+@media screen and (max-width: 1330px) {
     .normal_navigation {
         display: none;
     }
@@ -114,7 +115,7 @@
     }
 }
 
-@media screen and (min-width: 1230px) {
+@media screen and (min-width: 1330px) {
     .normal_navigation {
         display: block;
     }
@@ -123,7 +124,7 @@
     }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1500px) {
     .normaltitle {
         display: none;
     }
@@ -132,7 +133,7 @@
     }
 }
 
-@media screen and (max-width: 1560px) and (min-width: 1400px) {
+@media screen and (max-width: 1660px) and (min-width: 1500px) {
     .normaltitle {
         display: none;
     }
@@ -141,7 +142,7 @@
     }
 }
 
-@media screen and (min-width: 1560px) {
+@media screen and (min-width: 1660px) {
     .normaltitle {
         display: inline-block;
     }
