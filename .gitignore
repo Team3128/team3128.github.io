@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 
 ## MacOS
 # General
@@ -63,7 +64,5 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# Jekyll Cache
-.jekyll-cache
+.idea
 
