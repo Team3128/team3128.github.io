@@ -14,3 +14,5 @@ gem 'webrick'
 gem 'jekyll'
 gem 'jekyll-redirect-from'
 gem 'jekyll-environment-variables'
+
+gem 'public_suffix', '4.0.7'
