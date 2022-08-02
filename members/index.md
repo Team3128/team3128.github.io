@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-<!-- General/In-Person Intro Day/NarWeek blurb
-If you are interested in joining the team, come to our **Intro Day** on **September 13th at 3:00pm at the workshop**! The week of September 16th - 20th, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. 
--->
+**NEW MEMBERS**
+<br>
+If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:00pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. Applications will open at the end of Narweek.
+<!---After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. --->
+
 
 <!-- VIRTUAL Intro Day/NarWeek blurb
 If you are interested in joining the team, come to our **Intro Day** on **September 18th at 3:15pm**!  On Intro Day, new members will get a chance to virtually meet veteran members and each other to learn all about our team—from our culture to the work we do in each of our divisions. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together. **NarWeek** will run from **September 21th - 25th at 3:15pm** every day, and allow members to get a more extensive introduction to what each of our five divisions do (Mechanical, Controls, Business, Marketing, and Strategy). If you're interested in coming, fill out [this form](http://eepurl.com/hbg-of) and we'll email you more details soon!
@@ -32,7 +34,7 @@ Right now, applications are only open to **returning members**. If your name is 
 Are you sure you're part of the team for the 2021-2022 school year?
 Review the steps below to make sure that you have done everything required to be an official member of Team 3128! -->
 
-Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  Please see our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
+Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  See our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
 
 <!---
 Applications are out! To become a part of our team, just follow the steps below:
@@ -40,6 +42,8 @@ Applications are out! To become a part of our team, just follow the steps below:
 1. Apply to the team through the [form](https://forms.gle/hdZak2tcih2R9Ke38) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 21th, 11:59 PM**
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
 3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate. -->
+
+<!--- Applications past blurb
 Team member applications and selection are complete for the 2021-2022 school year. 
 We had many more applicants than spots available, and selection was extremely difficult. <br>
 
@@ -49,7 +53,7 @@ If you applied, but did not receive an email response on Sept. 27 - please conta
 
 If you received an acceptance email, it included instructions for items that must be completed by Thursday Sept. 30 2021 (midnight), to be rostered with the Team. 
 If any prospective member fails to complete rostering by that date, we will assume they are no longer interested, and move on to any waitlisted candidates.
-
+--->
 
 
 <!-- GENERAL/In-Person Post-ID/NEW Blurb
