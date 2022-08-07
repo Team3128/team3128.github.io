@@ -9,7 +9,6 @@ redirect_from:
  - members
 ---
 
-
 **NEW MEMBERS**
 <br>
 If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:30pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. 
@@ -123,7 +122,7 @@ Currently, workshop time priority is given to the Mechanical and Controls depart
 **Acceptance criteria for Team 3128:**  Willingness to learn, enthusiasm, ability to communicate and remain calm under pressure, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required.
 Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.<br>
 
-If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br>
+If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! Also, don't forget to follow us on [Instagram](https://www.instagram.com/3128aluminumnarwhals/), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br>
 
 <!-- ### Finding the Workshop
 Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1eCF6W_rqSJrtXeeTQKeTbEUN7-NlHxFs/view?usp=sharing). There are two ways to get to our workshop:

@@ -25,4 +25,4 @@ permalink: /start/
 - [STIMS](https://my.firstinspires.org/Dashboard/) - Student Team Information Management System  
 
 **Other**
-- Social Media: [Facebook](https://www.facebook.com/aluminumnarwhals/) - [Instagram](https://www.instagram.com/3128aluminarwhals/)
+- Social Media: [Facebook](https://www.facebook.com/aluminumnarwhals/) - [Instagram](https://www.instagram.com/3128aluminumnarwhals/)
