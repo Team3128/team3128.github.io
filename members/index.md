@@ -6,12 +6,13 @@ permalink: /members/
 redirect_from:
  - join
  - join/
+ - members
 ---
 
 
 **NEW MEMBERS**
 <br>
-If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:00pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. 
+If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:30pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. 
 
 **Applications will open on Wednesday, 8/31 at 6 PM and close at the end of Narweek on Friday, 9/2 at 11:30 PM.**
 
