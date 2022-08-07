@@ -11,7 +11,12 @@ redirect_from:
 
 **NEW MEMBERS**
 <br>
-If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:00pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. Applications will open at the end of Narweek.
+If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:00pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. 
+
+**Applications will open on Wednesday, 8/31 at 6 PM and close at the end of Narweek on Friday, 9/2 at 11:30 PM.**
+
+Check back here for the application link when it opens! 
+
 <!---After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. --->
 
 
@@ -35,6 +40,8 @@ Are you sure you're part of the team for the 2021-2022 school year?
 Review the steps below to make sure that you have done everything required to be an official member of Team 3128! -->
 
 Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  See our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
+
+#### **Joining Team 3128 is a large time commitment.** Departments are expected to meet 3 times a week and all members must attend **at least 75% of all meetings**.<br><br>
 
 <!---
 Applications are out! To become a part of our team, just follow the steps below:
