@@ -2,7 +2,11 @@
 layout: grouped_page
 title: Members
 subtitle: Getting Started
-permalink: /members/markdown/
+permalink: /members/
+redirect_from:
+ - join
+ - join/
+ - members
 ---
 
 **NEW MEMBERS**
