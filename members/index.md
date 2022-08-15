@@ -9,39 +9,43 @@ redirect_from:
  - members
 ---
 
-### **New Members**
+### **How to Join the FRC Robotics Team**
 <br>
-If you are interested in joining the team, come to our **Intro Day** on **August 26th at 3:30pm at the workshop**! The week of **8/29-9/2**, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. Keep in mind that Narweek is **mandatory** for the departments you plan on applying to. 
+Team 3128 “The Aluminum Narwhals” accepts applications in early Fall only.  Our Robotics recruitment event is called “Narweek”.  
 
-**Applications will open on Wednesday, 8/31 at 6 PM and close at the end of Narweek on Friday, 9/2 at 11:30 PM.**
+Narweek begins with **Intro Day** on **Friday August 26, at 3:30 PM in the robotics workshop.**  Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.
 
-Check back here for the application link when it opens! 
+Starting on Monday August 29, our workshop will open every day at 3:30 PM.  Each department will present on a specific day:
+- Monday Aug. 29 – Mechanical 
+- Tuesday Aug. 30 – Controls
+- Wednesday Aug. 31 – Business
+- Thursday Sept. 1 – Marketing
+- Friday Sept. 2 – Strategy
 
-<!---After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. --->
+When you apply to the Team, you may apply to 2 departments.  You MUST attend those departments presentation days to be considered. 
 
+For example – if you are most interested in Marketing and Strategy, you **must** attend Thursday (Marketing) and Friday (Strategy) of Narweek. 
 
-<!-- VIRTUAL Intro Day/NarWeek blurb
-If you are interested in joining the team, come to our **Intro Day** on **September 18th at 3:15pm**!  On Intro Day, new members will get a chance to virtually meet veteran members and each other to learn all about our team—from our culture to the work we do in each of our divisions. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together. **NarWeek** will run from **September 21th - 25th at 3:15pm** every day, and allow members to get a more extensive introduction to what each of our five divisions do (Mechanical, Controls, Business, Marketing, and Strategy). If you're interested in coming, fill out [this form](http://eepurl.com/hbg-of) and we'll email you more details soon!
--->
+**To join Team 3128:**
+- Be a current student at CCA
+- Attend **Intro Day** on **August 26th at 3:30pm in the Robotics Workshop**
+- Attend **Narweek (Aug 29 – Sept. 2)** for the departments that interest you
+    - To join any department, you must have attended their Narweek presentation day.
+- Be sure you can meet the time commitment
+- **Fill out an application**, choosing your top 2 departments
 
-<!-- General/In-Person Post-ID/NW blurb
-That said, do not worry if you are joining the team after Intro Day and NarWeek! Simply stop by the workshop on one of our meeting days (Mondays, Thursdays, and Fridays after school), find one of our student leaders or mentors, and we will get you started on everything you need to know.
--->
+#### Applications open on Wednesday, August 31 at 5:00 PM.
+#### Applications close on Friday, September 2 at 11:30 PM.  
+#### **No late applications will be accepted.**
 
-<!--
-The process for getting registered with the team is currently being updated, and we will walk you through how to do it once robotics starts back up for the 2019 - 2020 season. The steps for registration will be available in September.
--->
-
-<!-- **IMPORTANT**
 <br>
-Right now, applications are only open to **returning members**. If your name is not on the returning members roster, please do not apply to the team as of now. Missed the returning members application? Do not fret, you can still apply as a new member after Narweek.
+Acceptance emails will be sent on Sunday, September 4 at 5 PM.
+- If accepted, your email will list required rostering stuff with a DUE DATE.
+- If those items are NOT complete by the due date, your acceptance will be rescinded, and that spot will be offered to another student.
 
-Are you sure you're part of the team for the 2021-2022 school year?
-Review the steps below to make sure that you have done everything required to be an official member of Team 3128! -->
-
-Due to limited space on the Team, we have moved to an application system for new members.  Please remember that attendance at all training sessions, and most team meetings, is mandatory.  See our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
-
-#### **Joining Team 3128 is a large time commitment.** Departments are expected to meet 3 times a week and all members must attend **at least 75% of all meetings**.<br><br>
+#### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sunday) meetings January – April.**
+- All members must attend at least 75% of all meetings.  
+- See our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
 
 <!---
 Applications are out! To become a part of our team, just follow the steps below:
@@ -99,30 +103,19 @@ That's why we require all returning members to complete safety training by **Sep
 <!--After that, the only thing left to do is to show up! You can also check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
 -->
 
+**Acceptance criteria for Team 3128:** 
+- Willingness to learn
+- Enthusiasm
+- Ability to communicate
+- Ability to remain calm under pressure
+- Ability to work with other students as a team
+- Time available to meet the commitments of the Robotics competition season 
 
-<!-- <h2><a id="reopening"></a>Robotics Reopening Plan</h2>
-### Starting Nov. 2020 
-Some extracurriculars are allowed to reopen on the CCA campus starting November 2020.  This includes Robotics, meaning that you can come to the Robotics Workshop on the CCA campus (even if you are still in Distance Learning for school).  This is completely optional, and you can be a full member of Team 3128 even if you choose not to come to the Workshop in person.
+These are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
-There are a lot of rules and regulations governing this but if you are interested, please talk to your Department Coordinator.  Find out your department’s plans for meeting (when, where) and what “Pods” they are putting together.
+If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! 
 
-In order to be eligible to join a "Pod", you MUST do the following:
-1. **Complete all 5 steps** in the "Join the Team" above to ensure that you are a registered member.
-2. Thoroughly **review the [Team 3128 COVID-19 Safety Plan](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc).**
-3. **Read the CCA [“Health & Safety Agreement”](https://drive.google.com/file/d/10I9Qjs45YUul7zUiLoQeGjVue881V42e/view?usp=sharing)** with a parental unit. Have your parental unit sign the document, then scan (or take a picture of) the signed document and upload to [this form](https://forms.gle/dXTjEs13Cevjfvwe9).
-    * As part of the agreement, you must also review [SDUHSD Reopening Information](https://www.sduhsd.net/Departments/Administrative-Services/Health-Services/Covid-19-Resources/index.html).
-    * Additional steps may have to be followed depending on how reopening proceeds.
-4. If you are in the Mechanical Department, pass the **“Mech & Construction Safety Quiz.”** If you are in the Controls Department, pass the **“Controls & Electrical Safety Quiz.”** Go to the [Safety page](/members/safety) to find the links to these quizzes.  
-  
-Once all signed documents have been received, you may join a Pod (see your Department Coordinator for available Pods) and begin in-person training.
-
-Procedures for entering the workshop, social distancing, sanitizing, etc. are all outlined in the team’s  [“COVID Safety Plan.”](https://docs.google.com/document/d/1PRAlTzHP6b_xbyuxtk17hr1yf7hKAUMhhJHPmvpazGE/edit#heading=h.vbh6w0mxqbwc)
-
-Currently, workshop time priority is given to the Mechanical and Controls departments because they require access to machine tools and the robot.  -->
-**Acceptance criteria for Team 3128:**  Willingness to learn, enthusiasm, ability to communicate and remain calm under pressure, and the time available to meet the commitments of the Robotics competition season are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required.
-Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.<br>
-
-If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! Also, don't forget to follow us on [Instagram](https://www.instagram.com/3128aluminumnarwhals/), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br><br>
+Also, don't forget to follow us on [Instagram](https://www.instagram.com/3128aluminumnarwhals/), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br><br>
 
 ### Finding the Workshop
 Our Workshop is located right under the Learning Commons. There are two ways to get to our workshop:
@@ -135,15 +128,5 @@ Our Workshop is located right under the Learning Commons. There are two ways to 
 </div>
 
 <br>
-## Growing Your Skills
-
-After you’ve signed up, there are lots of different ways to grow your skills:
-
-<img src="/assets/page_photos/members/11.jpg" class="leftimage">
-
-**Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team. <br>
-**Attend Workshops and Classes.** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season. <br>
-**Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.<br>
-**Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).<br>
 
 If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
