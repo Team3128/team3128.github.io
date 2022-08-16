@@ -17,9 +17,9 @@ Coach
 
 
 **Student Leadership**  
-*Kevin Z.*  
+*Shrey G.*  
 President  
-[kevin@team3128.org](mailto:kevin@team3128.org)
+[Shrey@team3128.org](mailto:shrey@team3128.org)
 
 *Mark K.*  
 President  

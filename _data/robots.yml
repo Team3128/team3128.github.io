@@ -10,6 +10,13 @@
 #   weight: 312.8 lbs
 #   speed: 31.28 mph
 #   description: blah blah blah #a cool and nice mini-bio about the robot (i.e. the story of its ideation, any fun anecdotes about construction/design changes, and how well it did)
+- year: 2022
+  game: "RAPID REACT"
+  name: Garrison
+  stats: true
+  dimensions: 22.600” x 24.750” x 44.0909”
+  description: Garrison, named after our beloved mentor, is a small but highly versatile robot. On top of its Falcon 500 tank drive, it houses a robust four-bar intake equipped with a lot of compliant wheels. After intaking, cargo is fed into the hopper by a serializer, where it is then sent to the double Falcon-powered shooter. The adjustable hood allows for cargo to be scored from practically anywhere on the field. Our traversal climber consists of a constant and a dynamic arm equipped with a system of cording and constant force springs. To climb, it pulls itself onto the mid bar, then deploys the second arm at an angle, clasps onto the next bar, pulls up, and hooks onto the next bar. Rinse and repeat. Coming out of the pandemic, this year's simple yet highly effective design led to our first regionals win in team history.
+
 - year: 2021
   game: "INFINITE RECHARGE AT HOME"
   name: Grogu
