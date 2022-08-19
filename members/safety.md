@@ -11,9 +11,9 @@ We work with a lot of cool tools and hardware on our team, and while these enabl
 Note that these steps do not allow you to start using power tools, but these are **required** for entry and use of the workshop. 
 <!--Returning members must complete training **by September 7th, 2020** and new members must complete training **by October 9th, 2020**.
 -->
-1. Review the [FIRST 2021 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2021/2021%20FRC-FTC%20Safety%20Manual.pdf).
+1. Review the [FIRST 2022 Safety Manual](https://drive.google.com/file/d/1UAV5f_dL2HgQZ00X506JGCgBWr7CYyfP/view?usp=sharing).
 2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1gTw1WBlAibeMDqZq60wFhrIeMC9_9V-_CoyP7S0CSsU/edit).
-3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1KFtCwP8C42CqkaYhAYieHBCPWheEuGCgpP0atNEpx8s/edit?usp=sharing).
+3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1pRWr6AOApK8v_nMY2v-HZsA0Xm7eTv6-53pfl-eW5mw/edit?usp=sharing).
 4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube.
 5. Once you are accepted onto the Team, the Basic Safety Quiz will be sent via email. You must pass with an 85% or higher.
 
@@ -34,13 +34,13 @@ If you still need to complete the Mechanical or Controls safety quizzes, contact
 If you have completed all of the steps above but are interested in joining the Mechanical or Controls departments, you will need to view the following presentations and complete their corresponding quizzes. Currently the quizzes are not available to take, but they will be coming soon!
 -->
 
-**Mechanical/Construction Only**
+**Mechanical Only**
 <!--View the 2019-2020 Team 3128 Mech & Construction Safety presentation [here](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
 -->
 
 <!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-1. Review the [2020-2021 Team 3128 Mech & Construction Safety presentation](https://docs.google.com/presentation/d/1LVRR41THx2noiOfLxxRAfZqyvs1mbdJB3hDosAVZk5E/edit?usp=sharing).
+1. Review the [2022-23 Mech Safety Presentation](https://docs.google.com/presentation/d/1LD7KGQlM_jQgYxM1m6rBW2ffe-rqncuY-fBBiA-7x1Q/edit?usp=sharing).
 2. Once you have been accepted into this Department, the Quiz will be sent to you. You must pass with an 85% or higher.
 
 <!--
@@ -54,7 +54,7 @@ Note: You may not use power tools until you pass the department-specific trainin
 
 <!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-1. Review the [2020-2021 Team 3128 Controls/Electrical Safety presentation](https://docs.google.com/presentation/d/1Qxm3neaMVAntKXNACLmRtEv-I_E9r03h-qKy2B8vFT8/edit?usp=sharing).
+1. Review the [2022-23 Controls Safety Presentation](https://docs.google.com/presentation/d/1js4nZPt5gLCxAPoYVgVssadaVWZPXcdCA4qDKvoQjqA/edit?usp=sharing).
 2. Once you have been accepted into this Department, the Quiz will be sent to you. You must pass with an 85% or higher.
 
 <!--
