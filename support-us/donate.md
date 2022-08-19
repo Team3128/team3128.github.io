@@ -80,7 +80,7 @@ San Diego, CA 92130</i>
 ### In-Kind Donation
 For all physical items that you donate (food during Build Season, raw materials, mechanical and electronic components, etc.) the CCA Foundation provides an "In-Kind Donation Form" through which you can claim your tax deduction.
 
-The team's "[wish list](https://www.signupgenius.com/go/70a0a4bacab2ba1f85-sanitizing)" of goods is managed through SignUpGenius. Please add your name to any items you are able to donate. We are currently in need of cleaning and sanitizing products for the workshop.
+<!-- The team's "[wish list](https://www.signupgenius.com/go/70a0a4bacab2ba1f85-sanitizing)" of goods is managed through SignUpGenius. Please add your name to any items you are able to donate. We are currently in need of cleaning and sanitizing products for the workshop. -->
 
 <div>
 <a href="/assets/documents/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf">

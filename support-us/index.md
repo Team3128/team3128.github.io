@@ -36,7 +36,9 @@ Contact Us!
 ## Donate
 If you are a parent or family member of a narwhal, please help us out by donating! Our team needs many resources - electronics, lumber, gearboxes, aluminum, polycarbonate, coaching, travel, to name a few - that we can't get without your support.
 
-Financial donations and direct donations of goods, such as items on our [wish list](https://www.signupgenius.com/go/70a0a4bacab2ba1f85-sanitizing), are all tax-deductible. 
+Financial donations and direct donations of goods are all tax-deductible. 
+
+<!-- Financial donations and direct donations of goods, such as items on our [wish list](https://www.signupgenius.com/go/70a0a4bacab2ba1f85-sanitizing), are all tax-deductible.  -->
 
 We request donations from every family in order to continue our mission to create a unique learning environment for our members.
 <div>
