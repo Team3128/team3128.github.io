@@ -9,6 +9,51 @@
 #   title: Head of Mechtrols #this is the title that the person has. if the person is a leader, it should be <something> Coordinator; if the person is a mentor, it should be their role (i.e. Lead Mentor) and/or their department(s)
 #   blurb: blah blah blah #a mini-bio about the person
 
+
+ #sub-team leads 
+
+- group: projectleads
+  name: Mihika T.
+  title: Controls Curriculum Lead
+  photo: mihika
+  blurb:
+
+- group: projectleads
+  name: Priyanka S.
+  title: Electrical Lead
+  photo: priyanka1
+  blurb: Priyanka is a rising senior and fourth year member of the team. She has held an active role in the controls department, being the WPILib Redesign lead and curriculum lead in the past two years. She further assists the wiring, programming, and troubleshooting involved in the department. Outside of robotics, you can find her watching sunsets, listening to music, or utterly confused on stack overflow.
+
+- group: projectleads
+  name: Mika O.
+  title: Software Lead
+  photo: mika
+  blurb:
+
+- group: projectleads
+  name: Bowen D.
+  title: Design Lead
+  photo: bowen
+  blurb:
+
+- group: projectleads
+  name: Cynthia L.
+  title: Manufacturing Lead
+  photo: cynthia
+  blurb: Cynthia is a junior and a third year member of the Mechanical department. For the past two years, they were very involved in design throughout the year and helped maintain machinery. Aside from Mechanical endeavours, Cynthia was also a part of drive team and leads website management. When they are not living in the workshop, Cynthia enjoys badminton, playing music, and going down Wikipedia rabbit holes. In this coming season, they hope to keep the workshop from descending into madness.
+
+- group: projectleads
+  name: Maddy S.
+  title: Mechanical Curriculum Lead
+  photo: maddy
+  blurb:
+
+- group: projectleads
+  name: Yubo W.
+  title: Scouting Systems Lead
+  photo: yubo
+  blurb:
+
 #   Mentors
 - group: mentors
   name: Garrison Price
@@ -104,7 +149,8 @@
   name: Shrey G.
   photo: shrey
   title: President
-  blurb: Shrey is a senior and a fourth-year member of the Aluminum Narwhals. They have been a member of the strategy department since freshman year, where they have helped with creating various strategies, training new members, leading the game design project team, and making lots of waffles. They have also been a member of drive team as secondary driver for two years. Outside of robotics, Shrey enjoys playing the keytar, doing research, playing lots of video games (especially rhythm games), and listening to cool music. This year, they look forward to transitioning the strategy department back to in person meetings, welcoming new members to the department, and developing new scouting systems.
+  blurb: Shrey is a senior and a fourth-year member of the Aluminum Narwhals. He has been a member of the strategy department since freshman year, where he has helped with strategizing, member training, scouting system development, game design, and waffle production. He served as the strategy department coordinator during his junior year. Shrey has also been a member of drive team, serving as the secondary driver for two years. Outside of robotics, Shrey enjoys playing the keytar, doing research, playing lots of video games (especially rhythm games), and listening to and creating cool music. This year, Shrey is excited to serve as president and hopes to expand the outreach initiatives of the team and make the team even more connected.
+
 
 - group: leaders
   name: Aryav A.
@@ -134,49 +180,6 @@
   name: Aidan R.
   title: Strategy Coordinator
   photo: aidan
-  blurb: Aidan is a junior, a member of the Strategy department, and has been on the team since he was a freshman. In his first year, he worked on a variety of projects, with an emphasis on the game design project. He was also a member of drive team. Outside of robotics, he enjoys playing video games (a very original hobby), reading, writing, working out, and practicing martial arts. Now, he's eager to organize the curriculum and teach new members about the ins and outs of Strategy! Outside of robotics, he enjoys video games (a very original hobby), reading, working out, and practicing martial arts (Muay Thai and Kali).
+  blurb: Aidan is a junior, a member of the Strategy department, and has been on the team since he was a freshman. In his first year, he worked on a variety of projects, with an emphasis on the game design project. He was also a member of drive team. Now, he's eager to organize the curriculum and teach new members about the ins and outs of Strategy! Outside of robotics, he enjoys video games (a very original hobby), reading, working out, and practicing martial arts (Muay Thai and Kali).
 
  
- #sub-team leads 
-
-- group: projectleads
-  name: Mihika T.
-  title: Controls Curriculum Lead
-  photo: mihika
-  blurb:
-
-- group: projectleads
-  name: Priyanka S.
-  title: Electrical Lead
-  photo: priyanka1
-  blurb: Priyanka is a rising senior and fourth year member of the team. She has held an active role in the controls department, being the WPILib Redesign lead and curriculum lead in the past two years. She further assists the wiring, programming, and troubleshooting involved in the department. Outside of robotics, you can find her watching sunsets, listening to music, or utterly confused on stack overflow.
-
-- group: projectleads
-  name: Mika O.
-  title: Software Lead
-  photo: mika
-  blurb:
-
-- group: projectleads
-  name: Bowen D.
-  title: Design Lead
-  photo: bowen
-  blurb:
-
-- group: projectleads
-  name: Cynthia L.
-  title: Manufacturing Lead
-  photo: cynthia
-  blurb:
-
-- group: projectleads
-  name: Maddy S.
-  title: Mechanical Curriculum Lead
-  photo: maddy
-  blurb:
-
-- group: projectleads
-  name: Yubo W.
-  title: Scouting Systems Lead
-  photo: yubo
-  blurb:
