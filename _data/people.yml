@@ -108,13 +108,13 @@
 
 - group: leaders
   name: Aryav A.
-  photo: jessica
+  photo: aryav
   title: Business Coordinator
   blurb: 
 
 - group: leaders
   name: Cathy K.
-  photo: 
+  photo: cathy
   title: Controls Coordinator
   blurb: 
 
@@ -126,7 +126,7 @@
 
 - group: leaders
   name: Brittain B.
-  photo:
+  photo: brittain
   title: Mechanical Coordinator
   blurb:
 
@@ -142,41 +142,41 @@
 - group: projectleads
   name: Mihika T.
   title: Controls Curriculum Lead
-  photo:
+  photo: mihika
   blurb:
 
 - group: projectleads
   name: Priyanka S.
   title: Electrical Lead
-  photo: priyanka
+  photo: priyanka1
   blurb: Priyanka is a rising senior and fourth year member of the team. She has held an active role in the controls department, being the WPILib Redesign lead and curriculum lead in the past two years. She further assists the wiring, programming, and troubleshooting involved in the department. Outside of robotics, you can find her watching sunsets, listening to music, or utterly confused on stack overflow.
 
 - group: projectleads
   name: Mika O.
   title: Software Lead
-  photo:
+  photo: mika
   blurb:
 
 - group: projectleads
   name: Bowen D.
   title: Design Lead
-  photo:
+  photo: bowen
   blurb:
 
 - group: projectleads
   name: Cynthia L.
   title: Manufacturing Lead
-  photo:
+  photo: cynthia
   blurb:
 
 - group: projectleads
   name: Maddy S.
   title: Mechanical Curriculum Lead
-  photo:
+  photo: maddy
   blurb:
 
 - group: projectleads
   name: Yubo W.
   title: Scouting Systems Lead
-  photo:
+  photo: yubo
   blurb:
