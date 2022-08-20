@@ -113,7 +113,9 @@ That's why we require all returning members to complete safety training by **Sep
 
 These are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
-If you have any questions, feel free to contact our [student leaders](/about/leaders/) for more information! 
+If you have any questions, feel free to contact our [student leaders](/about/leaders/) or email info@team3128.org for more information!
+
+Please do NOT use your student email (xxxx@my.sduhsd.net) to contact Team 3128. Your school email rejects all emails from outside the school, so we cannot reply or contact you.
 
 Also, don't forget to follow us on [Instagram](https://www.instagram.com/3128aluminumnarwhals/), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)! <br><br>
 
