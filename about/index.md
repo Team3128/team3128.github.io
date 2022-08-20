@@ -20,8 +20,8 @@ permalink: /about/
   </tr>
 </table>
 
-<img src="/assets/page_photos/about/newton2018.jpg" class="centerimage">
-Team 3128, Newton Field Finalists, 2018 FRC World Championships in Houston, Texas
+<img src="/assets/page_photos/about/sandiego2022.png" class="centerimage">
+Team 3128, Regional Winners, 2022 San Diego Regional, CA
 
 ### Our History
 Our team was founded in September of 2009 at Canyon Crest Academy in San Diego, California, at a school where math, science, and technology were valued, but hadn’t found a way to be manifested yet. A handful of students, one engineering mentor, and a computer programming teacher felt those values were important – and thus the Aluminum Narwhals were born.
