@@ -71,12 +71,12 @@
   name: Pat Maynard
   photo: pat
   title: Strategy
-  blurb: Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.
+  blurb: 'Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.'
 
 - group: mentors
   name: Lisa Saam
   title: Mechanical
-  blurb: 
+  blurb: Lisa is Vice President-Projects at ATA Engineering – an engineering services company – where she has worked for more than two decades doing analysis-driven mechanical design of structures ranging from satellites and launch vehicles to theme park attractions and aerospace ground support equipment. She received her M.S. in Structural Engineering from Cornell University, B.S. in Engineering from Harvey Mudd College, and B.A. in Management–Engineering from Claremont McKenna College. Lisa supports Team 3128 with parent communication, travel, and looks forward to working more with the mechanical department. In her spare time, she enjoys hiking, camping, yoga, and beach picnics.
 
 - group: mentors
   name: Paul Saam
@@ -90,11 +90,13 @@
 
 - group: mentors
   name: Sylvia Chan
+  title: Liason
   blurb: 
 
 - group: mentors
   name: Anna Lee
-  blurb: 
+  title: Liason
+  blurb: Anna Lee was born in Seoul, Korea and grew up in Duesseldorf, Germany. She graduated from Brown University with degree in Biology. She then did some graduate work at Johns Hopkins School of Public Health. 
   
 - group: mentors
   name: Peter Fitzgibbons
