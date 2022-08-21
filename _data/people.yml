@@ -16,19 +16,19 @@
   name: Mihika T.
   title: Controls Curriculum Lead
   photo: mihika
-  blurb:
+  blurb: Mihika is a third year member of the Aluminum Narwhals and a junior at CCA. She joined the controls department in freshmen year to learn more about programming and wiring and has participated in various wiring and programming projects since. As the controls curriculum lead, Mihika oversees the creation and teaching of curriculum for new members. She also continues to participate in department projects. In her free time, Mihika enjoys swimming, playing piano, reading, and hiking. 
 
 - group: projectleads
   name: Priyanka S.
   title: Electrical Lead
   photo: priyanka1
-  blurb: Priyanka is a rising senior and fourth year member of the team. She has held an active role in the controls department, being the WPILib Redesign lead and curriculum lead in the past two years. She further assists the wiring, programming, and troubleshooting involved in the department. Outside of robotics, you can find her watching sunsets, listening to music, or utterly confused on stack overflow.
-
+  blurb: Priyanka is a senior and been a member of the controls department since she was a freshman. She began in both marketing and controls, but after learning how to strip and connect wires one day in the workshop, she transitioned fully to controls in hopes of learning more about robot code as well as wiring. Priyanka makes executive electrical decisions regarding the robot(s), as well as answering questions about and teaching the ins and outs of wiring to her fellow members. She also helps with the programming of the robot, and has coded multiple subsystems. At competitions, she mostly troubleshoots hardware issues, dabbling in potential logic issues in the code as well. In her free time, Priyanka loves watching the sunrise, writing, and working out.
+  
 - group: projectleads
   name: Mika O.
   title: Software Lead
   photo: mika
-  blurb:
+  blurb: Mika is a senior and fourth year Controls Narwhal. She works on programming and wiring robots for various tasks from using computer vision to detect targets to calculating the optimal angle and speed to score a ball. Outside of robotics, she enjoys reading, playing video games, solving puzzles, and working on other programming projects. She is looking forward to meeting and teaching all the new members, as well as working on some fun projects (swerve???)
 
 - group: projectleads
   name: Bowen D.
@@ -52,7 +52,7 @@
   name: Yubo W.
   title: Scouting Systems Lead
   photo: yubo
-  blurb:
+  blurb: Yubo is a senior and a 4th year member of the team. He joined Strategy in his freshmen year, and has worked on 3128s Scouting system and Database. Outside of robotics, Yubo is one of our team’s resident waffle enjoyers and enjoys reading, rhythm gaming, cats, playing piano, and tennis outside of school. In the upcoming season, Yubo hopes to change our scouting methods and improve our Database. 
 
 #   Mentors
 - group: mentors
@@ -71,28 +71,34 @@
   name: Pat Maynard
   photo: pat
   title: Strategy
-  blurb: 'Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.'
+  blurb: Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.
 
 - group: mentors
   name: Lisa Saam
   title: Mechanical
+  blurb: 
 
 - group: mentors
   name: Paul Saam
   title: Business
+  blurb: 
 
 - group: mentors
   name: Fred Chen
   title: Controls
+  blurb: 
 
 - group: mentors
   name: Sylvia Chan
+  blurb: 
 
 - group: mentors
   name: Anna Lee
+  blurb: 
   
 - group: mentors
   name: Peter Fitzgibbons
+  blurb: 
 
 #- group: mentors
 #  name: Raylen Li 
@@ -143,7 +149,7 @@
   name: Mark K.
   title: President
   photo: mark
-  blurb: Mark is a fourth year member of team 3128 and a Senior at CCA. Within the strategy and  mechanical departments Mark has served as Primary Driver and in 2020, leader of the STR Subsystem. Mark’s passion for engineering reaches outside of the team where you can find him 3D-Printing all sorts of mechanisms in his spare time. Truthfully, It’s surprising Mark can make time for the team at all considering his intense waffle and LaCroix promotional obligations. All in all, Mark is extraordinarily excited to help lead the team this year and promises to not drive the robot into any more tables.
+  blurb: Mark is a fourth year member of team 3128 and a Senior at CCA. Within the strategy and  mechanical departments Mark has served as Primary Driver and in 2020, leader of the STR Subsystem. Mark’s passion for engineering reaches outside of the team where you can find him 3D-Printing all sorts of mechanisms in his spare time. Truthfully, it’s surprising Mark can make time for the team at all considering his intense waffle and LaCroix promotional obligations. All in all, Mark is extraordinarily excited to help lead the team this year and promises to not drive the robot into any more tables.
 
 - group: leaders
   name: Shrey G.
@@ -180,6 +186,5 @@
   name: Aidan R.
   title: Strategy Coordinator
   photo: aidan
-  blurb: Aidan is a junior, a member of the Strategy department, and has been on the team since he was a freshman. In his first year, he worked on a variety of projects, with an emphasis on the game design project. He was also a member of drive team. Now, he's eager to organize the curriculum and teach new members about the ins and outs of Strategy! Outside of robotics, he enjoys video games (a very original hobby), reading, working out, and practicing martial arts (Muay Thai and Kali).
-
+  blurb: Aidan is a junior and a third-year member of the team’s Strategy Department. Throughout his time on the team, Aidan has worked on a variety of projects, and was the Project Lead for Strategy’s Curriculum in his sophomore year. He’s always been an active member of Strategy and contributes to the department in any way he can. This year, Aidan’s looking forward to helping Strategy adapt to a new competition layout, and welcoming new members. In his free time, he enjoys working out, reading, learning new languages, and practicing Muay Thai or boxing.
  
