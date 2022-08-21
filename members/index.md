@@ -45,7 +45,7 @@ Acceptance emails will be sent on Sunday, September 4 at 5 PM.
 
 #### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sunday) meetings January – April.**
 - All members must attend at least 75% of all meetings.  
-- See our [Team Handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit) for full information.
+- See our [Team Handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for full information.
 
 <!---
 Applications are out! To become a part of our team, just follow the steps below:
