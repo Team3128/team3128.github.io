@@ -1,7 +1,7 @@
 ---
 layout: resource_page
 title: Resources
-subtitle: Championship Forms
-category: championship
+subtitle: General
+category: info
 permalink: /resources/
 ---

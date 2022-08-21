@@ -21,7 +21,31 @@
      permalink: /about/first/
    - title: Our Website
      permalink: /about/website/
-     
+
+- title: Members
+  permalink: /members/
+  subpages:
+   - title: Getting Started
+     permalink: /members/
+   - title: Frequently Asked Questions
+     permalink: /members/faq/
+   - title: Calendar
+     permalink: /members/calendar/
+  #  - title: Workshop Hours
+  #    permalink: /members/hours/
+   - title: Safety
+     permalink: /members/safety/
+  # - title: Robotics During COVID-19
+   #  permalink: /members/covid19/
+   - title: Team Leadership
+     permalink: /members/leadership/
+   #- title: Project Leaders
+   #  permalink: /members/project-leads/
+   - title: Important Dates
+     permalink: /members/important-dates/
+   - title: Donate
+     permalink: /support-us/donate/
+       
 - title: Sponsors
   permalink: /sponsors/
     
@@ -47,37 +71,13 @@
 - title: Blog
   permalink: /blog/
 
-- title: Members
-  permalink: /members/
-  subpages:
-   - title: Getting Started
-     permalink: /members/
-   - title: Frequently Asked Questions
-     permalink: /members/faq/
-   - title: Calendar
-     permalink: /members/calendar/
-  #  - title: Workshop Hours
-  #    permalink: /members/hours/
-   - title: Safety
-     permalink: /members/safety/
-  # - title: Robotics During COVID-19
-   #  permalink: /members/covid19/
-   - title: Team Leadership
-     permalink: /members/leadership/
-   #- title: Project Leaders
-   #  permalink: /members/project-leads/
-   - title: Important Dates
-     permalink: /members/important-dates/
-   - title: Donate
-     permalink: /support-us/donate/
-
 - title: Resources
   permalink: /resources/
   subpages:
-  - title: Championship Forms
-    permalink: /resources/
+#  - title: Championship Forms
+#    permalink: /resources/championship
   - title: Team Information
-    permalink: /resources/info/
+    permalink: /resources/
   - title: Branding
     permalink: /resources/branding/
   - title: Technical

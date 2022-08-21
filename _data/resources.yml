@@ -16,11 +16,11 @@
 #   link: /resources/201617Demographics.pdf
 #   description: A brief look at the composition of Canyon Crest Academy and our team.
 
-- name: IRS Letter of Determination
-  category: info
-  type: pdf
-  link: /resources/IRSLetterofDetermination.pdf
-  description: The official letter from the Internal Revenue Service that certifies Team 3128&#58; Aluminum Narwhals as a non-private, 501(c)(3) organization.
+#- name: IRS Letter of Determination
+#  category: info
+#  type: pdf
+#  link: /resources/IRSLetterofDetermination.pdf
+#  description: The official letter from the Internal Revenue Service that certifies Team 3128&#58; Aluminum Narwhals as a non-private, 501(c)(3) organization.
 
 # - name: Mechanical Department Training
 #   category: info
@@ -33,12 +33,17 @@
 #   type: link
 #   link: 
 #   description: The safety training presentation for the controls department.
-- name: Parent Info Night 
+# - name: Parent Info Night 
+#   category: info
+#   type: link
+#   link: https://docs.google.com/presentation/d/1Bfxi1IMxTQ-Oio1klFpzVsyv8czBfIgeRORGaaUGJ0c/edit#slide=
+#   description: The link to the Parent Information Night Presentation
+- name: 2022-2023 Handbook
   category: info
   type: link
-  link: https://docs.google.com/presentation/d/1Bfxi1IMxTQ-Oio1klFpzVsyv8czBfIgeRORGaaUGJ0c/edit#slide=
-  description: The link to the Parent Information Night Presentation
-  
+  link: https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing
+  description: The link to the 2022-2023 Team 3128 handbook.
+ 
 - name: FAQ Page
   category: info
   type: link
@@ -51,17 +56,17 @@
   link: http://team3128.org/members/calendar/
   description: The calendar contains information about team meetings and important events.
 
-- name: Mentors
-  category: info
-  type: link
-  link: http://team3128.org/about/mentors/
-  description: Get to know our amazing mentors!
+# - name: Mentors
+#   category: info
+#   type: link
+#   link: http://team3128.org/about/mentors/
+#   description: Get to know our amazing mentors!
 
-- name: Leaders
-  category: info
-  type: link
-  link: http://team3128.org/about/leaders/
-  description: Get to know our amazing student leaders!
+# - name: Leaders
+#   category: info
+#   type: link
+#   link: http://team3128.org/about/leaders/
+#   description: Get to know our amazing student leaders!
 
 
 - name: Team 3128 Brand Standard
