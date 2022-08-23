@@ -38,9 +38,9 @@
 
 - group: projectleads
   name: Cynthia L.
-  title: Manufacturing Lead
+  title: Manufacturing Lead, Website Lead
   photo: cynthia
-  blurb: Cynthia is a junior and a third year member of the Mechanical department. For the past two years, they were very involved in design throughout the year and helped maintain machinery. Aside from Mechanical endeavours, Cynthia was also a part of drive team and leads website management. When they are not living in the workshop, Cynthia enjoys badminton, playing music, and going down Wikipedia rabbit holes. In this coming season, they hope to keep the workshop from descending into madness.
+  blurb: Cynthia is a junior and a third year member of the Mechanical department. For the past two years, they were very involved in and helped maintain machinery. Aside from Mechanical endeavours, Cynthia was also a part of drive team and leads website management. When they are not living in the workshop, Cynthia enjoys badminton, playing music, stargazing, and going down Wikipedia rabbit holes. In this coming season, they hope to keep the workshop from descending into madness.
 
 - group: projectleads
   name: Maddy S.
@@ -53,7 +53,12 @@
   title: Scouting Systems Lead
   photo: yubo
   blurb: Yubo is a senior and a 4th year member of the team. He joined Strategy in his freshmen year, and has worked on 3128s Scouting system and Database. Outside of robotics, Yubo is one of our team’s resident waffle enjoyers and enjoys reading, rhythm gaming, cats, playing piano, and tennis outside of school. In the upcoming season, Yubo hopes to change our scouting methods and improve our Database. 
-  
+
+- group: projectleads
+  name: Inchara J.
+  title: Website Co-Lead
+  photo: inchara
+  blurb: "Inchara is a junior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy."
 #   Mentors
 - group: mentors
   name: Garrison Price
@@ -182,7 +187,7 @@
   name: Brittain B.
   photo: brittain
   title: Mechanical Coordinator
-  blurb:
+  blurb: Brittain is a senior and a fourth year member of the mechanical department. Brittain has helped with safety and new member training, as well as served as the Hopper subsystem lead for the 2022 season. She enjoys designing different aspects of the robot, as well as helping new members feel welcome. Outside of the team, Brittain enjoys dancing, volunteering at church, playing the euphonium and the piano, and working as a host at a pizza restaurant. Brittain is excited to build a swerve drive and make every member of her department feel welcome. 
 
 - group: leaders
   name: Aidan R.
