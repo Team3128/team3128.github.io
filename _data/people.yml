@@ -16,7 +16,7 @@
   name: Mihika T.
   title: Controls Curriculum Lead
   photo: mihika
-  blurb: Mihika is a third year member of the Aluminum Narwhals and a junior at CCA. She joined the controls department in freshmen year to learn more about programming and wiring and has participated in various wiring and programming projects since. As the controls curriculum lead, Mihika oversees the creation and teaching of curriculum for new members. She also continues to participate in department projects. In her free time, Mihika enjoys swimming, playing piano, reading, and hiking. 
+  blurb: Mihika is a third year member of the Aluminum Narwhals and a junior at CCA. She joined the controls department in freshmen year to learn more about programming and wiring and has participated in various wiring and programming projects since. As the controls curriculum lead, Mihika oversees the creation and teaching of curriculum for new members. In her free time, Mihika enjoys swimming, playing piano, reading, and hiking. This year, she looks forward to meeting all the new members and work on some new and exciting projects!
 
 - group: projectleads
   name: Priyanka S.
@@ -53,6 +53,12 @@
   title: Scouting Systems Lead
   photo: yubo
   blurb: Yubo is a senior and a 4th year member of the team. He joined Strategy in his freshmen year, and has worked on 3128s Scouting system and Database. Outside of robotics, Yubo is one of our team’s resident waffle enjoyers and enjoys reading, rhythm gaming, cats, playing piano, and tennis outside of school. In the upcoming season, Yubo hopes to change our scouting methods and improve our Database. 
+  
+ - group: projectleads
+   name: Inchara J.
+   title: Website Co-Lead
+   photo:
+   blurb: "Inchara is a junior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy."
 
 #   Mentors
 - group: mentors
@@ -81,7 +87,7 @@
 - group: mentors
   name: Paul Saam
   title: Liaison
-  blurb: 
+  blurb: Paul has a B.S. in Engineering from Harvey Mudd College. He worked as a medical device engineer for two startups, driving them both out of business, before deciding to obtain his MBA at Duke University. He has spent the last 17 years working in Business Development for Zimmer Biomet, a global orthopedics company. He works primarily with the Business team, supporting the Robotics Summer Camp and acts as a liaison with the Canyon Crest Academy Foundation.
 
 - group: mentors
   name: Fred Chen
@@ -90,13 +96,13 @@
 
 - group: mentors
   name: Sylvia Chan
-  title: Liason
+  title: Liaison
   blurb: 
 
 - group: mentors
   name: Anna Lee
-  title: Liason
-  blurb: Anna Lee was born in Seoul, Korea and grew up in Duesseldorf, Germany. She graduated from Brown University with degree in Biology. She then did some graduate work at Johns Hopkins School of Public Health. 
+  title: Liaison
+  blurb: Anna Lee was born in Seoul, Korea and grew up in Duesseldorf, Germany. She graduated from Brown University with degree in Biology. She then did some graduate work at Johns Hopkins School of Public Health. She loves to travel, cook, and collect LEGO sets. 
   
 - group: mentors
   name: Peter Fitzgibbons
@@ -164,13 +170,13 @@
   name: Aryav A.
   photo: aryav
   title: Business Coordinator
-  blurb: 
+  blurb: Aryav Agarwal is a senior who has been on the team since his freshmen year. He is currently the Business coordinator and the lead for finances. The Narwhals is a great team with an amazing culture that has grown on him greatly over the past four years. Outside of robotics, he is a Chargers fan who loves business, computer science, football, and the beach.
 
 - group: leaders
   name: Cathy K.
   photo: cathy
   title: Controls Coordinator
-  blurb: Cathy is a 4th year member of team 3128 and currently a Senior. Cathy has been a member of the Controls department since freshman year where she lead the intake subsystem. Cathy enjoys the wiring aspect of Controls and loves to involve herself in robotics. In her free time, Cathy loves to surf, listen to music, and go on adventures with her friends. This season, Cathy is excited to lead the Controls department to better teamwork and collaboration!
+  blurb: Cathy is a 4th year member of team 3128 and currently a Senior. Cathy has been a member of the Controls department since freshman year where she led the intake subsystem. Cathy enjoys the wiring aspect of Controls and loves to involve herself in robotics. In her free time, Cathy loves to surf, listen to music, and go on adventures with her friends. This season, Cathy is excited to lead the Controls department to better teamwork and collaboration!
 
 - group: leaders
   name: Emma C.
