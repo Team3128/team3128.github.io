@@ -33,6 +33,7 @@ For example – if you are most interested in Marketing and Strategy, you **must
     - To join any department, you must have attended their Narweek presentation day.
 - Be sure you can meet the time commitment
 - **Fill out an application**, choosing your top 2 departments
+- *If you email us from your ----@my.sduhsd.net school email, we cannot respond.   All emails from outside my.sdhusd.net are blocked.*
 
 #### Applications open on Wednesday, August 31 at 5:00 PM.
 #### Applications close on Friday, September 2 at 11:30 PM.  
