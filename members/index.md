@@ -42,6 +42,7 @@ For example – if you are most interested in Marketing and Strategy, you **must
 Acceptance emails will be sent on Sunday, September 4 at 5 PM.
 - If accepted, your email will list required rostering stuff with a DUE DATE.
 - If those items are NOT complete by the due date, your acceptance will be rescinded, and that spot will be offered to another student.
+- If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.
 
 #### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sunday) meetings January – April.**
 - All members must attend at least 75% of all meetings.  
