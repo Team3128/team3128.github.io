@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-If you would like to contact us, you may email us at [info@team3128.org](mailto:info@team3128.org)
+If you would like to contact us, you may email us at [info@team3128.org](mailto:info@team3128.org) *If you email us from your ----@my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
 **Coaches**  
 *Garrison Price*  
