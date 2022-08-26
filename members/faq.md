@@ -31,15 +31,15 @@ We meet in the Robotics Workshop, which is the gated area right next to the Nest
 
 **Is it mandatory that I be at every meeting?**
 
-Yes.  You are expected to attend the weekly All-Team meeting and your department meetings.  Assume your department meetings are mandatory - if they are optional, your Department Coordinator will announce that in advance.  All training meetings are mandatory as well.  Please see our handbook for more information.
+Yes.  You are expected to attend the weekly All-Team meeting and your department meetings.  Assume your department meetings are mandatory - if they are optional, your Department Coordinator will announce that in advance.  All training meetings are mandatory as well.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
 
 **Is it mandatory that I stay for the entire meeting?**
 
-Yes.  Please see our handbook for more information.
+Yes.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
 
 **I have a fall sport. Can I be involved?**
 
-If you can manage the time commitment of the Robotics Team and a Sport - yes.  If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  Please see our handbook for more information.
+If you can manage the time commitment of the Robotics Team and a Sport - yes.  If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
 
 <!--
 **I have a sport during competition season. Can I get involved during Fall/Spring?**
