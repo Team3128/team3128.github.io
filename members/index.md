@@ -36,7 +36,7 @@ For example – if you are most interested in Marketing and Strategy, you **must
 - *If you email us from your ----@my.sduhsd.net school email, we cannot respond.   All emails from outside my.sdhusd.net are blocked.*
 
 #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
-#### Applications close on Friday, September 2 at 11:30 PM.  
+#### Applications close on Friday, September 2 at 11:59 PM.  
 #### **No late applications will be accepted.**
 
 <br>
