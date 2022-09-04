@@ -9,7 +9,7 @@ redirect_from:
  - members
 ---
 
-### **How to Join the FRC Robotics Team**
+<!--- ### **How to Join the FRC Robotics Team**
 <br>
 Team 3128 “The Aluminum Narwhals” accepts applications in early Fall only.  Our Robotics recruitment event is called “Narweek”.  
 
@@ -56,15 +56,15 @@ Applications are out! To become a part of our team, just follow the steps below:
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
 3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate. -->
 
-<!--- Applications past blurb
-Team member applications and selection are complete for the 2021-2022 school year. 
+
+Team member applications and selection are complete for the 2022-2023 school year. 
 We had many more applicants than spots available, and selection was extremely difficult. <br>
 
-If you applied, emails with acceptance/rejection were sent out the evening of Sunday, Sept. 27, 2021. <br>
+If you applied, emails with acceptance/rejection will be sent out at 5:00 PM on **Sunday, Sept. 4, 2022**. <br>
 
-If you applied, but did not receive an email response on Sept. 27 - please contact the Team at [info@team3128.org](mailto:info@team3128.org). <br>
+If you applied, but did not receive an email response on Sept. 4 - please contact the Team at [info@team3128.org](mailto:info@team3128.org). <br>
 
-If you received an acceptance email, it included instructions for items that must be completed by Thursday Sept. 30 2021 (midnight), to be rostered with the Team. 
+If you received an acceptance email, it included instructions for items that must be completed by **Wednesday Sept. 7, 2022 (midnight)**, to be rostered with the Team. 
 If any prospective member fails to complete rostering by that date, we will assume they are no longer interested, and move on to any waitlisted candidates.
 --->
 
@@ -113,7 +113,7 @@ That's why we require all returning members to complete safety training by **Sep
 - Ability to work with other students as a team
 - Time available to meet the commitments of the Robotics competition season 
 
-These are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
+These were the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
 If you have any questions, feel free to contact our [student leaders](/about/leaders/) or email info@team3128.org for more information!
 
