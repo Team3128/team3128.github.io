@@ -64,9 +64,8 @@ If you applied, emails with acceptance/rejection will be sent out at 5:00 PM on 
 
 If you applied, but did not receive an email response on Sept. 4 - please contact the Team at [info@team3128.org](mailto:info@team3128.org). <br>
 
-If you received an acceptance email, it included instructions for items that must be completed by **Wednesday Sept. 7, 2022 (midnight)**, to be rostered with the Team. 
+If you received an acceptance email, it included instructions for items that must be completed by **Wednesday Sept. 7, 2022 at 8 PM**, to be rostered with the Team. 
 If any prospective member fails to complete rostering by that date, we will assume they are no longer interested, and move on to any waitlisted candidates.
---->
 
 
 <!-- GENERAL/In-Person Post-ID/NEW Blurb
