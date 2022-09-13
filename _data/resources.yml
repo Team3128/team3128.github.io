@@ -43,6 +43,12 @@
   type: link
   link: https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing
   description: The link to the 2022-2023 Team 3128 handbook.
+
+- name: Parent Night Presentation
+  category: info
+  type: link
+  link: https://docs.google.com/presentation/d/1EW138TwTZTXDADC80z4mK3dqSuXFk0ysIIk-AYGfjy4/edit#slide=id.p
+  description: The link to the Parent Night slide deck.
  
 - name: FAQ Page
   category: info
