@@ -7,12 +7,39 @@
    link: https://dodstem.us
 
 # 2022/2023 Sponsor
+ - level: Gold
+   name: NASA
+   description: The National Aeronautics and Space Administration is global leading space agency for civil space program, aeronautics research, and space exploration.
+   logo: /assets/sponsorlogos/NASA.png
+   link: https://www.nasa.gov/
+
+# 2022/2023 Sponsor
  - level: Silver
    name: Qualcomm
    description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
    logo: /assets/sponsorlogos/qualcomm.png
    link: http://qualcomm.com
   
+# 2022/2023 Sponsor
+ - level: Silver
+   name: Solectek Corp
+   description: Solectek Corp is an American company on the forefront of improving wireless communication.
+   logo: /assets/sponsorlogos/solectek.png
+   link: https://www.solectek.com/
+
+# 2022/2023 Sponsor
+- level: Silver
+  name: Gene Haas
+  description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
+  logo: /assets/sponsorlogos/genehaas.png
+  link: https://ghaasfoundation.org/
+
+# 2022/2023 sponsor
+  - level: Silver
+    name: Adaptive Sensory Systems
+    logo: /assets/sponsorlogos/ast.png
+    link: https://www.adaptivesensorytech.com/
+
 # 2022/2023 Sponsor
  - level: Bronze
    name: BAE Systems
@@ -27,30 +54,10 @@
    logo: /assets/sponsorlogos/teconnectivity.png
    link: https://www.te.com/usa-en/home.html
 
-# 2022/2023 Sponsor
- - level: Silver
-   name: Solectek Corp
-   description: Solectek Corp is an American company on the forefront of improving wireless communication.
-   logo: /assets/sponsorlogos/solectek.png
-   link: https://www.solectek.com/
-  
-# 2022/2023 Sponsor
-- level: Gold
-  name: NASA
-  description: The National Aeronautics and Space Administration is global leading space agency for civil space program, aeronautics research, and space exploration.
-  logo: /assets/sponsorlogos/NASA.png
-  link: https://www.nasa.gov/
-
-  # 2022/2023 sponsor
-  - level: Silver
-    name: Adaptive Sensory Systems
-    logo: /assets/sponsorlogos/ast.png
-    link: https://www.adaptivesensorytech.com/
-
 # 2022/2023 sponsor
 - level: Bronze
   name: Lockheed Martin
-  logo: /assets/sponsorlogos/lockheed.png
+  logo: /assets/sponsorlogos/lockheedmartin.png
   link: https://www.lockheedmartin.com/en-us/index.html
   
    # 2021/2022 Sponsor
@@ -79,13 +86,6 @@
 #   description: Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies.
 #   logo: /assets/sponsorlogos/google.png
 #   link: https://www.google.com/
-
-# 2022/2023 Sponsor
-- level: Silver
-  name: Gene Haas
-  description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
-  logo: /assets/sponsorlogos/genehaas.png
-  link: https://ghaasfoundation.org/
 
 # 2019/2020 Sponsor
 # - level: Gold
