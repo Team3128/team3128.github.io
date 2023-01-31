@@ -68,7 +68,7 @@
 - year: 2015
   game: RECYCLE RUSH
   name: The Claw
-  description: Our robot this year was a versatile machine with a really, really large claw. It moved quickly and was able to move and stackt he trash cans with ease. The Claw also had a state of the art autonomous, which dealt with trash cans with ease.
+  description: Our robot this year was a versatile machine with a really, really large claw. It moved quickly and was able to move and stack the trash cans with ease. The Claw also had a state of the art autonomous, which dealt with trash cans with ease.
 
 - year: 2014
   game: AERIAL ASSIST
@@ -93,4 +93,4 @@
 - year: 2010
   game: BREAKAWAY
   name: Fezzik
-  description: As our first robot, we wanted to make a four-wheel arcade drive robot that could elevate itself from the tower bar with a scissor lift, elevate two other robots at the same time, lift 500 pounds on each of the side wings, and move in all possible ways during both teleop and autonomous. It is able to push soccuer balls with its bumpers, withstand impacts, and make itself upright after falling over.
+  description: As our first robot, we wanted to make a four-wheel arcade drive robot that could elevate itself from the tower bar with a scissor lift, elevate two other robots at the same time, lift 500 pounds on each of the side wings, and move in all possible ways during both teleop and autonomous. It is able to push soccer balls with its bumpers, withstand impacts, and make itself upright after falling over.
