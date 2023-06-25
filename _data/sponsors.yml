@@ -27,18 +27,19 @@
    logo: /assets/sponsorlogos/solectek.png
    link: https://www.solectek.com/
 
-# 2022/2023 Sponsor
-- level: Silver
-  name: Gene Haas
-  description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
-  logo: /assets/sponsorlogos/genehaas.png
-  link: https://ghaasfoundation.org/
+   # 2022/2023 Sponsor
+ - level: Silver
+   name: Gene Haas
+   description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
+   logo: /assets/sponsorlogos/genehaas.png
+   link: https://ghaasfoundation.org/
 
-# 2022/2023 sponsor
-  - level: Silver
-    name: Adaptive Sensory Systems
-    logo: /assets/sponsorlogos/ast.png
-    link: https://www.adaptivesensorytech.com/
+# 2022/2023 Sponsor
+ - level: Silver
+   name: Adaptive Sensory Systems
+   description: 
+   logo: /assets/sponsorlogos/ast.png
+   link: https://www.adaptivesensorytech.com/
 
 # 2022/2023 Sponsor
  - level: Bronze
@@ -57,6 +58,7 @@
 # 2022/2023 sponsor
 - level: Bronze
   name: Lockheed Martin
+  description: Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology corporation. Its goal is to develop innovative technology and advance the boundaries of science.
   logo: /assets/sponsorlogos/lockheedmartin.png
   link: https://www.lockheedmartin.com/en-us/index.html
   

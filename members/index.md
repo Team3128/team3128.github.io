@@ -9,18 +9,18 @@ redirect_from:
  - members
 ---
 
-<!--- ### **How to Join the FRC Robotics Team**
+- ### **How to Join the FRC Robotics Team**
 <br>
 Team 3128 “The Aluminum Narwhals” accepts applications in early Fall only.  Our Robotics recruitment event is called “Narweek”.  
 
-Narweek begins with **Intro Day** on **Friday August 26, at 3:30 PM in the robotics workshop.**  Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.
+Narweek begins with **Intro Day** on **Friday August 25, at 3:30 PM in the robotics workshop.**  Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.
 
-Starting on Monday August 29, our workshop will open every day at 3:30 PM.  Each department will present on a specific day:
-- Monday Aug. 29 – Mechanical 
-- Tuesday Aug. 30 – Controls
-- Wednesday Aug. 31 – Business
-- Thursday Sept. 1 – Marketing
-- Friday Sept. 2 – Strategy
+Starting on Monday August 28, our workshop will open every day at 3:30 PM.  Each department will present on a specific day:
+- Monday Aug. 28 – Business 
+- Tuesday Aug. 29 – Controls
+- Wednesday Aug. 30 – Marketing
+- Thursday Aug. 31 – Mechanical
+- Friday Sept. 1 – Strategy
 
 When you apply to the Team, you may apply to 2 departments.  You MUST attend those departments presentation days to be considered. 
 
@@ -28,14 +28,14 @@ For example – if you are most interested in Marketing and Strategy, you **must
 
 **To join Team 3128:**
 - Be a current student at CCA
-- Attend **Intro Day** on **August 26th at 3:30pm in the Robotics Workshop**
-- Attend **Narweek (Aug 29 – Sept. 2)** for the departments that interest you
+- Attend **Intro Day** on **August 25th at 3:30pm in the Robotics Workshop**
+- Attend **Narweek (Aug 28 – Sept. 1)** for the departments that interest you
     - To join any department, you must have attended their Narweek presentation day.
 - Be sure you can meet the time commitment
 - **Fill out an application**, choosing your top 2 departments
-- *If you email us from your ----@my.sduhsd.net school email, we cannot respond.   All emails from outside my.sdhusd.net are blocked.*
+- *If you email us from your ----@my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
-#### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
+<!-- #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
 #### Applications close on Friday, September 2 at 11:59 PM.  
 #### **No late applications will be accepted.**
 
@@ -43,7 +43,7 @@ For example – if you are most interested in Marketing and Strategy, you **must
 Acceptance emails will be sent on Sunday, September 4 at 5 PM.
 - If accepted, your email will list required rostering stuff with a DUE DATE.
 - If those items are NOT complete by the due date, your acceptance will be rescinded, and that spot will be offered to another student.
-- If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.
+- If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked. -->
 
 #### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sunday) meetings January – April.**
 - All members must attend at least 75% of all meetings.  
@@ -54,10 +54,10 @@ Applications are out! To become a part of our team, just follow the steps below:
 
 1. Apply to the team through the [form](https://forms.gle/hdZak2tcih2R9Ke38) and review the team [handbook](https://docs.google.com/document/d/1YPFrCkluBmejvq6EDalflJT9G8ow6i4Uo-uvoRCSLjY/edit). Please use an email you check often for your application. All applications are due **September 21th, 11:59 PM**
 2. After applications have closed, our leaders will review them, and you will be notified of your acceptance status via email on **September 27th**.
-3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate. -->
+3. Once you have been accepted, you will receive an email with everything you must complete before you can be added to the team roster. You will have until **October 1st** to complete everything, or else we will assume that you are no longer interested and give your spot to the next candidate.
 
 
-Team member applications and selection are complete for the 2022-2023 school year. 
+<!-- Team member applications and selection are complete for the 2022-2023 school year. 
 We had many more applicants than spots available, and selection was extremely difficult. <br>
 
 If you applied, emails with acceptance/rejection will be sent out at 5:00 PM on **Sunday, Sept. 4, 2022**. <br>
@@ -65,7 +65,7 @@ If you applied, emails with acceptance/rejection will be sent out at 5:00 PM on 
 If you applied, but did not receive an email response on Sept. 4 - please contact the Team at [info@team3128.org](mailto:info@team3128.org). <br>
 
 If you received an acceptance email, it included instructions for items that must be completed by **Wednesday Sept. 7, 2022 at 8 PM**, to be rostered with the Team. 
-If any prospective member fails to complete rostering by that date, we will assume they are no longer interested, and move on to any waitlisted candidates.
+If any prospective member fails to complete rostering by that date, we will assume they are no longer interested, and move on to any waitlisted candidates. -->
 
 
 <!-- GENERAL/In-Person Post-ID/NEW Blurb

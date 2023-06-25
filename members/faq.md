@@ -9,7 +9,7 @@ Have a question about our robotics program? Here are some of the most often aske
 
 **When does the team meet during the week?**
 
-Our weekly meetings for the 2022-2023 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability:
+Our weekly meetings for the 2023-2024 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability:
 
 Monday: 3:30-6:30 PM
 
