@@ -93,7 +93,7 @@
 
 - group: mentors
   name: Fred Chen
-  photo: thor
+  photo: Fred3
   title: Controls
   blurb: Fred has a B.S. in Electrical Enginering from Cornell University with an emphasis in digital signal processing. He started his career at a large company in San Diego, gloriously pulling cables out of cellular telecom equipment, before he realized software and Legos were his calling. He worked at several enterprise software company startups in the Bay Area before moving back to San Diego to pursue his ultimate passion in mobile application software. Incubating mobile application products on a fledgling “Android 1.0” mobile platform, he was unsuccessful in convincing executives to invest in this game changing mobile platform because it was “unproven with limited market potential”, and investments were better made in “tried and true mobile platforms that would stand the test of time” - Symbian, Windows Mobile, and Blackberry O/S... Fred spent the remainder of his career managing large mobile software engineering teams developing Android and iOS connectivity application products. In his spare time, he enjoys racing and breaking his Miatas at autocrosses and track day events or adding to his growing tool collection.
 
@@ -121,6 +121,7 @@
   
 - group: mentors
   name: Ningze Sun
+  photo: thor
   title: Controls
   blurb: 
 
