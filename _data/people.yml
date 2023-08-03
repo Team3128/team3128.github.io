@@ -31,10 +31,10 @@
   blurb: Mika is a senior and fourth year Controls Narwhal. She works on programming and wiring robots for various tasks from using computer vision to detect targets to calculating the optimal angle and speed to score a ball. Outside of robotics, she enjoys reading, playing video games, solving puzzles, and working on other programming projects. She is looking forward to meeting and teaching all the new members, as well as working on some fun projects (swerve???)
 
 - group: projectleads
-  name: Bowen D.
+  name: Jayden S.
   title: Design Lead
-  photo: bowen
-  blurb: Bowen is a senior at CCA and a fourth year member of team 3128. Bowen has been on the mechanical department for all four years, serving as the leader of the STR Subsystem in the 2022 season. Outside of robotics Bowen loves to play video games, surf, and boulder. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
+  photo: Jayden
+  blurb: Jayden is a senior at CCA and a fourth year member of team 3128. Jayden has been on the mechanical department for all four years. Outside of robotics Jayden is a Boy Scout. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
 
 - group: projectleads
   name: Cynthia L.
@@ -90,6 +90,7 @@
 
 - group: mentors
   name: Fred Chen
+  photo: thor
   title: Controls
   blurb: Fred has a B.S. in Electrical Enginering from Cornell University with an emphasis in digital signal processing. He started his career at a large company in San Diego, gloriously pulling cables out of cellular telecom equipment, before he realized software and Legos were his calling. He worked at several enterprise software company startups in the Bay Area before moving back to San Diego to pursue his ultimate passion in mobile application software. Incubating mobile application products on a fledgling “Android 1.0” mobile platform, he was unsuccessful in convincing executives to invest in this game changing mobile platform because it was “unproven with limited market potential”, and investments were better made in “tried and true mobile platforms that would stand the test of time” - Symbian, Windows Mobile, and Blackberry O/S... Fred spent the remainder of his career managing large mobile software engineering teams developing Android and iOS connectivity application products. In his spare time, he enjoys racing and breaking his Miatas at autocrosses and track day events or adding to his growing tool collection.
 
@@ -114,8 +115,9 @@
   title: Controls
   blurb: 
 
-  - group: mentors
+ - group: mentors
   name: Mayank Tiwari
+  photo: Loki
   title: Controls
   blurb: 
 
