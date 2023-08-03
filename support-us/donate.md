@@ -8,10 +8,12 @@ permalink: /support-us/donate/
 The Aluminum Narwhals is a part of the [Canyon Crest Academy Foundation](http://canyoncrestfoundation.org/), a 501(c)3 non-profit organization. 
 <b>Tax ID 03-0542702</b>.
 
-All of your donations to the Aluminum Narwhals are tax deductible. If you would like more information regarding your donation, you can contact the Executive Director, Joanne Couvrette, at [joanne.couvrette@sduhsd.net](mailto:joanne.couvrette@sduhsd.net) or (858) 350-0253 x4005.
+All of your donations to the Aluminum Narwhals are tax deductible. 
+
+If you would like more information regarding your donation, you can contact the Executive Director, Joanne Couvrette, at [joanne.couvrette@sduhsd.net](mailto:joanne.couvrette@sduhsd.net) or (858) 350-0253 x4005.
 
 ### How do your donations help us?
-We love what we do, and we wish we could achieve everything we think up. The only problem is that everything we need - electronics, lumber, gear boxes, aluminum, polycarbonate, coaching, travel - costs money. That's why we need you; with your donation, we are able to realize our dreams and learn valuable skills.
+We love what we do, and we wish we could achieve everything we think up. The only problem is that everything we need - electronics, lumber, gear boxes, aluminum, polycarbonate, travel - costs money. That's why we need you; with your donation, we are able to realize our dreams and learn valuable skills.
 <div>
 <a href="https://docs.google.com/spreadsheets/d/1bIJekgcC5poyS72Xn-yZ9ALvS7UgMLulK6QNVCoD_ug/edit?usp=sharing">
 <div class="button hover_animate" style="text-align: center;">

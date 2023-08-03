@@ -5,15 +5,17 @@ subtitle: Safety
 permalink: /members/safety/
 ---
 
-We work with a lot of cool tools and hardware on our team, and while these enable us to be able to create awesome things, they also pose a risk if not used properly. In order to ensure that we can continue pursuing our wildest dreams and craziest ambitions, we require all members to complete basic safety training.
+## Safety First (and Second, and Third....)
+
+We work with a lot of cool tools and hardware on our team, and while these enable us to be able to create awesome things, they also pose a risk if not used properly. In order to ensure that we can continue pursuing our wildest dreams and craziest ambitions, we require all members to complete Basic Safety Training before they begin department training.
 
 ## Basic Safety Training
 Note that these steps do not allow you to start using power tools, but these are **required** for entry and use of the workshop. 
 <!--Returning members must complete training **by September 7th, 2020** and new members must complete training **by October 9th, 2020**.
 -->
-1. Review the [FIRST 2022 Safety Manual](https://drive.google.com/file/d/1UAV5f_dL2HgQZ00X506JGCgBWr7CYyfP/view?usp=sharing).
-2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1gTw1WBlAibeMDqZq60wFhrIeMC9_9V-_CoyP7S0CSsU/edit).
-3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1pRWr6AOApK8v_nMY2v-HZsA0Xm7eTv6-53pfl-eW5mw/edit?usp=sharing).
+1. Review the [FIRST 2023 Safety Manual](https://www.firstinspires.org/resource-library/frc/safety-manual).
+2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1OETIbE3H2pl3XiQmwatcApIBYWyvtz2Ng7I3Kdj2Lgk/edit?usp=sharing).
+3. Review the [Team 3128 2023-34 Safety Training presentation](https://docs.google.com/presentation/d/1FPNibEUSNgVr65cDTyK6fi85iU86pwW9NjYYtSViqZ0/edit?usp=sharing).
 4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube.
 5. Once you are accepted onto the Team, the Basic Safety Quiz will be sent via email. You must pass with an 85% or higher.
 
@@ -34,30 +36,23 @@ If you still need to complete the Mechanical or Controls safety quizzes, contact
 If you have completed all of the steps above but are interested in joining the Mechanical or Controls departments, you will need to view the following presentations and complete their corresponding quizzes. Currently the quizzes are not available to take, but they will be coming soon!
 -->
 
-**Mechanical Only**
+## **Mechanical Only**
 <!--View the 2019-2020 Team 3128 Mech & Construction Safety presentation [here](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
 -->
 
 <!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-1. Review the [2022-23 Mech Safety Presentation](https://docs.google.com/presentation/d/1LD7KGQlM_jQgYxM1m6rBW2ffe-rqncuY-fBBiA-7x1Q/edit?usp=sharing).
+1. Review the [2023-24 Mech Safety Presentation](https://docs.google.com/presentation/d/1jfGUv00QVoFKqPJIQEbZsmQs9rUB-WVTbjFAoQHi4Oc/edit?usp=sharing).
 2. Once you have been accepted into this Department, the Quiz will be sent to you. You must pass with an 85% or higher.
-
-<!--
-2. Take the [2020-2021 Mech & Construction Safety Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdm3aHeG4bZCh1VQz_QbNNkCNJM33MY54-lmgB9BB38LAVUNw/viewform?usp=sf_link). You must pass with a score of 85% or higher. You may take the quiz as many times as you want.
--->
 
 Note: You may not use power tools until you pass the department-specific training.
 
-**Controls Only**
+## **Controls Only**
 <!--View the 2019-2020 Team 3128 Controls/Electrical Safety presentation [here](https://docs.google.com/presentation/d/1phLBXfwegA6CF1v4O8o42MFOhwMspqC9bcXLJtz_uXo/edit?usp=sharing).-->
 
 <!--Reviewing the presentation *does not* mean you may use power tools.-->
 
-1. Review the [2022-23 Controls Safety Presentation](https://docs.google.com/presentation/d/1js4nZPt5gLCxAPoYVgVssadaVWZPXcdCA4qDKvoQjqA/edit?usp=sharing).
+1. Review the [2023-24 Controls Safety Presentation](https://docs.google.com/presentation/d/15rOlVimp-c_Ei6aCcyFi2YvOZMwGqjz4QilOpIbUDpA/edit?usp=sharing).
 2. Once you have been accepted into this Department, the Quiz will be sent to you. You must pass with an 85% or higher.
 
-<!--
-2. Take the [2020-2021 Controls/Electrical Safety Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc0EAn3R4hAIk7pDDqhEyblIVTdGAN2mDU3GYnahu60igYmAQ/viewform?usp=sf_link). You must pass with a score of 85% or higher. You may take the quiz as many times as you want. 
--->
 Note: You may not use power tools until you pass the department-specific training.

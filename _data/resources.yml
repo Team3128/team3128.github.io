@@ -38,11 +38,18 @@
 #   type: link
 #   link: https://docs.google.com/presentation/d/1Bfxi1IMxTQ-Oio1klFpzVsyv8czBfIgeRORGaaUGJ0c/edit#slide=
 #   description: The link to the Parent Information Night Presentation
-- name: 2022-2023 Handbook
+
+#- name: 2023-2024 Handbook
+#  category: info
+#  type: link
+#  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
+#  description: The link to the 2023-2024 Team 3128 handbook.
+  
+- name: 2023-2024 Handbook
   category: info
   type: link
-  link: https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing
-  description: The link to the 2022-2023 Team 3128 handbook.
+  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
+  description: The link to the 2023-2024 Team 3128 Handbook.
 
 - name: Parent Night Presentation
   category: info
@@ -81,7 +88,6 @@
   link: /resources/Team3128BrandStandard.pdf
   description: We are a team of dedicated students who, when we put our heads together, can accomplish amazing things. In order to make our team recognizable, we have created a set of visual identity standards to ensure consitency of all team imagery.
 
-
 - name: Mechanical Resources
   category: technical
   type: link
@@ -110,13 +116,13 @@
   type: link
   link: https://docs.google.com/document/d/1zsYKgzYfjm_U4NaRIEtMp22FvtPu7SCxuwl-hsT_agI/edit?usp=sharing
 
-- name: 2022 Commitment Form
-  category: championship
-  type: link
-  link: https://forms.gle/Yege8RHpdo7EErXj7
-  description: Commitment Form due Sunday March 27th 2022 at 10:00 PM
+#- name: 2022 Commitment Form
+#  category: championship
+#  type: link
+#  link: https://forms.gle/Yege8RHpdo7EErXj7
+#  description: Commitment Form due Sunday March 27th 2022 at 10:00 PM
 
-- name: 2022 Trip Deposit Form
-  category: championship
-  type: link
-  link: https://docs.google.com/document/d/1iV454zgc1vdR70O5dv4XOlgHDW91Qej_d9jN-nZGgU4/edit?usp=sharing
+#- name: 2022 Trip Deposit Form
+#  category: championship
+#  type: link
+#  link: https://docs.google.com/document/d/1iV454zgc1vdR70O5dv4XOlgHDW91Qej_d9jN-nZGgU4/edit?usp=sharing
