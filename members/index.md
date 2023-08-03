@@ -9,11 +9,13 @@ redirect_from:
  - members
 ---
 
-### **How to Join the FRC Team 3128 "The Aluminum Narwhals"**
+### **How to Learn More About Team 3128**
 <br>
-Team 3128 accepts new member applications in early Fall only.  You must be a currently enrolled student at Canyon Crest Academy to join.  Our Robotics recruitment event is called “Narweek”, and you must attend at least one day of Narweek in person to be considered. 
+Team 3128 accepts new member applications in early Fall only.  
+Our Robotics recruitment event is called “Narweek”, and you must attend at least one day of Narweek - in person - to be considered. 
 
-Narweek begins with **Intro Day** on **Friday August 25, at 3:30 PM in the robotics workshop.**  Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.
+Narweek begins with **Intro Day** on **Friday August 25, at 3:30 PM in the robotics workshop.**  
+Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.  You will meet current members and see what we do.
 
 Starting on Monday August 28, our workshop will open every day at 3:30 PM.  Each department will present on a specific day:
 - Monday Aug. 28 – Business 
@@ -22,17 +24,18 @@ Starting on Monday August 28, our workshop will open every day at 3:30 PM.  Each
 - Thursday Aug. 31 – Mechanical
 - Friday Sept. 1 – Strategy
 
-When you apply to the Team, you may apply to 2 departments.  You MUST attend those departments presentation days to be considered. 
+When you apply to the Team, you may apply to 2 departments (Maximum).  You MUST attend those departments presentation days to be considered. 
 
-For example – if you are most interested in Marketing and Strategy, you **must** attend Thursday (Marketing) and Friday (Strategy) of Narweek. 
+For example – if you are most interested in Marketing and Strategy, you **must** attend Wednesday (Marketing) and Friday (Strategy) of Narweek. 
 
-**To join Team 3128:**
+
+### **How to Join Team 3128**
 - Be a current student at CCA
 - Attend **Intro Day** on **August 25th at 3:30pm in the Robotics Workshop**
 - Attend **Narweek (Aug 28 – Sept. 1)** for the departments that interest you
     - To join any department, you must have attended their Narweek presentation day.
 - Be sure you can meet the time commitment
-- **Fill out an application**, choosing your top 2 departments
+- **Fill out an application**, choosing your top 2 departments (Applications will open Wednesday Aug. 30 at 6 PM, link to the application will be right here on the Website)
 - *If you email us from your ----@my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
 <!-- #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
@@ -40,14 +43,14 @@ For example – if you are most interested in Marketing and Strategy, you **must
 #### **No late applications will be accepted.**
 
 <br>
-Acceptance emails will be sent on Sunday, September 4 at 5 PM.
+Acceptance emails will be sent on Sunday, September 4 at approximately 5 PM.
 - If accepted, your email will list required rostering stuff with a DUE DATE.
-- If those items are NOT complete by the due date, your acceptance will be rescinded, and that spot will be offered to another student.
+- If those rostering tasks are NOT complete by the due date, your acceptance will be rescinded, and that spot will be offered to another student.
 - If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked. -->
 
-#### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sunday) meetings January – April.**
+#### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sundays) from January – April.**
 - All members must attend at least 75% of all meetings.  
-- See our [Team Handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for full information.
+- See our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for full information.
 
 <!---
 Applications are out! To become a part of our team, just follow the steps below:
