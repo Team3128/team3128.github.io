@@ -9,9 +9,9 @@ redirect_from:
  - members
 ---
 
-- ### **How to Join the FRC Robotics Team**
+### **How to Join the FRC Team 3128 "The Aluminum Narwhals"**
 <br>
-Team 3128 “The Aluminum Narwhals” accepts applications in early Fall only.  Our Robotics recruitment event is called “Narweek”.  
+Team 3128 accepts new member applications in early Fall only.  You must be a currently enrolled student at Canyon Crest Academy to join.  Our Robotics recruitment event is called “Narweek”, and you must attend at least one day of Narweek in person to be considered. 
 
 Narweek begins with **Intro Day** on **Friday August 25, at 3:30 PM in the robotics workshop.**  Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.
 
