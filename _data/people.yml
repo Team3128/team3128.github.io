@@ -69,7 +69,7 @@
 - group: mentors
   name: Christine Low
   photo: chris
-  title: Marketing, Mechanical
+  title: Mechanical, Marketing, Travel
   blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
 
 - group: mentors
@@ -95,7 +95,7 @@
 
 - group: mentors
   name: Sylvia Chan
-  title: Liaison
+  title: Liaison, Travel
   blurb: Sylvia has a B.S. and M.S. in Nursing from UCLA. She has worked as RN and Nurse Practitioner in the past.  Currently she is a charge nurse in Scripps Urgent Care Torrey Pines. Sylvia has been supporting Team 3128 since 2016. She is the team liaison.  She helps in travel and meal planning during competition. She loves to travel, read and spending time with her family. Go Narwhals!!
 
 - group: mentors
@@ -105,7 +105,23 @@
   
 - group: mentors
   name: Michael Brown
+  title: Controls
+  photo: Michael_Brown
   blurb: Michael Brown is a 25 year veteran of the software development industry.  In that time he's helped develop time and attendance systems, semi-conductor manufacturing control systems and Laboratory Informatics systems for the pharmaceutical industry. For the last 5 years Michael has been a Director of Operations for both Cloud and Software Development. In that role he's been focused on tools and processes of R&D, making the teams more efficient and effective. Michael is committed to playing a role in developing the next generation of Software Developers who are going to be instrumental in solving some of the most important problems faced in the world today.
+
+- group: mentors
+  name: Ningze Sun
+  title: Controls
+  blurb: 
+
+  - group: mentors
+  name: Mayank Tiwari
+  title: Controls
+  blurb: 
+
+
+
+
 
 #- group: mentors
 #  name: Raylen Li 
