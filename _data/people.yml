@@ -12,17 +12,17 @@
 
  #sub-team leads 
 
-# - group: projectleads
-#   name: 
-#   title: Controls Curriculum Lead
-#   photo: 
-#   blurb: 
+ - group: projectleads
+   name: 
+   title: Controls Curriculum Lead
+   photo: 
+   blurb: 
 
-# - group: projectleads
-#   name: 
-#   title: Electrical Lead
-#   photo: 
-#   blurb: 
+ - group: projectleads
+   name: 
+   title: Electrical Lead
+   photo: 
+   blurb: 
 
 - group: projectleads
   name: Mason L.
@@ -32,15 +32,15 @@
   
 - group: projectleads
   name: Jayden S.
-  title: Design Lead
+  title: Mechanical Design Lead
   photo: Jayden
   blurb: Jayden is a senior at CCA and a fourth year member of team 3128. Jayden has been on the mechanical department for all four years. Outside of robotics Jayden is a Boy Scout. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
 
-#- group: projectleads
-#  name: 
-#   title: Mechanical Manufacturing Lead
-#   photo: 
-#   blurb:
+- group: projectleads
+  name: 
+  title: Mechanical Manufacturing Lead
+  photo: 
+  blurb:
 
 - group: projectleads
   name: Juno C.
@@ -134,8 +134,6 @@
   photo: christine
   title: Mentor
   blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
-
-
 
 
 
