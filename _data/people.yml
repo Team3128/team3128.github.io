@@ -12,53 +12,53 @@
 
  #sub-team leads 
 
- - group: projectleads
-   name:  Teja Y.
-   title: Controls Curriculum Lead
-   photo: 
-   blurb: 
+- group: projectleads
+  name:  Teja Y.
+  photo: 
+  title: Controls Curriculum Lead
+  blurb: 
 
- - group: projectleads
-   name:  Leo L.
-   title: Electrical Lead
-   photo: 
-   blurb: 
+- group: projectleads
+  name:  Leo L.
+  photo: 
+  title: Electrical Lead
+  blurb: 
 
 - group: projectleads
   name: Mason L.
-  title: Software Lead
   photo: 
+  title: Software Lead
   blurb: 
   
 - group: projectleads
   name: Jayden S.
-  title: Mechanical Design Lead
   photo: Jayden
+  title: Mechanical Design Lead
   blurb: Jayden is a senior at CCA and a fourth year member of team 3128. Jayden has been on the mechanical department for all four years. Outside of robotics Jayden is a Boy Scout. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
 
 - group: projectleads
   name: 
-  title: Mechanical Manufacturing Lead
   photo: 
+  title: Mechanical Manufacturing Lead
   blurb:
 
 - group: projectleads
   name: Juno C.
-  title: Mechanical Curriculum Lead
   photo: 
+  title: Mechanical Curriculum Lead
   blurb: 
 
 - group: projectleads
   name: James S.
-  title: Scouting Systems Lead
   photo: 
+  title: Scouting Systems Lead
   blurb: 
   
 - group: projectleads
   name: Inchara J.
-  title: Website Lead
   photo: inchara
-  blurb: Inchara is a Senkior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy.
+  title: Website Lead
+  blurb: Inchara is a Senior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy.
 
 
 #   Mentors
@@ -123,7 +123,7 @@
   title: Controls
   blurb: 
 
- - group: mentors
+- group: mentors
   name: Mayank Tiwari
   photo: Loki
   title: Controls
