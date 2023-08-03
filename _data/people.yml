@@ -12,53 +12,55 @@
 
  #sub-team leads 
 
-- group: projectleads
-  name: Mihika T.
-  title: Controls Curriculum Lead
-  photo: mihika
-  blurb: Mihika is a third year member of the Aluminum Narwhals and a junior at CCA. She joined the controls department in freshmen year to learn more about programming and wiring and has participated in various wiring and programming projects since. As the controls curriculum lead, Mihika oversees the creation and teaching of curriculum for new members. In her free time, Mihika enjoys swimming, playing piano, reading, and hiking. This year, she looks forward to meeting all the new members and work on some new and exciting projects!
+# - group: projectleads
+#   name: 
+#   title: Controls Curriculum Lead
+#   photo: 
+#   blurb: 
+
+# - group: projectleads
+#   name: 
+#   title: Electrical Lead
+#   photo: 
+#   blurb: 
 
 - group: projectleads
-  name: Priyanka S.
-  title: Electrical Lead
-  photo: priyanka1
-  blurb: Priyanka is a senior and been a member of the controls department since she was a freshman. She began in both marketing and controls, but after learning how to strip and connect wires one day in the workshop, she transitioned fully to controls in hopes of learning more about robot code as well as wiring. Priyanka makes executive electrical decisions regarding the robot(s), as well as answering questions about and teaching the ins and outs of wiring to her fellow members. She also helps with the programming of the robot, and has coded multiple subsystems. At competitions, she mostly troubleshoots hardware issues, dabbling in potential logic issues in the code as well. In her free time, Priyanka loves watching the sunrise, writing, and working out.
-  
-- group: projectleads
-  name: Mika O.
+  name: Mason L.
   title: Software Lead
-  photo: mika
-  blurb: Mika is a senior and fourth year Controls Narwhal. She works on programming and wiring robots for various tasks from using computer vision to detect targets to calculating the optimal angle and speed to score a ball. Outside of robotics, she enjoys reading, playing video games, solving puzzles, and working on other programming projects. She is looking forward to meeting and teaching all the new members, as well as working on some fun projects (swerve???)
-
+  photo: 
+  blurb: 
+  
 - group: projectleads
   name: Jayden S.
   title: Design Lead
   photo: Jayden
   blurb: Jayden is a senior at CCA and a fourth year member of team 3128. Jayden has been on the mechanical department for all four years. Outside of robotics Jayden is a Boy Scout. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
 
-- group: projectleads
-  name: Cynthia L.
-  title: Manufacturing Lead, Website Lead
-  photo: cynthia
-  blurb: Cynthia is a junior and a third year member of the Mechanical department. For the past two years, they were very involved in and helped maintain machinery. Aside from Mechanical endeavours, Cynthia was also a part of drive team and leads website management. When they are not living in the workshop, Cynthia enjoys badminton, playing music, stargazing, and going down Wikipedia rabbit holes. In this coming season, they hope to keep the workshop from descending into madness.
+#- group: projectleads
+#  name: 
+#   title: Mechanical Manufacturing Lead
+#   photo: 
+#   blurb:
 
 - group: projectleads
-  name: Maddy S.
+  name: Juno C.
   title: Mechanical Curriculum Lead
-  photo: maddy
-  blurb: Maddy is a third year on the team and a junior at school. Outside of robotics she is in Scouts and plays rugby. She has been involved with the team since middle school, like making buttons for the team for two years. Since joining the team has been a robot subsystem lead, and involved with designing and especially manufacturing the robot. This year she hopes to successfully train new team members so the team can do well during competition season.
+  photo: 
+  blurb: 
 
 - group: projectleads
-  name: Yubo W.
+  name: James S.
   title: Scouting Systems Lead
-  photo: yubo
-  blurb: Yubo is a senior and a 4th year member of the team. He joined Strategy in his freshmen year, and has worked on 3128s Scouting system and Database. Outside of robotics, Yubo is one of our team’s resident waffle enjoyers and enjoys reading, rhythm gaming, cats, playing piano, and tennis outside of school. In the upcoming season, Yubo hopes to change our scouting methods and improve our Database. 
-
+  photo: 
+  blurb: 
+  
 - group: projectleads
   name: Inchara J.
-  title: Website Co-Lead
+  title: Website Lead
   photo: inchara
-  blurb: "Inchara is a junior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy."
+  blurb: Inchara is a Senkior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy.
+
+
 #   Mentors
 - group: mentors
   name: Garrison Price
@@ -127,6 +129,12 @@
   title: Controls
   blurb: 
 
+- group: mentors
+  name: Christine Lau Dizon
+  photo: christine
+  title: Mentor
+  blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
+
 
 
 
@@ -160,62 +168,48 @@
 #  name: Scott Baron
 #  title: Controls
 #  blurb: 
-  
-#- group: mentors
-#  name: Christine Lau Dizon
-#  photo: christine
-#  title: Mentor
-#  blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
 
-#- group: mentors
-#  name: Jennifer Accolti-Gil
-#  title: Mentor
-#  blurb:
 
 #   Leaders
 
-
-
-- group: leaders
-  name: Mark K.
-  title: President
-  photo: mark
-  blurb: Mark is a fourth year member of team 3128 and a Senior at CCA. Within the strategy and  mechanical departments Mark has served as Primary Driver and in 2020, leader of the STR Subsystem. Mark’s passion for engineering reaches outside of the team where you can find him 3D-Printing all sorts of mechanisms in his spare time. Truthfully, it’s surprising Mark can make time for the team at all considering his intense waffle and LaCroix promotional obligations. All in all, Mark is extraordinarily excited to help lead the team this year and promises to not drive the robot into any more tables.
-
-- group: leaders
-  name: Shrey G.
-  photo: shrey
-  title: President
-  blurb: Shrey is a senior and a fourth-year member of the Aluminum Narwhals. He has been a member of the strategy department since freshman year, where he has helped with strategizing, member training, scouting system development, game design, and waffle production. He served as the strategy department coordinator during his junior year. Shrey has also been a member of drive team, serving as the secondary driver for two years. Outside of robotics, Shrey enjoys playing the keytar, doing research, playing lots of video games (especially rhythm games), and listening to and creating cool music. This year, Shrey is excited to serve as president and hopes to expand the outreach initiatives of the team and make the team even more connected.
-
-
-- group: leaders
-  name: Aryav A.
-  photo: aryav
-  title: Business Coordinator
-  blurb: Aryav Agarwal is a senior who has been on the team since his freshmen year. He is currently the Business coordinator and the lead for finances. The Narwhals is a great team with an amazing culture that has grown on him greatly over the past four years. Outside of robotics, he is a Chargers fan who loves business, computer science, football, and the beach.
-
-- group: leaders
-  name: Cathy K.
-  photo: cathy
-  title: Controls Coordinator
-  blurb: Cathy is a 4th year member of team 3128 and currently a Senior. Cathy has been a member of the Controls department since freshman year where she led the intake subsystem. Cathy enjoys the wiring aspect of Controls and loves to involve herself in robotics. In her free time, Cathy loves to surf, listen to music, and go on adventures with her friends. This season, Cathy is excited to lead the Controls department to better teamwork and collaboration!
-
-- group: leaders
-  name: Emma C.
-  photo: emma
-  title: Marketing Coordinator
-  blurb: Emma is a Senior and a fourth year member. She originally started out in Mechanical and eventually switched over to Marketing. Emma has led multiple projects in Marketing such as Del Mar Times articles about regionals, outreach events for elementary students, and team regional travel planning. She enjoys interacting with other teams at competition and making connections with them. She is experienced in photography and designing social media posts. Outside of robotics, Emma plays club and varsity water polo and enjoys reading. She is looking forward to expanding the knowledge of Marketing members and integrating new media into the department.
-
-- group: leaders
-  name: Brittain B.
-  photo: brittain
-  title: Mechanical Coordinator
-  blurb: Brittain is a senior and a fourth year member of the mechanical department. Brittain has helped with safety and new member training, as well as served as the Hopper subsystem lead for the 2022 season. She enjoys designing different aspects of the robot, as well as helping new members feel welcome. Outside of the team, Brittain enjoys dancing, volunteering at church, playing the euphonium and the piano, and working as a host at a pizza restaurant. Brittain is excited to build a swerve drive and make every member of her department feel welcome. 
-
 - group: leaders
   name: Aidan R.
-  title: Strategy Coordinator
+  title: President
   photo: aidan
-  blurb: Aidan is a junior and a third-year member of the team’s Strategy Department. Throughout his time on the team, Aidan has worked on a variety of projects, and was the Project Lead for Strategy’s Curriculum in his sophomore year. He’s always been an active member of Strategy and contributes to the department in any way he can. This year, Aidan’s looking forward to helping Strategy adapt to a new competition layout, and welcoming new members. In his free time, he enjoys working out, reading, learning new languages, and practicing Muay Thai or boxing.
+  blurb: Aidan is a Senior and a fourth-year member of the team, and prior D.C of Strategy. Throughout his time on the team, Aidan has worked on a variety of projects, and was the Project Lead for Strategy’s Curriculum in his sophomore year. He’s always been an active member of Strategy and contributes to the department in any way he can. This year, Aidan’s looking forward to helping Strategy adapt to a new competition layout, and welcoming new members. In his free time, he enjoys working out, reading, learning new languages, and practicing Muay Thai or boxing.
  
+- group: leaders
+  name: Kailani M.
+  photo: 
+  title: President
+  blurb: 
+
+- group: leaders
+  name: William R.
+  photo: 
+  title: Business Coordinator
+  blurb:
+  
+- group: leaders
+  name: Mihika T.
+  photo: mihika
+  title: Controls Coordinator
+  blurb: 
+  
+- group: leaders
+  name: Michelle Y.
+  photo: 
+  title: Marketing Coordinator
+  blurb: 
+  
+- group: leaders
+  name: Maddy S.
+  photo: maddy
+  title: Mechanical Coordinator
+  blurb: Maddy is a fourth year on the team and a Senior at school. Outside of robotics she is in Scouts and plays rugby. She has been involved with the team since middle school, like making buttons for the team for two years. Since joining the team has been a robot subsystem lead, and involved with designing and especially manufacturing the robot. This year she hopes to successfully train new team members so the team can do well during competition season.
+
+- group: leaders
+  name: Naomika R.
+  photo: 
+  title: Strategy Coordinator
+  blurb: 
