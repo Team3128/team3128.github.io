@@ -14,19 +14,19 @@
 
 - group: projectleads
   name:  Arav C.
-  photo: 
+  photo: rutherford2
   title: Controls Curriculum Lead
   blurb: 
 
 - group: projectleads
   name:  Teja Y.
-  photo: 
+  photo: boimler
   title: Electrical Lead
   blurb: 
 
 - group: projectleads
   name: Mason L.
-  photo: 
+  photo: rutherford3
   title: Software Lead
   blurb: 
   
@@ -38,19 +38,19 @@
 
 - group: projectleads
   name: Jaden S.
-  photo: 
+  photo: speed-racer
   title: Mechanical Manufacturing Lead
   blurb: Try not to confuse Jayden with Jaden!
 
 - group: projectleads
   name: Juno C.
-  photo: 
+  photo: mariner
   title: Mechanical Curriculum Lead
   blurb: 
 
 - group: projectleads
   name: James S.
-  photo: 
+  photo: mando
   title: Scouting Systems Lead
   blurb: 
   
@@ -88,6 +88,7 @@
 
 - group: mentors
   name: Paul Saam
+  photo: Bond
   title: Liaison
   blurb: Paul has a B.S. in Engineering from Harvey Mudd College. He worked as a medical device engineer for two startups, driving them both out of business, before deciding to obtain his MBA at Duke University. He has spent the last 17 years working in Business Development for Zimmer Biomet, a global orthopedics company. He works primarily with the Business team, supporting the Robotics Summer Camp and acts as a liaison with the Canyon Crest Academy Foundation.
 
@@ -180,13 +181,13 @@
  
 - group: leaders
   name: Kailani M.
-  photo: 
+  photo: Mariner2
   title: President
   blurb: 
 
 - group: leaders
   name: William R.
-  photo: 
+  photo: tony-stark
   title: Business Coordinator
   blurb:
   
@@ -198,7 +199,7 @@
   
 - group: leaders
   name: Michelle Y.
-  photo: 
+  photo: Tendi
   title: Marketing Coordinator
   blurb: 
   
@@ -210,6 +211,6 @@
 
 - group: leaders
   name: Naomika R.
-  photo: 
+  photo: speed-racer
   title: Strategy Coordinator
   blurb: 
