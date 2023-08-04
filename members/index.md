@@ -9,13 +9,15 @@ redirect_from:
  - members
 ---
 
-### **How to Learn More About Team 3128**
-<br>
-Team 3128 accepts new member applications in early Fall only.  
+### **How to Join Team 3128**
+
+Team 3128 accepts new member applications in early Fall only.  The Team is capped at 80 students - available spots are limited and competitive.
+
 Our Robotics recruitment event is called “Narweek”, and you must attend at least one day of Narweek - in person - to be considered. 
 
 Narweek begins with **Intro Day** on **Friday August 25, at 3:30 PM in the robotics workshop.**  
-Each of our five departments (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and answer questions.  You will meet current members and see what we do.
+
+Each of our five departments (Business, Controls, Marketing, Mechanical and Strategy) will give a brief introduction of what they do, and answer questions.  You will meet current members and see what we do.
 
 Starting on Monday August 28, our workshop will open every day at 3:30 PM.  Each department will present on a specific day:
 - Monday Aug. 28 – Business 
@@ -24,19 +26,18 @@ Starting on Monday August 28, our workshop will open every day at 3:30 PM.  Each
 - Thursday Aug. 31 – Mechanical
 - Friday Sept. 1 – Strategy
 
-When you apply to the Team, you may apply to 2 departments (Maximum).  You MUST attend those departments presentation days to be considered. 
+When you apply to the Team, you may apply to 2 departments (maximum).  You MUST attend those departments presentation days to be considered. 
 
 For example – if you are most interested in Marketing and Strategy, you **must** attend Wednesday (Marketing) and Friday (Strategy) of Narweek. 
 
-
-### **How to Join Team 3128**
+### **Steps to Join Team 3128**
 - Be a current student at CCA
 - Attend **Intro Day** on **August 25th at 3:30pm in the Robotics Workshop**
 - Attend **Narweek (Aug 28 – Sept. 1)** for the departments that interest you
     - To join any department, you must have attended their Narweek presentation day.
 - Be sure you can meet the time commitment
 - **Fill out an application**, choosing your top 2 departments (Applications will open Wednesday Aug. 30 at 6 PM, link to the application will be right here on the Website)
-- *If you email us from your ----@my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
+- *If you apply from/contact us using your schoolemail ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
 <!-- #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
 #### Applications close on Friday, September 2 at 11:59 PM.  
@@ -49,7 +50,7 @@ Acceptance emails will be sent on Sunday, September 4 at approximately 5 PM.
 - If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked. -->
 
 #### **Joining Team 3128 is a large time commitment. Departments are expected to meet 3 times a week in the fall, plus all-day Saturday (and some Sundays) from January – April.**
-- All members must attend at least 75% of all meetings.  
+- All members must attend at least 75% of all meetings, for the duration of the meeting.  Students who do not meet attendance will be cut from the Team.
 - See our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for full information.
 
 <!---
@@ -112,10 +113,11 @@ That's why we require all returning members to complete safety training by **Sep
 - Enthusiasm
 - Ability to communicate
 - Ability to remain calm under pressure
-- Ability to work with other students as a team
-- Time available to meet the commitments of the Robotics competition season 
+- Ability to work well with other students as a team
+- Willingness to meet the time commitment
+- Be a good person 
 
-These were the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
+These are the primary criteria we will use to rank applicants. Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
 If you have any questions, feel free to contact our [student leaders](/about/leaders/) or email info@team3128.org for more information!
 
