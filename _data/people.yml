@@ -32,15 +32,15 @@
   
 - group: projectleads
   name: Jayden S.
-  photo: Jayden
+  photo: Jayden_S
   title: Mechanical Design Lead
   blurb: Jayden is a senior at CCA and a fourth year member of team 3128. Jayden has been on the mechanical department for all four years. Outside of robotics Jayden is a Boy Scout. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
 
 - group: projectleads
   name: Jaden S.
-  photo: speed-racer
+  photo: Jaden_Shadel
   title: Mechanical Manufacturing Lead
-  blurb: Try not to confuse Jayden with Jaden!
+  blurb: Jaden is a junior and 3rd year member of the mechanical department. When he’s not verbally berating the CNC or crying over misaligned boxtube, he enjoys making art, watching sitcoms, and burning food in an attempt to cook. He looks forward to showing new team members how to operate tools and machinery around the workshop, and ensuring that the robot physically exists and functions by the time competition season rolls around.
 
 - group: projectleads
   name: Juno C.
@@ -50,9 +50,9 @@
 
 - group: projectleads
   name: James S.
-  photo: mando
+  photo: James_Sun
   title: Scouting Systems Lead
-  blurb: 
+  blurb: James is a member of the strategy department in 3128, and is the team's scouting systems lead this year. He enjoys biking, photography, and reality tv shows. He has a pet bird and his favorite color is purple. His favorite part about being on the team is having the opportunity to become great friends with other team members and also meet fellow robotics fans across the world.
   
 - group: projectleads
   name: Inchara J.
@@ -211,6 +211,6 @@
 
 - group: leaders
   name: Naomika R.
-  photo: speed-racer
+  photo: Naomika_R
   title: Strategy Coordinator
-  blurb: 
+  blurb: Naomika is a Senior and a third-year member of the team. As a junior, she was Strategy's Project Lead for Curriculum and the team's Pitscout Data Analyst at competitions. Naomika is eager to further spread the team's knowledge of strategy to the FRC community, and looks forward to optimizing Strategy for double-elims style gameplay. In her free time, she enjoys taking walks, and covering songs on the piano.
