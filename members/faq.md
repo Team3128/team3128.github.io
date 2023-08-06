@@ -15,7 +15,9 @@ Our weekly meetings for Fall Term 2023 are below, but may be changed due to Coac
 - Tuesday: 5:00-8:00 PM
 - Friday: 3:30-6:30 PM
 
-**Build/Competition Season (Jan-April)** will add all-day Saturday meetings, and possibly Sundays (per student request of the Coaches). Specific dates are updated on [our calendar](/members/calendar/)
+**Build/Competition Season (Jan-April)** will add all-day Saturday meetings, and possibly Sundays (per student request of the Coaches).
+
+Specific dates are updated on [our calendar](/members/calendar/).
 
 Some departments may have a different schedules. Please check with your department coordinator for your exact meeting schedule, or see [our calendar](/members/calendar/).
 
@@ -23,17 +25,33 @@ All members must attend at least 75% of all meetings.
 
 ## **Can I add the Team Google Calendar to my phone/computer?**
 
-Yes.  Our calendar is kept obsessively up-to-date by Coach Chris and our Team Presidents.  If it's not on the calendar, it's not allowed to happen.
+Yes.  Our calendar is kept obsessively up-to-date by Coach Chris and our Team Presidents.  
+If it's not on the calendar, it's not allowed to happen.
+
 The link to add this calendar is [https://calendar.google.com/calendar/u/1?cid=aW5mby50ZWFtMzEyOEBnbWFpbC5jb20](https://calendar.google.com/calendar/u/1?cid=aW5mby50ZWFtMzEyOEBnbWFpbC5jb20)
 
 ## **Does the Team meet over School Holidays?**
 
 In short - Yes.  
-The Game for 2024 will be released on Saturday Jan. 6 at 8 AM PST at **KICKOFF** (this is during the CCA Winter Break).  The Team will meet every day, all day, until school begins on Wednesday Jan. 10, 2024.
-Attendance is mandatory for all Team members for these 4 days.
+The Game for 2024 will be released on Saturday Jan. 6 at 8 AM PST at **KICKOFF** (this is during the CCA Winter Break).  
+
+**The Team will meet all day, every day, until school begins on Wednesday Jan. 10, 2024.**
+
+**Attendance is mandatory for all Team members for these 4 days.**
+
+Additionally, the Team will meet on the following days when there is no school:
+- Monday Jan. 15 2024  (9 AM - 5 PM) - Martin Luther King Jr. Day
+- Monday Feb. 19 & Tuesday Feb. 20, 2024 (9 AM - 5 PM)
 
 ### **Why?**
-Having 4 solid days of prototyping and workshop access gives the Team a tremendous advantage in robot build and test.  Designing and building an entire robot from scratch in 8 weeks is a daunting task, and every moment we can get, we will use.
+(During winter break) Having 4 solid days of prototyping and workshop access gives the Team a tremendous advantage in robot build and test.  
+
+(all the extra days) Designing and building an entire robot from scratch in 8 weeks is a daunting task, and every moment we can get, we will use.
+
+In the past when we didn't schedule this time - students begged the Coaches and Mentors for more workshop time.  
+**This is all driven by the students.**
+
+Planning this time in advance just saves everyone the headache of the last-minute scramble.
 
 
 ## **What does a robotics team do? What are these competitions like?**
@@ -45,26 +63,38 @@ You can also see [Disney+'s More Than Robots](https://www.disneyplus.com/movies/
 ## **Where do you guys meet?**
 
 We meet in the Robotics Workshop, the Cage and the Nest.
-The Robotics workshop is in the Administration ("A") Building, to the right of the flagpole but before you enter the CCA metal fence/locked gate.  The Workshop is directly under the Learning Commons.  
+
+The Robotics workshop is in the Administration ("A") Building, to the right of the flagpole but before the CCA metal fence/locked gate.  
+The Workshop is directly under the Learning Commons.  
+
 Through the locked gate, the first left is The Nest.  If you continue walking and curve to your left, the next conference room is the Cage. 
 
 ## **Is it mandatory that I be at every meeting?**
 
-Pretty much. You are required to attend at least 75% of all meetings each month. Ask your Department Coordinator for more specific information regarding your department's meetings.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
+Pretty much. You are required to attend at least 75% of all meetings each month. 
+Ask your Department Coordinator for more specific information regarding your department's meetings.  
+Please see our [2023-2024 Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
 
 
 ## **Is it mandatory that I stay for the entire meeting?**
 
-You are expected to stay for the entire meeting. If you need to leave early, then be sure to contact your department coordinator ahead of time.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
+You are expected to stay for the entire meeting. If you need to leave early, then be sure to contact your department coordinator ahead of time.  Please see our [2023-2024 Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
 
 ## **I have a fall sport. Can I be involved?**
 
-If you can manage the time commitment of the Robotics Team and a Sport - yes.  If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
+If you can manage the time commitment of the Robotics Team and a Sport - yes.  
+
+If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  
+
+Please see our [2023-2024 Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
 
 
 ## **Who goes to your competitions? What are competition positions? Who are they open to?**
 
-Regional competition events are held March 1 - April 7 2024.    Team 3128 will bring our **Travel Team** to any Travel Regional events.  **Travel Team** is made up of the students that choose to apply for, and are selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all Team members are expected to attend our home Regional Competition, the Travel Team has very specific positions that are vital to our success.
+Regional competition events are held March 1 - April 7 2024.    Team 3128 will bring our **Travel Team** to any Travel Regional events.  
+
+**Travel Team** is made up of the students that choose to apply, and are selected, for competition positions. These are different roles that students can interview for if they have met the position requirements. 
+While all Team members are expected to attend our home Regional Competition, the Travel Team has very specific positions that are vital to our success.
 
 Interviews for specific, key positions on the Travel Team are held throughout November & December, during preseason.  Most Travel Team positions are selected near the end of build season based on performance during build.
 
