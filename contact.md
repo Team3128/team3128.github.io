@@ -16,15 +16,19 @@ Head Coach
 Coach  
 [chris@team3128.org](mailto:chris@team3128.org)
 
+*Pat Maynard*  
+Coach  
+[pat@team3128.org](mailto:pat@team3128.org)
+
 
 **Student Leadership**  
-*Shrey G.*  
+*Aidan R.*  
 President  
-[Shrey@team3128.org](mailto:shrey@team3128.org)
+[aidan@team3128.org](mailto:aidan@team3128.org)
 
-*Mark K.*  
+*Kai M.*  
 President  
-[Mark@team3128.org](mailto:mark@team3128.org)
+[kai@team3128.org](mailto:kai@team3128.org)
 
 <!-- 
 **Item Requests:**  
