@@ -32,13 +32,13 @@
 
 - group: projectleads
   name: Mason L.
-  photo: rutherford3
+  photo: melted
   title: Controls Software Lead
   blurb: 
 
 - group: projectleads
   name:  
-  photo: 
+  photo: kylo
   title: Marketing Curriculum Lead
   blurb: 
   
@@ -62,7 +62,7 @@
 
 - group: projectleads
   name:  
-  photo: 
+  photo: star_wars_c_h
   title: Strategy Curriculum Lead
   blurb: 
   
@@ -87,8 +87,8 @@
 - group: projectleads
   name: Lachlan S.
   photo: lachlan
-  title: Safety Captain
-  blurb: 
+  title: Safety Captainhis
+  blurb: Lachlan is a Sophomore (finally!!) who has been on the team since his Freshmen year.  He chose Safety Captain over pulling from the Job Jar.  Outside of robotics he likes to collect monster cans in his darkened room, while playing League of Legends and COD on his Xbox.
   
 
 #   Mentors
