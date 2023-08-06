@@ -7,7 +7,7 @@ permalink: /members/important-dates/
 
 ## Weekly Meetings
 
-Our weekly meetings for the 2022-2023 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability: 
+Our weekly meetings for the 2023-2024 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability: 
 
 **Monday:** 3:30-6:30 PM
 
@@ -15,7 +15,7 @@ Our weekly meetings for the 2022-2023 school year are in person. Our workshop sc
 
 **Friday:** 3:30-6:30 PM
 
-Our meeting schedule for Build/Competition Season (Jan-April) is yet to be determined, but will include more meetings, including weekend meetings. Please check back later for updates. 
+Our meeting schedule for Build/Competition Season (Jan-April) is yet to be determined, but will include (probably) Saturday meetings (all day).  If the Team need more workshop time, they must petition the Coaches to open the workshop for additional hours (generally Sundays). Please check the calendar for updates. 
 
 Some departments have different schedules. Please check with your department coordinator for your exact meeting schedule, or see the [calendar](http://team3128.org/members/calendar).
 
@@ -24,7 +24,7 @@ Some departments have different schedules. Please check with your department coo
 
 ## Leadership Meetings
 
-Every week, the leadership team holds a meeting where they discuss the happenings of the team and any logistics, events, and changes necessary. Leadership meetings are open to all members of the team. Meetings will be held online via google meet 2022-2023 school year; the leadership meeting schedule is currently TBD. Please check back later for updates. 
+Every week, the leadership team holds a meeting where they discuss the happenings of the team and any logistics, events, and changes necessary. Leadership meetings are open to all members of the team. Meetings will alternate between in-perons and online via google meet. Please check the Team Calendar for dates [calendar](http://team3128.org/members/calendar).
 
 <!--
 **Leadership Tentative Self-Nominations Open:** May 4th, 2021
@@ -36,9 +36,9 @@ Every week, the leadership team holds a meeting where they discuss the happening
 
 ## FRC Build Season
 
-Our Build Season is an exhilarating (and stressful) season to design and build a robot to compete against many other teams in the Southern California area, and hopefully the World.
+Our Build Season is an exhilarating (and stressful) season to design and build a robot to compete against many other teams in the California Region, and hopefully the World.
 
-For the 2022-2023 school year, Build Season/Kickoff begins on Saturday, January 7, 2023 at 10:00 AM Eastern Time (ET), or 7:00 AM PST, with the game reveal. It is highly recommended to come to the kickoff meeting to help plan our robot for the year. 
+For the 2023-2024 school year, Build Season/Kickoff begins on Saturday, January 6, 2024 at 11:00 AM Eastern Time (EST), which is 8:00 AM PST in San Diego, with the game reveal. Attendance for all Team members is mandatory for Kickoff and the 3 days following Kickoff.
 
 **Normal Scheduled Meetings**  
 
