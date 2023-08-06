@@ -46,7 +46,7 @@
   name: Juno C.
   photo: mariner
   title: Mechanical Curriculum Lead
-  blurb: 'Juno C' is the anagrammatic pseudonym of Ranisha Lonell, a 66 year old great-grandmother who, at the age of fifty, absented herself from the material world to join an order of nuns dedicated to the preservation of the wonders of nature. As Sister Marcelina, her leadership of the Ausuble Chasm protest sit-in and the Joshua Tree National Forest intervention brought her to national attention in 2017.  Today, withdrawn behind convent walls and a vow of silence, Juno C continues to write her vegetarian recipes and an occasional book of trenchant essays about the world she has disavowed. Her limp has not improved."
+  blurb: Juno C is the anagrammatic pseudonym of Ranisha Lonell, a 66 year old great-grandmother who, at the age of fifty, absented herself from the material world to join an order of nuns dedicated to the preservation of the wonders of nature. As Sister Marcelina, her leadership of the Ausuble Chasm protest sit-in and the Joshua Tree National Forest intervention brought her to national attention in 2017.  Today, withdrawn behind convent walls and a vow of silence, Juno C continues to write her vegetarian recipes and an occasional book of trenchant essays about the world she has disavowed. Her limp has not improved."
 
 - group: projectleads
   name: James S.
@@ -54,12 +54,24 @@
   title: Scouting Systems Lead
   blurb: James is a member of the strategy department in 3128, and is the team's scouting systems lead this year. He enjoys biking, photography, and reality tv shows. He has a pet bird and his favorite color is purple. His favorite part about being on the team is having the opportunity to become great friends with other team members and also meet fellow robotics fans across the world.
   
-#- group: projectleads
-#  name: Inchara J.
-#  photo: inchara
-#  title: Website Lead
-#  blurb: Inchara is a Senior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy.
+- group: projectleads
+  name: Inchara J.
+  photo: inchara
+  title: Website Lead
+  blurb: Inchara is a Senior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy.
 
+- group: projectleads
+  name: Leo L.
+  photo: c_and_h
+  title: Safety Captain
+  blurb: 
+
+  - group: projectleads
+  name: Lachlan S.
+  photo: calvin_hobbes
+  title: Safety Captain
+  blurb: 
+  
 
 #   Mentors
 - group: mentors
@@ -195,7 +207,7 @@
   name: Mihika T.
   photo: mihika
   title: Controls Coordinator
-  blurb: Mihika is made of: partially hydrogenated vegetable oil (one or more of: coconut, cottonseed, and soybean); salt; corn, wheat, and oat flour; sugar; sodium ascorbate and ascorbic acid (vitamin C); blue #1; yellow #6; red #40; niacinamide; zinc oxide; reduced iron; natural orange, lemon, cherry, blueberry, raspberry, lime, and other natural flavors; tumeric color; annatto color; pyridoxine hydrochloride (vitamin B6); riboflavin (vitamin B2); vitamin A palmitate (protected with BHT); thiamin hydrochloride (Vitamin B1); folic acid; and vitamin D.
+  blurb: Mihika is made of: partially hydrogenated vegetable oil; salt; corn, wheat, and oat flour; sugar; sodium ascorbate and ascorbic acid (vitamin C); blue #1; yellow #6; red #40; niacinamide; zinc oxide; reduced iron; natural orange, lemon, cherry, blueberry, raspberry, lime, and other natural flavors; tumeric color; annatto color; pyridoxine hydrochloride (vitamin B6); riboflavin (vitamin B2); vitamin A palmitate (protected with BHT); thiamin hydrochloride (Vitamin B1); folic acid; and vitamin D.
 It is not true that Mihika believes the ghost of her great-grandmother rides a tricycle through the ionosphere, whistling 'Mairzy Doates.'"
   
 - group: leaders
