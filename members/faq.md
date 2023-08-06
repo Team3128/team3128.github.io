@@ -7,72 +7,69 @@ permalink: /members/faq/
 
 Have a question about our robotics program? Here are some of the most often asked questions and our answers to them. If your question is not listed, feel free to shoot us an [email](/contact/).
 
-**When does the team meet during the week?**
+## **When does the Team meet?**
 
-Our weekly meetings for the 2023-2024 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability:
+Our weekly meetings for Fall Term 2023 are below, but may be changed due to Coach availability:
 
-Monday: 3:30-6:30 PM
+- Monday: 3:30-6:30 PM
+- Tuesday: 5:00-8:00 PM
+- Friday: 3:30-6:30 PM
 
-Tuesday: 5:00-8:00 PM
+**Build/Competition Season (Jan-April)** will add all-day Saturday meetings, and possibly Sundays (per student request of the Coaches). Specific dates are updated on [our calendar](/members/calendar/)
 
-Friday: 3:30-6:30 PM
-
-Our meeting schedule for Build/Competition Season (Jan-April) is yet to be determined, but will include more meetings, including weekend meetings. Please check back later for updates.
-
-Some departments have different schedules. Please check with your department coordinator for your exact meeting schedule, or see the [our calendar](/members/calendar/).
+Some departments may have a different schedules. Please check with your department coordinator for your exact meeting schedule, or see [our calendar](/members/calendar/).
 
 All members must attend at least 75% of all meetings.
 
-<!-- Our weekly meeting and leadership meeting schedules for the 2021-2022 school year have not been finalized yet, but will definitely be in person. Please check back later for updates. 
+## **Can I add the Team Google Calendar to my phone/computer?**
 
-During Build Season (first Saturday of January until our first competition in March), we meet the same days during the week as in preseason in the Fall, as well as most Saturdays and some Sundays (subject to change based on mentor availability). 
+Yes.  Our calendar is kept obsessively up-to-date by Coach Chris and our Team Presidents.  If it's not on the calendar, it's not allowed to happen.
+The link to add this calendar is [https://calendar.google.com/calendar/u/1?cid=aW5mby50ZWFtMzEyOEBnbWFpbC5jb20](https://calendar.google.com/calendar/u/1?cid=aW5mby50ZWFtMzEyOEBnbWFpbC5jb20)
 
-Specific dates are updated on [our calendar](/members/calendar/). During Competition Season (March 3 - April 17, 2022) we meet as necessary based on the competitions we attend.  -->
+## **Does the Team meet over School Holidays?**
 
-<!-- 
-Starting Fall 2019, our team meets Monday, Thursday, and Friday from 3:00 pm - 6:00 pm every week. Our first meeting of the 2019-2020 season will be Intro Day on September 13th. The week of September 16th - 20th, however, we will be meeting every day Monday - Friday to give new members a more extensive introduction to the team and what we do. You can look at [our calendar](/members/calendar/) for details.
+In short - Yes.  
+The Game for 2024 will be released on Saturday Jan. 6 at 8 AM PST at **KICKOFF** (this is during the CCA Winter Break).  The Team will meet every day, all day, until school begins on Wednesday Jan. 10, 2024.
+Attendance is mandatory for all Team members for these 4 days.
 
-During Competition Season (February 26 - April 20), we meet as necessary based upon which Competitions we attend. The Travel Team will compete at 2 Regional Competitions (specific events TBD) for the 2020 Competition season. If we are successful at our Regional competitions and we earn a slot, we will also travel to Houston Texas for the [FRC World Championships](https://www.firstchampionship.org/welcome). 
--->
+### **Why?**
+Having 4 solid days of prototyping and workshop access gives the Team a tremendous advantage in robot build and test.  Designing and building an entire robot from scratch in 8 weeks is a daunting task, and every moment we can get, we will use.
 
-**What does a robotics team do? What are these competitions like?**
+
+## **What does a robotics team do? What are these competitions like?**
 
 The best description of FRC Robotics was covered in an "HBO Real Sports" documentary you can view [here](https://www.youtube.com/watch?v=18OCZz8yKtU).
 
 You can also see [Disney+'s More Than Robots](https://www.disneyplus.com/movies/more-than-robots/1OkBDAcESiGf), a documentary on FRC Robotics covering 2020's Infinite Recharge. 
 
-**Where do you guys meet?**
+## **Where do you guys meet?**
 
-We meet in the Robotics Workshop, which is the gated area right next to the Nest and under the Learning Commons. It is a part of the Administration building.
+We meet in the Robotics Workshop, the Cage and the Nest.
+The Robotics workshop is in the Administration ("A") Building, to the right of the flagpole but before you enter the CCA metal fence/locked gate.  The Workshop is directly under the Learning Commons.  
+Through the locked gate, the first left is The Nest.  If you continue walking and curve to your left, the next conference room is the Cage. 
 
-**Is it mandatory that I be at every meeting?**
+## **Is it mandatory that I be at every meeting?**
 
-It is heavily recommended. You are required to attend at least 75% of all meetings each month. Ask your Department Coordinator for more specific information regarding your department's meetings.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
+Pretty much. You are required to attend at least 75% of all meetings each month. Ask your Department Coordinator for more specific information regarding your department's meetings.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
 
-<!-- Yes.  You are expected to attend the weekly All-Team meeting and your department meetings.  Assume your department meetings are mandatory - if they are optional, your Department Coordinator will announce that in advance. All training meetings are mandatory as well. -->
 
-**Is it mandatory that I stay for the entire meeting?**
+## **Is it mandatory that I stay for the entire meeting?**
 
 You are expected to stay for the entire meeting. If you need to leave early, then be sure to contact your department coordinator ahead of time.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
 
-**I have a fall sport. Can I be involved?**
+## **I have a fall sport. Can I be involved?**
 
 If you can manage the time commitment of the Robotics Team and a Sport - yes.  If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  Please see our [handbook](https://docs.google.com/document/d/1FuUlnkb8Uu6bk48-DDJ0aCf_cCHZcDMseKd6DkKox-U/edit?usp=sharing) for more information.
 
-<!--
-**I have a sport during competition season. Can I get involved during Fall/Spring?**
 
-If you really can’t be a part of the team during the main competition season, you are still welcome to join us during our off-season. We usually have build projects going and different workshops that can teach you valuable information about all sorts of mechanical, electrical, programming, or construction-related skills.
--->
+## **Who goes to your competitions? What are competition positions? Who are they open to?**
 
-**Who goes to your competitions? What are competition positions? Who are they open to?**
+Regional competition events are held March 1 - April 7 2024.    Team 3128 will bring our **Travel Team** to any Travel Regional events.  **Travel Team** is made up of the students that choose to apply for, and are selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all Team members are expected to attend our home Regional Competition, the Travel Team has very specific positions that are vital to our success.
 
-**Travel Team** is made up of the students selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all students are allowed to join us at our home regional and help us compete, our travel team has very specific positions that are vital to our success.
+Interviews for specific, key positions on the Travel Team are held throughout November & December, during preseason.  Most Travel Team positions are selected near the end of build season based on performance during build.
 
-Interviews for specific, key positions on the travel team are held throughout November, during preseason.  Most travel team positions are selected near the end of build season based on performance during build.
+All Team members may attend World Championships (if we qualify) in Houston TX Championships (April 16-20, 2024). It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
 
-Parents and students not on our travel team are invited to join us at the San  Diego Regional competition, and if we qualify, Houston Championships (April 20-24, 2022). It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
-
-**I have some other questions. How can I contact the team?**
+## **I have some other questions. How can I contact the team?**
 
 Feel free to email us at info@team3128.org, or see [our contact page](/contact/) for other specific emails. 
