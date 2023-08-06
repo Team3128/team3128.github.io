@@ -59,6 +59,7 @@ For example – if you are most interested in Marketing and Strategy, you **must
 ## **Time Commitment Expected**
 ### **Joining Team 3128 is a large time commitment.**
 - All Departments will meet 3 times a week in the fall, plus all-day Saturday (and some Sundays) from January – April.
+  - See the Team [Calendar](http://team3128.org/members/calendar) for specifics 
 - All members must attend at least 75% of all meetings, for the duration of the meeting.  Students who do not meet attendance will be dropped from the Team.
 - See our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for full information.
 
