@@ -17,6 +17,13 @@
           		<li><a class="footer-list-a" href="/contact/">Contact</a></li>
           	</ul>
      			</div>
+				 {% for social in site.data.socials %}
+				 <div style="display: inline-flex; width: 10%">
+					 <a href="{{ social.link }}">
+						 <img id="{{ social.name }}" />
+					 </a>
+				 </div>
+			 {% endfor %}
       		<div align="right" class="footer-col footer-col-3">
         		<p>{{ site.description }}</p>
       		</div>
