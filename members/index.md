@@ -24,10 +24,10 @@ Team 3128 is capped at 80 students - available spots are limited and competitive
 **Narweek** begins with **Intro Day** on **Friday August 25, 2023 at 3:30 PM** in the robotics workshop.
 
 **Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
-- Monday Aug. 28 – Business 
+- Monday Aug. 28 – Mechanical 
 - Tuesday Aug. 29 – Controls
-- Wednesday Aug. 30 – Marketing
-- Thursday Aug. 31 – Mechanical
+- Wednesday Aug. 30 – Business
+- Thursday Aug. 31 – Marketing
 - Friday Sept. 1 – Strategy     
 
 Each department will present on their day and give a brief introduction of what they do.  You will have the opportunity to meet current members, see what we do, ask questions, and check out the workshop.
