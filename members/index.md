@@ -42,7 +42,7 @@ For example – if you are most interested in Marketing and Strategy, you **must
 - Attend **Narweek (Aug 28 – Sept. 1) for the departments that interest you**
 - Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
-- **Fill out an Application**, choosing your top 2 departments.
+- **Fill out an [Application](https://forms.gle/QAuayY5XhPN35Giz7)**, choosing your top 2 departments.
    - **Applications will open Wednesday Aug. 30 at 6 PM**, link to the Application will be right here on the Website.
    - Applications are due Friday September 1, 2023 at midnight.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
