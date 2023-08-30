@@ -35,11 +35,11 @@
   title: Controls Software Lead
   blurb: Mason is a junior at CCA and a third year member of team 3128. He has two pet cats and as a result enjoys obsessing over anything cat related including the popular book series Warrior Cats. Mason is responsible for dealing with the spaghetti code the robot somehow runs on as well as “fixing” the numerous software issues throughout the season. He looks forward to teaching new members as well as the new Warrior Cats releases.
 
-# - group: projectleads
-#   name:  Torrey S.
-#   photo: kylo
-#   title: Marketing Curriculum Lead
-#   blurb: 
+- group: projectleads
+  name:  Torrey S.
+  photo: torrey
+  title: Marketing Curriculum Lead
+  blurb: Torrey is a second-year sophomore member of the marketing department. You might find them hanging around the workshop taking pictures for the team's Instagram. The majority of the buttons around the workshop are made by Torrey. As Marketing curriculum lead, Torrey makes the schedule and plans marketing activities. They appreciate that they have more of a say in marketing projects. Outside of robotics, Torrey enjoys reading, painting, and baking, as well as some of their favorite things are Star Trek, Disney, and Funko Pops.
   
 - group: projectleads
   name: Juno C.
@@ -75,7 +75,7 @@
   name: Inchara J.
   photo: incharaa
   title: Website Lead
-  blurb: Inchara is a Senior who has been on Team 3128 since her freshmen year. A dedicated member of Strategy, Inchara's favorite part of the Narwhals is their welcoming culture and friendly attitude, as well as creating game strategies for competitons. When not in a meeting, she loves to sing, play tennis, and study astronomy.
+  blurb: Inchara is a Senior who has been on Team 3128 since her freshmen year. Aside from being on the team as a member of Strategy, she is deeply intrigued by the universe and hopes to study the stars someday.
 
 - group: projectleads
   name: Logan H.
@@ -200,11 +200,11 @@
   title: Business Coordinator
   blurb: William is a senior and a fourth year member of the team. William started off in the Mechanical department, but eventually swapped to the Business department to help raise money for the team. William has worked on many large grants, including a sponsorship from NASA. He also ran this year's Narwhal Summer Camp which was a huge success. Outside of robotics, William enjoys playing the violin, cooking, and learning languages.
   
-# - group: leaders
-#   name: Mihika T.
-#   photo: mihika
-#   title: Controls Coordinator
-#   blurb: Mihika is made of partially hydrogenated vegetable oil; salt; corn, wheat, and oat flour; sugar; sodium ascorbate and ascorbic acid (vitamin C); blue #1; yellow #6; red #40; niacinamide; zinc oxide; reduced iron; natural orange, lemon, cherry, blueberry, raspberry, lime, and other natural flavors; tumeric color; annatto color; pyridoxine hydrochloride (vitamin B6); riboflavin (vitamin B2); vitamin A palmitate (protected with BHT); thiamin hydrochloride (Vitamin B1); folic acid; and vitamin D.
+- group: leaders
+  name: Mihika T.
+  photo: mihika
+  title: Controls Coordinator
+  blurb: Mihika is a senior at CCA and has been part of the Controls department since freshman year. In her past 3 years on the team, she has contributed to several projects and robot subsystems. Last year, Mihika was the Controls Curriculum Lead and the pivot subsystem lead. As the Controls Coordinator, Mihika oversees the Controls department, coordinating projects and subsystems through off season and build season, and managing communication with other departments to help the team be unified. In her free time, Mihika enjoys swimming, playing piano, reading, and hiking. This year, she looks forward to meeting all the new members and working on new and exciting projects!
   
 - group: leaders
   name: Michelle Y.
