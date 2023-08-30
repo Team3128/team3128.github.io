@@ -11,7 +11,7 @@ redirect_from:
 
 ## **When You Can Join Team 3128**
 
-Team 3128 accepts new member applications in **early Fall only**.   The 2023-34 Application due date is September 1, 2023 at midnight.
+Team 3128 accepts new member applications in **early Fall only**. You must be a *current student at CCA* to join Team 3128. The 2023-34 Application due date is **September 1, 2023 at midnight**. 
 
 Team 3128 is capped at 80 students - available spots are limited and competitive.
 
@@ -40,8 +40,8 @@ For example – if you are most interested in Marketing and Strategy, you **must
 - Be a current student at CCA*
 - Attend **Intro Day** on **August 25th at 3:30pm in the Robotics Workshop**
 - Attend **Narweek (Aug 28 – Sept. 1) for the departments that interest you**
+- Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
-- Be sure you can meet the time commitment (see below)
 - **Fill out an Application**, choosing your top 2 departments.
    - **Applications will open Wednesday Aug. 30 at 6 PM**, link to the Application will be right here on the Website.
    - Applications are due Friday September 1, 2023 at midnight.  **No late applications will be accepted.**

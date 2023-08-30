@@ -13,21 +13,21 @@
  #sub-team leads 
 - group: projectleads
   name:  Claire L.
-  photo: calvin_hobbes
+  photo: claire
   title: Business Curriculum Lead
   blurb: Claire, a senior and fourth-year member of the team, is the team's Business curriculum lead and former department co-coordinator. During her time as a Narwhal, she's worked on many grants (including one accepted by NASA), designed and written newsletters sent to sponsors, spoken to judges at competitions about Team 3128, and more. Her favorite part of being on the Narwhals, however, has been befriending people with all kinds of personalities and interests inside and outside FRC. When she's not running to and from the copy machine to archive reimbursement forms, she enjoys playing video games, hanging out with friends, and listening to good music.
   
-- group: projectleads
-  name:  Arav C.
-  photo: rutherford2
-  title: Controls Curriculum Lead
-  blurb: 
+# - group: projectleads
+#   name:  Arav C.
+#   photo: rutherford2
+#   title: Controls Curriculum Lead
+#   blurb: 
 
-- group: projectleads
-  name:  Teja Y.
-  photo: Boimler
-  title: Controls Electrical Lead
-  blurb: 
+# - group: projectleads
+#   name:  Teja Y.
+#   photo: Boimler
+#   title: Controls Electrical Lead
+#   blurb: 
 
 - group: projectleads
   name: Mason L.
@@ -35,11 +35,11 @@
   title: Controls Software Lead
   blurb: Mason is a junior at CCA and a third year member of team 3128. He has two pet cats and as a result enjoys obsessing over anything cat related including the popular book series Warrior Cats. Mason is responsible for dealing with the spaghetti code the robot somehow runs on as well as “fixing” the numerous software issues throughout the season. He looks forward to teaching new members as well as the new Warrior Cats releases.
 
-- group: projectleads
-  name:  Torrey S.
-  photo: kylo
-  title: Marketing Curriculum Lead
-  blurb: 
+# - group: projectleads
+#   name:  Torrey S.
+#   photo: kylo
+#   title: Marketing Curriculum Lead
+#   blurb: 
   
 - group: projectleads
   name: Juno C.
@@ -59,11 +59,11 @@
   title: Mechanical Manufacturing Lead
   blurb: Jaden is a junior and 3rd year member of the mechanical department. When he’s not verbally berating the CNC or crying over misaligned boxtube, he enjoys making art, watching sitcoms, and burning food in an attempt to cook. He looks forward to showing new team members how to operate tools and machinery around the workshop, and ensuring that the robot physically exists and functions by the time competition season rolls around.
 
-- group: projectleads
-  name:  Raynor S.
-  photo: star_wars_c_h
-  title: Strategy Curriculum Lead
-  blurb: 
+# - group: projectleads
+#   name:  Raynor S.
+#   photo: star_wars_c_h
+#   title: Strategy Curriculum Lead
+#   blurb: 
   
 - group: projectleads
   name: James S.
@@ -89,6 +89,11 @@
   title: Safety Captain
   blurb: Lachlan is a Sophomore (finally!!) who has been on the team since his Freshmen year.  He chose Safety Captain over pulling from the Job Jar.  Outside of robotics he likes to collect monster cans in his darkened room, while playing League of Legends and COD on his Xbox.
   
+- group: projectleads
+  name: Siri R.
+  photo: siri
+  title: Drive Coach
+  blurb:  Siri Rodin is a senior on the Aluminum Narwhals. She is a devoted member of both the Strategy and Marketing departments. Additionally, she has been a member of the Drive Team for three years and she loves making strategies on the fly! Her favorite part of robotics is working with new people at competitions and sewing narwhal horns. Outside of robotics, Siri likes to knit, go hiking, dance, and play with her two cats! 
 
 #   Mentors
 - group: mentors
@@ -170,7 +175,11 @@
   title: Mentor
   blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
 
-
+- group: mentors
+  name: Jessica Xiang
+  photo: jess
+  title: Mentor
+  blurb: Jessica works for a defense startup as a instrumentation software engineer. She is an alumni of 3128 (‘16-‘19) and has a BS in Computer Science from Rose-Hulman. While in the Midwest, she worked with FRC 5188 as a non-technical mentor and volunteered at FIN events. She’s excited to be back and assist with marketing and travel planning. In her limited free time, she enjoys baking, beach volleyball, pottery, and exploring LA, where she is now based out of.
 
 #   Leaders
 - group: leaders
@@ -191,11 +200,11 @@
   title: Business Coordinator
   blurb: William is a senior and a fourth year member of the team. William started off in the Mechanical department, but eventually swapped to the Business department to help raise money for the team. William has worked on many large grants, including a sponsorship from NASA. He also ran this year's Narwhal Summer Camp which was a huge success. Outside of robotics, William enjoys playing the violin, cooking, and learning languages.
   
-- group: leaders
-  name: Mihika T.
-  photo: mihika
-  title: Controls Coordinator
-  blurb: Mihika is made of partially hydrogenated vegetable oil; salt; corn, wheat, and oat flour; sugar; sodium ascorbate and ascorbic acid (vitamin C); blue #1; yellow #6; red #40; niacinamide; zinc oxide; reduced iron; natural orange, lemon, cherry, blueberry, raspberry, lime, and other natural flavors; tumeric color; annatto color; pyridoxine hydrochloride (vitamin B6); riboflavin (vitamin B2); vitamin A palmitate (protected with BHT); thiamin hydrochloride (Vitamin B1); folic acid; and vitamin D.
+# - group: leaders
+#   name: Mihika T.
+#   photo: mihika
+#   title: Controls Coordinator
+#   blurb: Mihika is made of partially hydrogenated vegetable oil; salt; corn, wheat, and oat flour; sugar; sodium ascorbate and ascorbic acid (vitamin C); blue #1; yellow #6; red #40; niacinamide; zinc oxide; reduced iron; natural orange, lemon, cherry, blueberry, raspberry, lime, and other natural flavors; tumeric color; annatto color; pyridoxine hydrochloride (vitamin B6); riboflavin (vitamin B2); vitamin A palmitate (protected with BHT); thiamin hydrochloride (Vitamin B1); folic acid; and vitamin D.
   
 - group: leaders
   name: Michelle Y.
