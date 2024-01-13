@@ -44,6 +44,18 @@
 #  type: link
 #  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
 #  description: The link to the 2023-2024 Team 3128 handbook.
+
+- name: 2024 AVR Travel Commitment Form
+  category: info
+  type: link
+  link: https://docs.google.com/document/d/1yk3s-1DTix-0rC517kuYz8couIH-kzWcVWDVVFnROyo/edit?usp=sharing
+  description: The link to the 2024 Arizona Valley Regional Travel Commitment form
+
+- name: 2024 AVR Parent Info Presentation
+  category: info
+  type: link
+  link: https://docs.google.com/presentation/d/19_ZEXJorcvTGQqbnaBaFGCj0bbzD0xnm8ZZcYNZO-KA/edit?usp=sharing
+  description: The link to the 2024 Arizona Valley Regional Parent Info slide deck
   
 - name: 2023-2024 Handbook
   category: info
