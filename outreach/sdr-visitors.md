@@ -1,11 +1,19 @@
 ---
 layout: grouped_page
 title: Outreach
-subtitle: Information for Visiting Teams
+subtitle: SDR Visitors
 permalink: /outreach/sdr-visitors/
 ---
 
 # **San Diego Regional: March 20-23, 2024**
+
+## FRC Teams in San Diego
+If you have found this website, Hello from FRC 3128 "The Aluminum Narwhals"
+
+We are located at Canyon Crest Academy, and we invite all visiting FRC Teams to contact us if you would like to arrange a tour of our high school and our workshop
+Please contact us at [info@team3128.org](info@team3128.org)
+
+[Map of FRC teams around the World](https://firstmap.github.io/)
 
 # Location of SDR
 ### Map of everything San Diego Regional (SDR):
@@ -79,11 +87,3 @@ We have mapped the San Diego Zoo and Safari Park, Sea World, Scripps and Birch A
 Also visit: [https://www.sandiego.org/explore/things-to-do/attractions.aspx](https://www.sandiego.org/explore/things-to-do/attractions.aspx)
 
 Beware of Blacks Beach - it is a 'clothing optional' beach!
-
-## FRC Teams in San Diego
-If you have found this website, Hello from FRC 3128 "The Aluminum Narwhals"
-
-We are located at Canyon Crest Academy, and we invite all visiting FRC Teams to contact us if you would like to arrange a tour of our high school and our workshop
-Please contact us at [info@team3128.org](info@team3128.org)
-
-[Map of FRC teams around the World](https://firstmap.github.io/)

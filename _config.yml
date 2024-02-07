@@ -8,9 +8,9 @@
 # Site settings
 title: "Team 3128: Aluminium Narwhals"
 email: info@team3128.org
-description: "Copyright © 2015-2023 Team 3128: Aluminum Narwhals"
+description: "Copyright © 2015-2024 Team 3128: Aluminum Narwhals"
 baseurl: ""
-url: "http://team3128.org"
+url: "https://team3128.org"
 github_username: Team3128
 excerpt_separator: ?more?
 
