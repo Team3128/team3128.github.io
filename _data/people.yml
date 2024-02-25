@@ -12,12 +12,6 @@
 
  #sub-team leads 
 - group: projectleads
-  name:  Claire L.
-  photo: claire
-  title: Business Curriculum Lead
-  blurb: Claire, a senior and fourth-year member of the team, is the team's Business curriculum lead and former department co-coordinator. During her time as a Narwhal, she's worked on many grants (including one accepted by NASA), designed and written newsletters sent to sponsors, spoken to judges at competitions about Team 3128, and more. Her favorite part of being on the Narwhals, however, has been befriending people with all kinds of personalities and interests inside and outside FRC. When she's not running to and from the copy machine to archive reimbursement forms, she enjoys playing video games, hanging out with friends, and listening to good music.
-  
-- group: projectleads
   name:  Arav C.
   photo: arav
   title: Controls Curriculum Lead
@@ -30,10 +24,16 @@
 #   blurb: 
 
 - group: projectleads
-  name: Mason L.
-  photo: Mason_L
+  name: Teja Y.
+  photo: mando
   title: Controls Software Lead
-  blurb: Mason is a junior at CCA and a third year member of team 3128. He has two pet cats and as a result enjoys obsessing over anything cat related including the popular book series Warrior Cats. Mason is responsible for dealing with the spaghetti code the robot somehow runs on as well as “fixing” the numerous software issues throughout the season. He looks forward to teaching new members as well as the new Warrior Cats releases.
+  blurb: TBD
+
+- group: projectleads
+  name: Leo L.
+  photo: mando
+  title: Controls Electrical Lead
+  blurb: TBD
 
 - group: projectleads
   name:  Torrey S.
@@ -58,24 +58,12 @@
   photo: Jaden_Shadel
   title: Mechanical Manufacturing Lead
   blurb: Jaden is a junior and 3rd year member of the mechanical department. When he’s not verbally berating the CNC or crying over misaligned boxtube, he enjoys making art, watching sitcoms, and burning food in an attempt to cook. He looks forward to showing new team members how to operate tools and machinery around the workshop, and ensuring that the robot physically exists and functions by the time competition season rolls around.
-
-# - group: projectleads
-#   name:  Raynor S.
-#   photo: star_wars_c_h
-#   title: Strategy Curriculum Lead
-#   blurb: 
   
 - group: projectleads
   name: James S.
   photo: James_Sun
   title: Scouting Systems Lead
   blurb: James is a member of the strategy department in 3128, and is the team's scouting systems lead this year. He enjoys biking, photography, and reality tv shows. He has a pet bird and his favorite color is purple. His favorite part about being on the team is having the opportunity to become great friends with other team members and also meet fellow robotics fans across the world.
-  
-- group: projectleads
-  name: Inchara J.
-  photo: incharaa
-  title: Website Lead
-  blurb: Inchara is a Senior who has been on Team 3128 since her freshmen year. Aside from being on the team as a member of Strategy, she is deeply intrigued by the universe and hopes to study the stars someday.
 
 - group: projectleads
   name: Logan H.
@@ -116,6 +104,12 @@
   blurb: 'Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.'
 
 - group: mentors
+  name: Fred Chen
+  photo: fred
+  title: Coach - Controls
+  blurb: Fred has a B.S. in Electrical Enginering from Cornell University with an emphasis in digital signal processing. He started his career at a large company in San Diego, gloriously pulling cables out of cellular telecom equipment, before he realized software and Legos were his calling. He worked at several enterprise software company startups in the Bay Area before moving back to San Diego to pursue his ultimate passion in mobile application software. Incubating mobile application products on a fledgling “Android 1.0” mobile platform, he was unsuccessful in convincing executives to invest in this game changing mobile platform because it was “unproven with limited market potential”, and investments were better made in “tried and true mobile platforms that would stand the test of time” - Symbian, Windows Mobile, and Blackberry O/S... Fred spent the remainder of his career managing large mobile software engineering teams developing Android and iOS connectivity application products. In his spare time, he enjoys racing and breaking his Miatas at autocrosses and track day events or adding to his growing tool collection.
+
+- group: mentors
   name: Lisa Saam
   photo: lisa_saam
   title: Mechanical
@@ -124,14 +118,8 @@
 - group: mentors
   name: Paul Saam
   photo: Paul_Saam
-  title: Liaison
+  title: Liaison, Business
   blurb: Paul has a B.S. in Engineering from Harvey Mudd College. He worked as a medical device engineer for two startups, driving them both out of business, before deciding to obtain his MBA at Duke University. He has spent the last 17 years working in Business Development for Zimmer Biomet, a global orthopedics company. He works primarily with the Business team, supporting the Robotics Summer Camp and acts as a liaison with the Canyon Crest Academy Foundation.
-
-- group: mentors
-  name: Fred Lee
-  photo: fred
-  title: Controls
-  blurb: Fred has a B.S. in Electrical Enginering from Cornell University with an emphasis in digital signal processing. He started his career at a large company in San Diego, gloriously pulling cables out of cellular telecom equipment, before he realized software and Legos were his calling. He worked at several enterprise software company startups in the Bay Area before moving back to San Diego to pursue his ultimate passion in mobile application software. Incubating mobile application products on a fledgling “Android 1.0” mobile platform, he was unsuccessful in convincing executives to invest in this game changing mobile platform because it was “unproven with limited market potential”, and investments were better made in “tried and true mobile platforms that would stand the test of time” - Symbian, Windows Mobile, and Blackberry O/S... Fred spent the remainder of his career managing large mobile software engineering teams developing Android and iOS connectivity application products. In his spare time, he enjoys racing and breaking his Miatas at autocrosses and track day events or adding to his growing tool collection.
 
 - group: mentors
   name: Sylvia Chan
@@ -139,12 +127,6 @@
   title: Liaison, Travel
   blurb: Sylvia has a B.S. and M.S. in Nursing from UCLA. She has worked as RN and Nurse Practitioner in the past.  Currently she is a charge nurse in Scripps Urgent Care Torrey Pines. Sylvia has been supporting Team 3128 since 2016. She is the team liaison.  She helps in travel and meal planning during competition. She loves to travel, read and spending time with her family. Go Narwhals!!
 
-- group: mentors
-  name: Anna Lee
-  photo: anna
-  title: Liaison
-  blurb: Anna Lee was born in Seoul, Korea and grew up in Duesseldorf, Germany. She graduated from Brown University with degree in Biology. She then did some graduate work at Johns Hopkins School of Public Health. She loves to travel, cook, and collect LEGO sets. 
-  
 - group: mentors
   name: Michael Brown
   title: Controls
@@ -162,12 +144,6 @@
   photo: ningze
   title: Controls
   blurb: Ningze has a mechanical engineering training background and a lot of project management experience. He really enjoys sharing his learning with the young adults in the team. He is quite amazed by the CCA FRC team talent and organization and is excited to be part of community!
-
-- group: mentors
-  name: Mayank Tiwari
-  photo: mayank
-  title: Strategy
-  blurb: Mayank holds a PhD in Electrical and Computer Engineering from UCSD, specializing in signal and image processing. He is currently working as a Video and Vision Systems Engineer at Qualcomm Technologies Inc. He has been coaching/mentoring various FLL and FTC teams as well as actively volunteering for FIRST events since 2017. Mayank is currently a mentor for the strategy department and a parent volunteer for Team 3128. He greatly enjoys hiking/mountaineering and would like to climb Mt. Everest some day.
 
 - group: mentors
   name: Christine Lau Dizon
@@ -229,18 +205,12 @@
   photo: kailani
   title: President
   blurb: Kailani Minna-Choe is excited to spend her Junior year and 3rd year on the team as the Technical President. Last year, she was the Technical Project Manager and Aluminum Assistance Lead. In the past, she has worked in order to facilitate communication between departments and team members in order to build a super cool robot! She hopes to continue that mentality to the new year. In her (very limited) free time, Kai plays beach volleyball, boxes, and draws.
-  
+
 - group: leaders
-  name: William R.
-  photo: william
-  title: Business Coordinator
-  blurb: William is a senior and a fourth year member of the team. William started off in the Mechanical department, but eventually swapped to the Business department to help raise money for the team. William has worked on many large grants, including a sponsorship from NASA. He also ran this year's Narwhal Summer Camp which was a huge success. Outside of robotics, William enjoys playing the violin, cooking, and learning languages.
-  
-- group: leaders
-  name: Mihika T.
-  photo: mihika
+  name: Mason L.
+  photo: Mason_L
   title: Controls Coordinator
-  blurb: Mihika is a senior at CCA and has been part of the Controls department since freshman year. In her past 3 years on the team, she has contributed to several projects and robot subsystems. Last year, Mihika was the Controls Curriculum Lead and the pivot subsystem lead. As the Controls Coordinator, Mihika oversees the Controls department, coordinating projects and subsystems through off season and build season, and managing communication with other departments to help the team be unified. In her free time, Mihika enjoys swimming, playing piano, reading, and hiking. This year, she looks forward to meeting all the new members and working on new and exciting projects!
+  blurb: Mason is a junior at CCA and a third year member of team 3128. He has two pet cats and as a result enjoys obsessing over anything cat related including the popular book series Warrior Cats. Mason is responsible for dealing with the spaghetti code the robot somehow runs on as well as “fixing” the numerous software issues throughout the season. He looks forward to teaching new members as well as the new Warrior Cats releases.
   
 - group: leaders
   name: Michelle Y.
