@@ -45,6 +45,12 @@
 #  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
 #  description: The link to the 2023-2024 Team 3128 handbook.
 
+- name: 2024 FIRST Championship Commitment Form
+  category: info
+  type: link
+  link: https://drive.google.com/file/d/187s5r_19JsMcz1PthHYsRKZ6LfpXAiQE/view?usp=drivesdk
+  description: The link to the 2024 FIRST Houston Championship Travel Commitment form
+
 - name: 2024 AVR Travel Commitment Form
   category: info
   type: link
