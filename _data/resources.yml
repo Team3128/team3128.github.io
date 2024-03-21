@@ -45,6 +45,12 @@
 #  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
 #  description: The link to the 2023-2024 Team 3128 handbook.
 
+- name: 2024 FIRST Championship Info Presentation
+  category: info
+  type: link
+  link: https://docs.google.com/presentation/d/1VAVcokKsHEMdnalrSJyZhpVxCbA5Tyf-cZAf0NrrtQA/edit?usp=sharing
+  description: The link to the 2024 FIRST Houston Championship Information slides presentation given on March 20th
+
 - name: 2024 FIRST Championship Commitment Form
   category: info
   type: link
