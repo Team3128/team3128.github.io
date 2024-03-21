@@ -1,66 +1,124 @@
 
-# 2021/2022 Sponsor
- - level: Title
-   name: DoDSTEM
-   description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
-   logo: /assets/sponsorlogos/dodstem.png
-   link: https://dodstem.us
+# 2023/2024 Sponsor
+- level: Platinum
+  name: DoDSTEM
+  description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
+  logo: /assets/sponsorlogos/dodstem.png
+  link: https://dodstem.us
 
-# 2022/2023 Sponsor
- - level: Gold
-   name: NASA
-   description: The National Aeronautics and Space Administration is global leading space agency for civil space program, aeronautics research, and space exploration.
-   logo: /assets/sponsorlogos/NASA.png
-   link: https://www.nasa.gov/
+# 2023/2024 Sponsor
+- level: Silver
+  name: Gene Haas
+  description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
+  logo: /assets/sponsorlogos/genehaas.png
+  link: https://ghaasfoundation.org/
 
-# 2022/2023 Sponsor
- - level: Silver
-   name: Qualcomm
-   description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
-   logo: /assets/sponsorlogos/qualcomm.png
-   link: http://qualcomm.com
-  
-# 2022/2023 Sponsor
- - level: Silver
-   name: Solectek Corp
-   description: Solectek Corp is an American company on the forefront of improving wireless communication.
-   logo: /assets/sponsorlogos/solectek.png
-   link: https://www.solectek.com/
+# 2023/2024 Sponsor
+- level: Bronze
+  name: Intuitive Foundation
+  description: Intuitive Surgical Inc. is an American corporation that develops, manufactures and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System.
+  logo: /assets/sponsorlogos/intuitive1.png
+  link: https://www.intuitive.com/en-us
 
-   # 2022/2023 Sponsor
- - level: Silver
-   name: Gene Haas
-   description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
-   logo: /assets/sponsorlogos/genehaas.png
-   link: https://ghaasfoundation.org/
-
-# 2022/2023 Sponsor
- - level: Silver
-   name: Adaptive Sensory Technology
-   description: 
-   logo: /assets/sponsorlogos/ast.png
-   link: https://www.adaptivesensorytech.com/
-
-# 2022/2023 Sponsor
- - level: Bronze
-   name: BAE Systems
-   description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
-   logo: /assets/sponsorlogos/baesystems1.png
-   link: https://www.baesystems.com/en/home
-
-# 2022/2023 Sponsor
- - level: Bronze
-   name: TE Connectivity
-   description: TE Connectivity is a US-Swiss company focused on developing sensors and making innovations in connectivity.
-   logo: /assets/sponsorlogos/teconnectivity.png
-   link: https://www.te.com/usa-en/home.html
-
-# 2022/2023 sponsor
+# 2023/2024 Sponsor
 - level: Bronze
   name: Lockheed Martin
   description: Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology corporation. Its goal is to develop innovative technology and advance the boundaries of science.
-  logo: /assets/sponsorlogos/lockheedmartin.png
+  logo: /assets/sponsorlogos/lockheed.png
   link: https://www.lockheedmartin.com/en-us/index.html
+
+# 2023/2024 Sponsor
+- level: Silver
+  name: Qualcomm
+  description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
+  logo: /assets/sponsorlogos/qualcomm.png
+  link: http://qualcomm.com
+
+# 2023/2024 Sponsor
+- level: Silver
+  name: RTX - Raytheon
+  description:
+  logo: /assets/sponsorlogos/rtx.png
+  link: https://www.rtx.com/raytheon
+
+# 2023/2024 Sponsor
+- level: Bronze
+  name: Solar Turbines
+  description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner.
+  logo: /assets/sponsorlogos/SolarTurbines.png
+  link: https://www.solarturbines.com/
+
+# 2023/2024 Sponsor
+- level: Bronze
+  name: TE Connectivity
+  description: TE Connectivity is a US-Swiss company focused on developing sensors and making innovations in connectivity.
+  logo: /assets/sponsorlogos/teconnectivity.png
+  link: https://www.te.com/usa-en/home.html
+
+# ----------------- Current sponsors above -----------------------
+
+# 2021/2022 Sponsor
+#  - level: Title
+#    name: DoDSTEM
+#    description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
+#    logo: /assets/sponsorlogos/dodstem.png
+#    link: https://dodstem.us
+
+# 2022/2023 Sponsor
+#  - level: Gold
+#    name: NASA
+#    description: The National Aeronautics and Space Administration is global leading space agency for civil space program, aeronautics research, and space exploration.
+#    logo: /assets/sponsorlogos/NASA.png
+#    link: https://www.nasa.gov/
+
+# 2022/2023 Sponsor
+#  - level: Silver
+#    name: Qualcomm
+#    description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
+#    logo: /assets/sponsorlogos/qualcomm.png
+#    link: http://qualcomm.com
+  
+# 2022/2023 Sponsor
+#  - level: Silver
+#    name: Solectek Corp
+#    description: Solectek Corp is an American company on the forefront of improving wireless communication.
+#    logo: /assets/sponsorlogos/solectek.png
+#    link: https://www.solectek.com/
+
+   # 2022/2023 Sponsor
+#  - level: Silver
+#    name: Gene Haas
+#    description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
+#    logo: /assets/sponsorlogos/genehaas.png
+#    link: https://ghaasfoundation.org/
+
+# 2022/2023 Sponsor
+#  - level: Silver
+#    name: Adaptive Sensory Technology
+#    description:
+#    logo: /assets/sponsorlogos/ast.png
+#    link: https://www.adaptivesensorytech.com/
+
+# 2022/2023 Sponsor
+#  - level: Bronze
+#    name: BAE Systems
+#    description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
+#    logo: /assets/sponsorlogos/baesystems1.png
+#    link: https://www.baesystems.com/en/home
+
+# 2022/2023 Sponsor
+#  - level: Bronze
+#    name: TE Connectivity
+#    description: TE Connectivity is a US-Swiss company focused on developing sensors and making innovations in connectivity.
+#    logo: /assets/sponsorlogos/teconnectivity.png
+#    link: https://www.te.com/usa-en/home.html
+
+# 2022/2023 sponsor
+# - level: Bronze
+#   name: Lockheed Martin
+#   description: Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology corporation. Its goal is to develop innovative technology and advance the boundaries of science.
+#   logo: /assets/sponsorlogos/lockheedmartin.png
+#   link: https://www.lockheedmartin.com/en-us/index.html
   
    # 2021/2022 Sponsor
 #  - level: Bronze

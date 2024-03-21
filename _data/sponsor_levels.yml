@@ -21,7 +21,7 @@
   id: 4
   color: "#c2c0bc"
   money: "$7,500-$9,999"
-  show: false
+  show: true
   benefits:
     - Featured as team sponsor on our competition robot (Large Logo)
     - Featured as team sponsor at our pit at FRC Competitions (Medium Logo)
@@ -39,7 +39,7 @@
   id: 3
   color: gold
   money: "$5,000-$7,499"
-  show: true
+  show: false
   benefits:
     - Featured as team sponsor on our competition robot (Medium Logo)
     - Featured as team sponsor at our pit at FRC Competitions (Small Logo)
