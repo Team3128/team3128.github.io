@@ -8,18 +8,44 @@
 #      awards: #the list of the awards that we won at that event
 #       - Really Cool First Award
 #       - Even Cooler Second Award
-- year: 2022
-  events: 
-  - name: Hopper Field, 2022 World Championships
+- year: 2024
+  events:
+  - name: Hueneme Port Regional
+    awards:
+    - Regional Finalists
+    - Innovation in Control Award
+  - name: Arizona Valley Regional
+    awards:
+    - Regional Winners
+
+- year: 2023
+  events:
+  - name: Hueneme Port Regional
+    awards:
+    - Autonomous Award sponsored by Ford
+  - name: San Diego Regional presented by Qualcomm
     awards:
     - Gracious Professionalism Award
-  - name: Port Hueneme Regional
+  - name: Beach Blitz presented by the Gene Haas Foundation
+    awards:
+    - Finalist
+
+- year: 2022
+  events:
+  - name: Hueneme Port Regional
     awards:
     - Innovation in Controls Award
-  - name: San Diego Regional
+  - name: San Diego Regional presented by Qualcomm
     awards:
     - Regional Winner
     - Gracious Professionalism Award
+    - FIRST Dean's List Finalist - Shreya Goel
+  - name: Hopper Division, 2022 World Championships
+    awards:
+    - Gracious Professionalism Award
+  - name: Beach Blitz presented by the Gene Haas Foundation
+    awards:
+    - Programmming Award
 
 - year: 2021
   events: 
@@ -35,7 +61,7 @@
 
 - year: 2019
   events:
-   - name: San Diego Regional
+   - name: San Diego Regional presented by Qualcomm
      awards:
       - Regional Semifinalist
       - Quality Award sponsored by Motorola Solutions Foundation
@@ -50,7 +76,7 @@
 
 - year: 2018
   events:
-   - name: San Diego Regional
+   - name: San Diego Regional presented by Qualcomm
      awards:
       - Regional Finalist
       - Innovation in Controls Award sponsored by Rockwell Automation
@@ -63,7 +89,7 @@
 
 - year: 2017
   events:
-   - name: San Diego Regional
+   - name: San Diego Regional presented by Qualcomm
      awards:
       - Regional Finalist
    - name: World Championships - Houston
