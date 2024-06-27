@@ -181,6 +181,42 @@
   title: Mentor
   blurb: Jessica works for a defense startup as a instrumentation software engineer. She is an alumni of 3128 (‘16-‘19) and has a BS in Computer Science from Rose-Hulman. While in the Midwest, she worked with FRC 5188 as a non-technical mentor and volunteered at FIN events. She’s excited to be back and assist with marketing and travel planning. In her limited free time, she enjoys baking, beach volleyball, pottery, and exploring LA, where she is now based out of.
 
+- group: mentors
+  name: Jessie Belden
+  photo: jessie
+  title: Mechanical
+  blurb: Jessie recently graduated from the Rochester Institute of Technology (RIT) with her Bachelor's and Master's in Mechanical Engineering. She now works as an engineer with ATA Engineering, primarily focused on assisting with the design and analysis of theme park rides and attractions. Originally from New Jersey, Jessie is an alumnus of FRC team 1676 the Pascack Pi-oneers and is excited to be on the mentor side of a team. In her free time, Jessie spends as much time as she can at local theme parks, going to concerts, and volunteering at a local animal shelter.
+
+- group: mentors
+  name: Daniel Rothfusz
+  photo: daniel
+  title: Controls
+  blurb: Daniel works as a MAC Engineer for Trellisware Technologies, developing software for walkie-talkies. He graduated with a B.S. in Electrical and Computer Engineering and a Certificate in Engineering Leadership from Rice University in 2022. Daniel grew attached to FRC during high school through his time on 5442 Mechanical Monarchy in Central Illinois, and is excited to find ways to give back to the FRC community. When not following technical pursuits, Daniel can be found singing in choir, playing piano, reading, hiking, or playing board games.
+
+- group: mentors
+  name: Sam Kleinberg
+  photo: sam
+  title: Business
+  blurb: Sam is a graduate of Arizona State University with a BS in Supply Chain Management. He currently serves as an Area Manager at Amazon and is a proud alum of FRC Team 980. In addition to his professional duties, Sam is an active business mentor for FRC 3128, the Aluminum Narwhals, and FRC 9432, Team 8-bit.In his spare time, Sam volunteers as a robot inspector for FRC and relishes spending time outdoors, exploring nature and participating in outdoor activities. His dedication to nurturing young engineers and his enthusiasm for outdoor pursuits reflect his deep commitment to both professional and personal growth.
+
+- group: mentors
+  name: Cameron Kholos
+  photo: default
+  title: Mentor
+  blurb: TBD
+
+- group: mentors
+  name: Cole Reiner
+  photo: default
+  title: Mentor
+  blurb: TBD
+
+- group: mentors
+  name: Chad Sweet
+  photo: default
+  title: Mentor
+  blurb: TBD
+
 #   Leaders
 - group: leaders
   name: Aidan R.
