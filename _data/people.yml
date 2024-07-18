@@ -12,76 +12,76 @@
 
  #sub-team leads 
 - group: projectleads
-  name:  Arav C.
-  photo: arav
-  title: Controls Curriculum Lead
-  blurb: Arav Chadha is a junior at CCA and a third year member of Team 3128. He has been a member of the controls department for all three years. When he's not at the workshop, Arav enjoys watching and analyzing sports, playing video games, biking, and learning in general. His favorite part of FRC is the thrill of representing Team 3128 in competitions, especially being a part of the action as a drive team member. Arav looks forward to teaching the new members and collaborating with his peers to create a world class robot.
-
-# - group: projectleads
-#   name:  Teja Y.
-#   photo: Boimler
-#   title: Controls Electrical Lead
-#   blurb: 
-
-- group: projectleads
-  name: Teja Y.
-  photo: mando
-  title: Controls Software Lead
-  blurb: TBD
-
-- group: projectleads
-  name: Leo L.
-  photo: mando
-  title: Controls Electrical Lead
-  blurb: TBD
-
-- group: projectleads
-  name:  Torrey S.
-  photo: torrey
-  title: Marketing Curriculum Lead
-  blurb: Torrey is a second-year sophomore member of the marketing department. You might find them hanging around the workshop taking pictures for the team's Instagram. The majority of the buttons around the workshop are made by Torrey. As Marketing curriculum lead, Torrey makes the schedule and plans marketing activities. They appreciate that they have more of a say in marketing projects. Outside of robotics, Torrey enjoys reading, painting, and baking, as well as some of their favorite things are Star Trek, Disney, and Funko Pops.
-  
-- group: projectleads
-  name: Juno C.
-  photo: Juno_C
-  title: Mechanical Curriculum Lead
-  blurb: Juno, a rising senior in the mechanical department, has been a part of the mechanical department for four years. During their time on the team, Juno designed parts of the robot, worked as a mechanic during regional competitions, repaired the robot when needed, and taught others about machines and design. Juno’s favorite part of being on the team is the close-knit friendships that come with working together during build-season and teaching others. One of her favorite animals is an opossum and outside of robotics, she enjoys sewing, drawing, painting, and sculpture, and listening to punk metal/emo rock.
-
-- group: projectleads
-  name: Jayden S.
-  photo: Jayden_S
+  name: Charlie S.
+  photo: default
   title: Mechanical Design Lead
-  blurb: Jayden is a senior at CCA and a fourth year member of team 3128. Jayden has been on the mechanical department for all four years. Outside of robotics Jayden is a Boy Scout. He is very excited to lead the design of the robot this year and help new members learn how to CAD.
+  blurb: Coming soon...
 
 - group: projectleads
-  name: Jaden S.
-  photo: Jaden_Shadel
+  name: Emmi D.
+  photo: default
   title: Mechanical Manufacturing Lead
-  blurb: Jaden is a junior and 3rd year member of the mechanical department. When he’s not verbally berating the CNC or crying over misaligned boxtube, he enjoys making art, watching sitcoms, and burning food in an attempt to cook. He looks forward to showing new team members how to operate tools and machinery around the workshop, and ensuring that the robot physically exists and functions by the time competition season rolls around.
-  
-- group: projectleads
-  name: James S.
-  photo: James_Sun
-  title: Scouting Systems Lead
-  blurb: James is a member of the strategy department in 3128, and is the team's scouting systems lead this year. He enjoys biking, photography, and reality tv shows. He has a pet bird and his favorite color is purple. His favorite part about being on the team is having the opportunity to become great friends with other team members and also meet fellow robotics fans across the world.
+  blurb: Coming soon...
 
 - group: projectleads
   name: Logan H.
-  photo: logan_h
-  title: Safety Captain
-  blurb: Logan is a Junior Mechanical member and former Controls member who's been on the team since Freshman year. Apart from forcing people to wear safety glasses and loving design but still being dumbfounded every time their CAD actually works, Logan loves making artistic props and trinkets, hanging out with friends, and creating vast fictional worlds within their mind.
+  photo: logan
+  title: Mechanical Curriculum Lead
+  blurb: Logan is a rising senior in the mechanical department, having been a part of the mechanical department for four years. They are betrothed to the OMIO and on "non-speaking terms" with the Velox, as well as looking forward to teaching these machines and others to incoming members. They still get astounded every time CAD works but are working on it ✨. Logan loves making artistic props and trinkets, writing, GMing, and vibing with friends. <br><br> They do not intend to cause mental anguish to the incoming members. They promise.
 
 - group: projectleads
-  name: Lachlan S.
-  photo: lachlan
-  title: Safety Captain
-  blurb: Lachlan is a Sophomore (finally!!) who has been on the team since his Freshmen year.  He chose Safety Captain over pulling from the Job Jar.  Outside of robotics he likes to collect monster cans in his darkened room, while playing League of Legends and COD on his Xbox.
-  
+  name: Vivian L.
+  photo: default
+  title: Mechanical Curriculum Lead
+  blurb: Coming soon...
+
 - group: projectleads
-  name: Siri R.
-  photo: siri
-  title: Drive Coach
-  blurb:  Siri Rodin is a senior on the Aluminum Narwhals. She is a devoted member of both the Strategy and Marketing departments. Additionally, she has been a member of the Drive Team for three years and she loves making strategies on the fly! Her favorite part of robotics is working with new people at competitions and sewing narwhal horns. Outside of robotics, Siri likes to knit, go hiking, dance, and play with her two cats! 
+  name: Colton C.
+  photo: default
+  title: Controls Electrical Lead
+  blurb: Coming soon...
+
+- group: projectleads
+  name: William Y.
+  photo: william
+  title: Controls Software Lead
+  blurb: Hey, I go by Wallim. I like to draw. I have a dog. I am best friends with Colton. I code once in a while.
+
+- group: projectleads
+  name: Sophia T.
+  photo: default
+  title: Controls Curriculum Lead
+  blurb: Coming soon...
+
+- group: projectleads
+  name: Sumana N.
+  photo: default
+  title: Scouting Systems Lead
+  blurb: Coming soon...
+
+- group: projectleads
+  name: Ian S.
+  photo: default
+  title: Strategic Design Lead
+  blurb: Coming soon...
+
+- group: projectleads
+  name: Justin W.
+  photo: default
+  title: Strategy Curriculum Lead
+  blurb: Coming soon...
+
+- group: projectleads
+  name: Adam W.
+  photo: default
+  title: Business Lead
+  blurb: Coming soon...
+
+- group: projectleads
+  name: Hanna H.
+  photo: default
+  title: Business/Marketing Curriculum Lead
+  blurb: Coming soon...
 
 #   Mentors
 - group: mentors
@@ -195,37 +195,37 @@
 
 #   Leaders
 - group: leaders
-  name: Aidan R.
+  name: Brynn L.
+  photo: default
   title: President
-  photo: aidan_sfw
-  blurb: Aidan is a senior member of the team, and is the current Operations President. He was the Department Coordinator of Strategy as a Junior, and the Curriculum Lead as a Sophomore. During his time on Strategy, he worked hard to expand their reach to the FRC community inside and outside of competition, especially by implementing new structures to organize his team. This year, he's excited to make the team a healthy and enjoyable place for all of its members, and is especially looking forward to meeting new members and helping them feel at home. In his free time, he enjoys working out, reading, and learning new things!
+  blurb: Coming soon...
   
 - group: leaders
-  name: Kailani M.
-  photo: kailani
+  name: Leo L.
+  photo: default
   title: President
-  blurb: Kailani Minna-Choe is excited to spend her Junior year and 3rd year on the team as the Technical President. Last year, she was the Technical Project Manager and Aluminum Assistance Lead. In the past, she has worked in order to facilitate communication between departments and team members in order to build a super cool robot! She hopes to continue that mentality to the new year. In her (very limited) free time, Kai plays beach volleyball, boxes, and draws.
+  blurb: Coming soon...
 
 - group: leaders
-  name: Mason L.
-  photo: Mason_L
+  name: Teja Y.
+  photo: default
   title: Controls Coordinator
-  blurb: Mason is a junior at CCA and a third year member of team 3128. He has two pet cats and as a result enjoys obsessing over anything cat related including the popular book series Warrior Cats. Mason is responsible for dealing with the spaghetti code the robot somehow runs on as well as “fixing” the numerous software issues throughout the season. He looks forward to teaching new members as well as the new Warrior Cats releases.
+  blurb: Coming soon...
   
 - group: leaders
-  name: Michelle Y.
-  photo: Michelle_Y
-  title: Marketing Coordinator
-  blurb: Michelle is a senior and second year member of the team. When she joined her junior year, she worked primarily on logo ideation, layout design, and article runs. She now also handles merchandise and travel logistics, and is also working to expand the role of video filming and editing within the Marketing department. Outside of robotics, she enjoys going on runs at night and working on graphic design projects. Michelle is looking forward to maintaining the team’s online presence and enhancing branding efforts.
+  name: Sophiann W.
+  photo: default
+  title: Business/Marketing Coordinator
+  blurb: Coming soon...
   
 - group: leaders
-  name: Maddy S.
-  photo: maddy_snod
+  name: Julia P.
+  photo: default
   title: Mechanical Coordinator
-  blurb: Maddy is a fourth year on the team and a Senior at school. Outside of robotics she is in Scouts and plays rugby. She has been involved with the team since middle school, (primary button-maker for two years, under duress and underpaid). Since joining the team, she has been a robot subsystem lead twice, and involved with designing and especially manufacturing the robot. This year she hopes her newly-acquired skills of dealing with freshman will help her in this year's term.
+  blurb: Coming soon...
 
 - group: leaders
-  name: Naomika R.
-  photo: Naomika_R
+  name: James S.
+  photo: james
   title: Strategy Coordinator
-  blurb: Naomika is a Senior and a third-year member of the team. As a junior, she was Strategy's Project Lead for Curriculum and the team's Pitscout Data Analyst at competitions. Naomika is eager to further spread the team's knowledge of strategy to the FRC community, and looks forward to optimizing Strategy for double-elims style gameplay. In her free time, she enjoys taking walks, and covering songs on the piano.
+  blurb: Coming soon...
