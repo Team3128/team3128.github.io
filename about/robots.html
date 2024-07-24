@@ -9,7 +9,16 @@ permalink: /about/robots/
     <tr width="100%">
       <td style="text-align: left; vertical-align: top; padding: 15px">
         <img width="35%" style="float: left; margin-right: 10px; margin-bottom: 0px;" src="/assets/page_photos/about/robots/{{ robot.year }}.png" />
-        <h3>"{{ robot.name }}"</h3>
+
+        <h3> "{{ robot.name }}"
+
+          <a href="https://www.thebluealliance.com/team/3128/{{robot.year}}" target="_blank" rel="noopener noreferrer">
+            <img style="vertical-align: text-top" height="26px" src="/assets/page_photos/about/robots/tba-logo.png">
+          </a>
+
+          </h3>
+          
+
         <a href="{% if robot.year == 2024 %} http://www.firstinspires.org/resource-library/frc/competition-manual-qa-system {% else %} http://www.firstinspires.org/resource-library/frc/archived-game-documentation {% endif %}"><h4>{{ robot.year }} - {{ robot.game }}</h4></a>
         {% if robot.stats == true %}
           <b>Dimensions: </b>{{ robot.dimensions }}
