@@ -22,13 +22,13 @@ Coach
 
 
 **Student Leadership**  
-*Aidan R.*  
+*Leo L.*  
 President  
-[aidan@team3128.org](mailto:aidan@team3128.org)
+[leo@team3128.org](mailto:leo@team3128.org)
 
-*Kai M.*  
+*Brynn L.*  
 President  
-[kai@team3128.org](mailto:kai@team3128.org)
+[brynn@team3128.org](mailto:brynn@team3128.org)
 
 <!-- 
 **Item Requests:**  
