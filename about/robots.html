@@ -15,13 +15,9 @@ permalink: /about/robots/
           <a href="https://www.thebluealliance.com/team/3128/{{robot.year}}" target="_blank" rel="noopener noreferrer">
             <img style="vertical-align: text-top" height="26px" src="/assets/page_photos/about/robots/tba-logo.png">
           </a>
-          {% if robot.code != undefined %}
-          <a href="https://github.com/Team3128/{{robot.code}}" target="_blank" rel="noopener noreferrer">
-            <img style="vertical-align: text-top" height="26px" src="/assets/page_photos/about/robots/github-logo.png">
-          </a>
-          {% endif %}
 
           </h3>
+          
 
         <a href="{% if robot.year == 2024 %} http://www.firstinspires.org/resource-library/frc/competition-manual-qa-system {% else %} http://www.firstinspires.org/resource-library/frc/archived-game-documentation {% endif %}"><h4>{{ robot.year }} - {{ robot.game }}</h4></a>
         {% if robot.stats == true %}
