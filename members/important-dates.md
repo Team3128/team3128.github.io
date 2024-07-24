@@ -7,11 +7,11 @@ permalink: /members/important-dates/
 
 ## Weekly Meetings
 
-Our weekly meetings for the 2023-2024 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability: 
+Our weekly meetings for the 2024-2025 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability: 
 
 **Monday:** 3:30-6:30 PM
 
-**Tuesday:** 5:00-8:00 PM
+**Tuesday:** 4:00-7:00 PM
 
 **Friday:** 3:30-6:30 PM
 

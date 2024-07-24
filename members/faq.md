@@ -9,10 +9,10 @@ Have a question about our robotics program? Here are some of the most often aske
 
 ## **When does the Team meet?**
 
-Our weekly meetings for Fall Term 2023 are below, but may be changed due to Coach availability:
+Our weekly meetings for Fall Term 2024 are below, but may be changed due to Coach availability:
 
 - Monday: 3:30-6:30 PM
-- Tuesday: 5:00-8:00 PM
+- Tuesday: 4:00-7:00 PM
 - Friday: 3:30-6:30 PM
 
 **Build/Competition Season (Jan-April)** will add all-day Saturday meetings, and possibly Sundays (per student request of the Coaches).
@@ -33,15 +33,15 @@ The link to add this calendar is [https://calendar.google.com/calendar/u/1?cid=a
 ## **Does the Team meet over School Holidays?**
 
 In short - Yes.  
-The Game for 2024 will be released on Saturday Jan. 6 at 8 AM PST at **KICKOFF** (this is during the CCA Winter Break).  
+The Game for 2025 will be released on Saturday Jan. 4 at 8 AM PST at **KICKOFF** (this is during the CCA Winter Break).  
 
-**The Team will meet all day, every day, until school begins on Wednesday Jan. 10, 2024.**
+**The Team will meet all day, every day, until school begins on Wednesday Jan. 8, 2024.**
 
 **Attendance is mandatory for all Team members for these 4 days.**
 
 Additionally, the Team will meet on the following days when there is no school:
-- Monday Jan. 15 2024  (9 AM - 5 PM) - Martin Luther King Jr. Day
-- Monday Feb. 19 & Tuesday Feb. 20, 2024 (9 AM - 5 PM)
+- Monday Jan. 20 2025  (9 AM - 5 PM) - Martin Luther King Jr. Day
+- Monday Feb. 17 & Tuesday Feb. 18, 2025 (9 AM - 5 PM)
 
 ### **Why?**
 (During winter break) Having 4 solid days of prototyping and workshop access gives the Team a tremendous advantage in robot build and test.  
@@ -98,7 +98,7 @@ While all Team members are expected to attend our home Regional Competition, the
 
 Interviews for specific, key positions on the Travel Team are held throughout November & December, during preseason.  Most Travel Team positions are selected near the end of build season based on performance during build.
 
-All Team members may attend World Championships (if we qualify) in Houston TX Championships (April 16-20, 2024). It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
+All Team members may attend World Championships (if we qualify) in Houston TX Championships (April 16-20, 2025). It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
 
 ## **I have some other questions. How can I contact the team?**
 
