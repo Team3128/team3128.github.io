@@ -14,7 +14,6 @@
   game: "CRESCENDO"
   name: G-Minor
   code: 3128-robot-2024
-  yt: m91lxL8giVI
   stats: true
   dimensions: 26.5” x 26.5” x 24.75”
   weight: 125 lbs
@@ -32,7 +31,6 @@
   game: "RAPID REACT"
   name: Garrison
   code: 3128-robot-2022
-  yt: kM-JKkrJ7GU
   stats: true
   dimensions: 22.600” x 24.750” x 44.0909”
   description: Garrison, named after our beloved mentor, is a small but highly versatile robot. On top of its Falcon 500 tank drive, it houses a robust four-bar intake equipped with a lot of compliant wheels. After intaking, cargo is fed into the hopper by a serializer, where it is then sent to the double Falcon-powered shooter. The adjustable hood allows for cargo to be scored from practically anywhere on the field. Our traversal climber consists of a constant and a dynamic arm equipped with a system of cording and constant force springs. To climb, it pulls itself onto the mid bar, then deploys the second arm at an angle, clasps onto the next bar, pulls up, and hooks onto the next bar. Rinse and repeat. Coming out of the pandemic, this year's simple yet highly effective design led to our first regionals win in team history.
@@ -49,7 +47,6 @@
   game: "INFINITE RECHARGE"
   name: Cheems the Harvester of Souls
   code: 3128-robot-202
-  yt: eaT4ZWtyYGc
   stats: true
   dimensions: 25" W x 28" L x 44.7" H
   weight: 110 lbs
@@ -60,7 +57,6 @@
   game: "DESTINATION: DEEP SPACE"
   name: Gromit
   code: 3128-robot-2019
-  yt: YJZYu1r15Xw
   stats: true
   dimensions: 28" W x 32" L x 48" H
   weight: 119.8 lbs
@@ -71,7 +67,6 @@
   game: FIRST POWER UP
   name: Guido
   code: robot-Guido
-  yt: 85v84Vh55ow
   stats: true
   dimensions: 33" W x 28" L x 54" H
   weight: 119.7 lbs
@@ -82,7 +77,6 @@
   game: FIRST STEAMWORKS
   name: Ferb
   code: robot-Ferb
-  yt: W4ZhKj66J5M
   stats: true
   dimensions: 34.5" W x 31.25" L x 24" H
   weight: 95 lbs
@@ -99,13 +93,11 @@
   game: RECYCLE RUSH
   name: The Claw
   code: robot-TheClawwww
-  yt: 4_vVo1oC554
   description: Our robot this year was a versatile machine with a really, really large claw. It moved quickly and was able to move and stack the trash cans with ease. The Claw also had a state of the art autonomous, which dealt with trash cans with ease.
 
 - year: 2014
   game: AERIAL ASSIST
   name: Sebasitian
-  yt: FXznUXi_GgQ
   description: This robot was our most impressive yet. With a high-powered three-wheeled swerve drive and a circular base, this robot drove circles around its opponents. Due to the lack of straight edges, it was literally impossible to pin against the wall. Sebastian won us the Xerox Creativity Award at the San Diego Regional.
 
 # - year: 2013
