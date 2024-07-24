@@ -10,6 +10,21 @@
 #   weight: 312.8 lbs
 #   speed: 31.28 mph
 #   description: blah blah blah #a cool and nice mini-bio about the robot (i.e. the story of its ideation, any fun anecdotes about construction/design changes, and how well it did)
+- year: 2024
+  game: "CRESCENDO"
+  name: G-Minor
+  stats: true
+  dimensions: 26.5” x 26.5” x 24.75”
+  weight: 125 lbs
+  description: Coming soon...
+
+- year: 2023
+  game: "CHARGED UP"
+  name: Gorbius
+  stats: true
+  dimensions: 26.5” x 26.5” x 39”
+  description: Coming soon...
+
 - year: 2022
   game: "RAPID REACT"
   name: Garrison
