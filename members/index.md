@@ -11,7 +11,7 @@ redirect_from:
 
 ## **When You Can Join Team 3128**
 
-Team 3128 accepts new member applications in **early Fall only**. You must be a *current student at CCA* to join Team 3128. The 2023-34 Application due date is **September 1, 2023 at midnight**. 
+Team 3128 accepts new member applications in **early Fall only**. You must be a *current student at CCA* to join Team 3128. The 2024-25 Application due date is **August 29, 2024 at midnight**. 
 
 Team 3128 is capped at 80 students - available spots are limited and competitive.
 
@@ -21,37 +21,36 @@ Team 3128 is capped at 80 students - available spots are limited and competitive
 
 **You must attend at least one day of Narweek - in person - to be considered for the Team.** 
 
-**Narweek** begins with **Intro Day** on **Friday August 25, 2023 at 3:30 PM** in the robotics workshop.
+**Narweek** begins with **Intro Day** on **Friday August 23, 2024 at 3:30 PM** in the robotics workshop.
 
 **Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
-- Monday Aug. 28 – Mechanical 
-- Tuesday Aug. 29 – Controls
-- Wednesday Aug. 30 – Business
-- Thursday Aug. 31 – Marketing
-- Friday Sept. 1 – Strategy     
+- Monday Aug. 26 – Mechanical 
+- Tuesday Aug. 27 – Controls
+- Wednesday Aug. 28 – Strategy
+- Thursday Aug. 29 – Business/Marketing    
 
 Each department will present on their day and give a brief introduction of what they do.  You will have the opportunity to meet current members, see what we do, ask questions, and check out the workshop.
 
 When you apply to the Team, you may **apply to 2 departments (maximum)**.  You MUST attend those departments presentation days to be considered. 
 
-For example – if you are most interested in Marketing and Strategy, you **must** attend Wednesday (Marketing) and Friday (Strategy) of Narweek. 
+For example – if you are most interested in Marketing and Strategy, you **must** attend Thursday (Marketing) and Wednesday (Strategy) of Narweek. 
 
 ## **Steps to Join Team 3128**
 - Be a current student at CCA*
-- Attend **Intro Day** on **August 25th at 3:30pm in the Robotics Workshop**
-- Attend **Narweek (Aug 28 – Sept. 1) for the departments that interest you**
+- Attend **Intro Day** on **August 23rd at 3:30pm in the Robotics Workshop**
+- Attend **Narweek (Aug 26 – Aug. 29) for the departments that interest you**
 - Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
-- **Fill out an [Application](https://forms.gle/QAuayY5XhPN35Giz7)**, choosing your top 2 departments.
-   - **Applications will open Wednesday Aug. 30 at 6 PM**, link to the Application will be right here on the Website.
-   - Applications are due Friday September 1, 2023 at midnight.  **No late applications will be accepted.**
+- **Fill out an Application**, choosing your top 2 departments.
+   - **Applications will open Saturday Aug. 24 at 6 PM**, link to the Application will be right here on the Website.
+   - Applications are due Thursday August 29, 2024 at midnight.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
 *This is a requirement of the CCA Foundation
 <!-- #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
 -->
 
-### **Acceptance emails will be sent on Sunday, September 4 at approximately 5 PM.**
+### **Acceptance emails will be sent on Monday, September 2 at approximately 5 PM.**
 - If accepted, your email will list required rostering tasks with a DUE DATE.  You have ~72 hours to finish all the steps, which take several hours to complete (hint: don't wait until the last minute).
 - If the rostering tasks are NOT complete by the due date, your acceptance will be rescinded, and your spot on the Team will be offered to the next student in line.
 - *If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
