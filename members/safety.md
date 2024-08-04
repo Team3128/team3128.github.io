@@ -13,9 +13,9 @@ We work with a lot of cool tools and hardware on our team, and while these enabl
 Note that these steps do not allow you to start using power tools, but these are **required** for entry and use of the workshop. 
 <!--Returning members must complete training **by September 7th, 2020** and new members must complete training **by October 9th, 2020**.
 -->
-1. Review the [FIRST 2023 Safety Manual](https://www.firstinspires.org/resource-library/frc/safety-manual).
-2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1OETIbE3H2pl3XiQmwatcApIBYWyvtz2Ng7I3Kdj2Lgk/edit?usp=sharing).
-3. Review the [Team 3128 2023-34 Safety Training presentation](https://docs.google.com/presentation/d/1FPNibEUSNgVr65cDTyK6fi85iU86pwW9NjYYtSViqZ0/edit?usp=sharing).
+1. Review the [FIRST 2024 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/ftc-frc-safety-manual.pdf).
+2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1nYqvwFn5xRr-1jk9-vlLSsV7AiPaDh8qmtqLhM4uo1s/edit?usp=sharing).
+3. Review the [Team 3128 2024-25 Safety Training presentation](https://docs.google.com/presentation/d/1q25w3A8jWGKoV8YpriJZneVbZIbcRmN-/edit?usp=sharing&ouid=111489500313563659154&rtpof=true&sd=true).
 4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube.
 5. Once you are accepted onto the Team, the Basic Safety Quiz will be sent via email. You must pass with an 85% or higher.
 
