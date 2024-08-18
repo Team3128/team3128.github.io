@@ -86,7 +86,7 @@ If any prospective member fails to complete rostering by that date, we will assu
 These are the primary criteria our Team members will use to rank applicants. Coaches and Mentors may give input, but are not part of the new member selection process (so it's OK to ignore the adults during Narweek). 
  Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
-This year, each department has 6 open positions - except for Marketing (4 spots) and Strategy (5 spots).
+2024-2025 Open Positions: Mechanical (8 spots), Controls (8 spots), Strategy (5 spots), and Business/Marketing (6 spots).
 
 ## **Questions?** 
 If you have any questions, feel free to contact our [Presidents or Coaches](/contact/) or email [info@team3128.org](/info@team3128.org/) for more information!
