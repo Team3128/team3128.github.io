@@ -11,7 +11,7 @@ redirect_from:
 
 ## **When You Can Join Team 3128**
 
-Team 3128 is accepting new member applications **RIGHT NOW**. You must be a *current student at CCA* to join Team 3128. The [2024-25 Application](https://docs.google.com/forms/d/e/1FAIpQLSeBczvvpECGy92_5ddwea2b8cI5UjoGH1lpCM24jML92Bi-hQ/viewform?usp=sf_link) due date is **August 29, 2024 at midnight**. 
+Team 3128 is accepting new member applications **RIGHT NOW**. You must be a *current student at CCA* to join Team 3128. The [2024-25 Application](https://docs.google.com/forms/d/e/1FAIpQLSeBczvvpECGy92_5ddwea2b8cI5UjoGH1lpCM24jML92Bi-hQ/viewform?usp=sf_link) due date is **August 29, 2024 at 8 PM**. 
 
 Team 3128 is capped at 80 students - available spots are limited and competitive.
 
