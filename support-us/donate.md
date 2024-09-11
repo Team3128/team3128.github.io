@@ -14,14 +14,6 @@ If you would like more information regarding your donation, please contact Gina 
 
 ### How do your donations help us?
 We love what we do, and we wish we could achieve everything we think up. The only problem is that everything we need - electronics, lumber, gear boxes, aluminum, polycarbonate, travel - costs money. That's why we need you; with your donation, we are able to realize our dreams and learn valuable skills.
-<div>
-<a href="https://docs.google.com/spreadsheets/d/1bIJekgcC5poyS72Xn-yZ9ALvS7UgMLulK6QNVCoD_ug/edit?usp=sharing">
-<div class="button hover_animate" style="text-align: center;">
-Team 3128 Finance History
-</div>
-</a>
-</div>
-<br>
 
 <div>
 <a href="/resources/">
