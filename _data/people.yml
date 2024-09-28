@@ -110,6 +110,12 @@
   blurb: Fred has a B.S. in Electrical Enginering from Cornell University with an emphasis in digital signal processing. He started his career at a large company in San Diego, gloriously pulling cables out of cellular telecom equipment, before he realized software and Legos were his calling. He worked at several enterprise software company startups in the Bay Area before moving back to San Diego to pursue his ultimate passion in mobile application software. Incubating mobile application products on a fledgling “Android 1.0” mobile platform, he was unsuccessful in convincing executives to invest in this game changing mobile platform because it was “unproven with limited market potential”, and investments were better made in “tried and true mobile platforms that would stand the test of time” - Symbian, Windows Mobile, and Blackberry O/S... Fred spent the remainder of his career managing large mobile software engineering teams developing Android and iOS connectivity application products. In his spare time, he enjoys racing and breaking his Miatas at autocrosses and track day events or adding to his growing tool collection.
 
 - group: mentors
+  name: Michael Brown
+  title: Coach - Strategy, Controls
+  photo: Michael_Brown
+  blurb: Michael Brown is a 25 year veteran of the software development industry.  In that time he's helped develop time and attendance systems, semi-conductor manufacturing control systems and Laboratory Informatics systems for the pharmaceutical industry. For the last 5 years Michael has been a Director of Operations for both Cloud and Software Development. In that role he's been focused on tools and processes of R&D, making the teams more efficient and effective. Michael is committed to playing a role in developing the next generation of Software Developers who are going to be instrumental in solving some of the most important problems faced in the world today.
+
+- group: mentors
   name: Lisa Saam
   photo: lisa_saam
   title: Mechanical
@@ -126,12 +132,6 @@
   photo: sylvia
   title: Liaison, Travel
   blurb: Sylvia has a B.S. and M.S. in Nursing from UCLA. She has worked as RN and Nurse Practitioner in the past.  Currently she is a charge nurse in Scripps Urgent Care Torrey Pines. Sylvia has been supporting Team 3128 since 2016. She is the team liaison.  She helps in travel and meal planning during competition. She loves to travel, read and spending time with her family. Go Narwhals!!
-
-- group: mentors
-  name: Michael Brown
-  title: Controls
-  photo: Michael_Brown
-  blurb: Michael Brown is a 25 year veteran of the software development industry.  In that time he's helped develop time and attendance systems, semi-conductor manufacturing control systems and Laboratory Informatics systems for the pharmaceutical industry. For the last 5 years Michael has been a Director of Operations for both Cloud and Software Development. In that role he's been focused on tools and processes of R&D, making the teams more efficient and effective. Michael is committed to playing a role in developing the next generation of Software Developers who are going to be instrumental in solving some of the most important problems faced in the world today.
 
 - group: mentors
   name: Wendy Dimmock
@@ -176,10 +176,10 @@
   blurb: Sam is a graduate of Arizona State University with a BS in Supply Chain Management. He currently serves as an Area Manager at Amazon and is a proud alum of FRC Team 980. In addition to his professional duties, Sam is an active business mentor for FRC 3128, the Aluminum Narwhals, and FRC 9432, Team 8-bit.In his spare time, Sam volunteers as a robot inspector for FRC and relishes spending time outdoors, exploring nature and participating in outdoor activities. His dedication to nurturing young engineers and his enthusiasm for outdoor pursuits reflect his deep commitment to both professional and personal growth.
 
 - group: mentors
-  name: Cameron Kholos
-  photo: default
-  title: Mentor
-  blurb: TBD
+  name: Dave Snodgrass
+  photo: dave
+  title: Liason
+  blurb: Dave works at DRS Daylight as VP/GM where they make quantum cascade lasers for use in Defense.  He holds a BS and MS in Particle Physics, and and MS in Electro-Optics.  He was dragged into Robotics as both of his kids and his wife were always in the Robotics workshop.  He has volunteered with FIRST as a Judge and Queuer, but is most well known as the driver of the team trailer, the load-in and load-out guy, and travel chaperone.
 
 - group: mentors
   name: Cole Reiner
