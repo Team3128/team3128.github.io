@@ -26,8 +26,8 @@ Additional Team Information
 
 
 ### How to donate:
-In order to keep developing our skills and pursuing our goals, our requested Parent donation is $250. There are two ways to support our team:
-<!--700 to 250 for 2020-2021-->
+In order to keep developing our skills and pursuing our goals, our requested Parent donation is $500. There are two ways to support our team:
+<!--700 to 250 for 2020-2021, 250 to 500 for 2024-2025-->
 
 <table width="100%">
 <tr>
