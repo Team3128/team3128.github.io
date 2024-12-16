@@ -11,7 +11,7 @@ redirect_from:
 
 ## **When You Can Join Team 3128**
 
-Team 3128 accepts new member applications in **early Fall only**. You must be a *current student at CCA* to join Team 3128. The 2024-25 Application due date is **August 29, 2024 at midnight**. 
+Team 3128 is no longer accepting applicants for the 2024-2025 season. You must be a *current student at CCA* to join Team 3128. Applications happen at the beginning of every school year. 
 
 Team 3128 is capped at 80 students - available spots are limited and competitive.
 
@@ -42,8 +42,8 @@ For example – if you are most interested in Marketing and Strategy, you **must
 - Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
 - **Fill out an Application**, choosing your top 2 departments.
-   - **Applications will open Saturday Aug. 24 at 6 PM**, link to the Application will be right here on the Website.
-   - Applications are due Thursday August 29, 2024 at midnight.  **No late applications will be accepted.**
+   - APPLICATIONS ARE CLOSED
+   - Applications are due Thursday August 29, 2024 at 8 PM.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
 *This is a requirement of the CCA Foundation
@@ -86,7 +86,7 @@ If any prospective member fails to complete rostering by that date, we will assu
 These are the primary criteria our Team members will use to rank applicants. Coaches and Mentors may give input, but are not part of the new member selection process (so it's OK to ignore the adults during Narweek). 
  Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
-This year, each department has 6 open positions - except for Marketing (4 spots) and Strategy (5 spots).
+2024-2025 Open Positions: Mechanical (8 spots), Controls (8 spots), Strategy (5 spots), and Business/Marketing (6 spots).
 
 ## **Questions?** 
 If you have any questions, feel free to contact our [Presidents or Coaches](/contact/) or email [info@team3128.org](/info@team3128.org/) for more information!

@@ -1,21 +1,3 @@
-# - name: 2018 Business Plan
-#  category: info
-#  type: pdf
-#  link: /resources/2018BusinessPlan.pdf
-#  description: A detailed look at how our team manages its finances, the numerous efforts we take to spread the ideals of FIRST within our community, and the sustainable practices put into place to ensure that the team is effectively operated and able to pass down our love knowledge of and love for STEM to future generations of students.
-
-# - name: 2018-19 Sponsorship Info Packet
-#  category: info
-#  type: pdf
-#  link: /resources/2019SponsorshipInfoPacket.pdf
-#  description: An overview of the multi-faceted approach our team takes to involvement in FIRST and how you can support us in our mission to inspire a passion for STEM.
-
-# - name: 2016/17 Team Demographics
-#   category: info
-#   type: pdf
-#   link: /resources/201617Demographics.pdf
-#   description: A brief look at the composition of Canyon Crest Academy and our team.
-
 #- name: IRS Letter of Determination
 #  category: info
 #  type: pdf
@@ -45,41 +27,41 @@
 #  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
 #  description: The link to the 2023-2024 Team 3128 handbook.
 
-- name: 2024 FIRST Championship Info Presentation
-  category: info
-  type: link
-  link: https://docs.google.com/presentation/d/1VAVcokKsHEMdnalrSJyZhpVxCbA5Tyf-cZAf0NrrtQA/edit?usp=sharing
-  description: The link to the 2024 FIRST Houston Championship Information slides presentation given on March 20th
+# - name: 2024 FIRST Championship Info Presentation
+#   category: info
+#   type: link
+#   link: https://docs.google.com/presentation/d/1VAVcokKsHEMdnalrSJyZhpVxCbA5Tyf-cZAf0NrrtQA/edit?usp=sharing
+#   description: The link to the 2024 FIRST Houston Championship Information slides presentation given on March 20th
 
-- name: 2024 FIRST Championship Commitment Form
-  category: info
-  type: link
-  link: https://drive.google.com/file/d/187s5r_19JsMcz1PthHYsRKZ6LfpXAiQE/view?usp=drivesdk
-  description: The link to the 2024 FIRST Houston Championship Travel Commitment form
+# - name: 2024 FIRST Championship Commitment Form
+#   category: info
+#   type: link
+#   link: https://drive.google.com/file/d/187s5r_19JsMcz1PthHYsRKZ6LfpXAiQE/view?usp=drivesdk
+#   description: The link to the 2024 FIRST Houston Championship Travel Commitment form
 
-- name: 2024 AVR Travel Commitment Form
-  category: info
-  type: link
-  link: https://docs.google.com/document/d/1yk3s-1DTix-0rC517kuYz8couIH-kzWcVWDVVFnROyo/edit?usp=sharing
-  description: The link to the 2024 Arizona Valley Regional Travel Commitment form
+# - name: 2024 AVR Travel Commitment Form
+#   category: info
+#   type: link
+#   link: https://docs.google.com/document/d/1yk3s-1DTix-0rC517kuYz8couIH-kzWcVWDVVFnROyo/edit?usp=sharing
+#   description: The link to the 2024 Arizona Valley Regional Travel Commitment form
 
-- name: 2024 AVR Parent Info Presentation
-  category: info
-  type: link
-  link: https://docs.google.com/presentation/d/19_ZEXJorcvTGQqbnaBaFGCj0bbzD0xnm8ZZcYNZO-KA/edit?usp=sharing
-  description: The link to the 2024 Arizona Valley Regional Parent Info slide deck
+# - name: 2024 AVR Parent Info Presentation
+#   category: info
+#   type: link
+#   link: https://docs.google.com/presentation/d/19_ZEXJorcvTGQqbnaBaFGCj0bbzD0xnm8ZZcYNZO-KA/edit?usp=sharing
+#   description: The link to the 2024 Arizona Valley Regional Parent Info slide deck
   
-- name: 2023-2024 Handbook
+- name: 2024-2025 Handbook
   category: info
   type: link
   link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
-  description: The link to the 2023-2024 Team 3128 Handbook.
+  description: The link to the 2024-2025 Team 3128 Handbook.
 
 - name: Parent Night Presentation
   category: info
   type: link
-  link: https://drive.google.com/file/d/1WwqNAvB203uSlGQ6DJOWm7PMndhC7o1B/view?usp=sharing
-  description: The link to the 2023-24 Parent Night slide deck.
+  link: https://docs.google.com/presentation/d/1AXmdPMLvvp3Dhd6BQOF96p3logyv52el4Q0tzmgqr2s/edit?usp=sharing
+  description: The link to the 2024-25 Parent Night slide deck.
  
 - name: FAQ Page
   category: info
@@ -124,11 +106,11 @@
   link: https://github.com/Team3128/info/wiki/controls
   description: The team's resources pertaining to controls.
 
-- name: Championship Presentation 2022
-  category: championship
-  type: link
-  link: https://docs.google.com/presentation/d/1GlQr31yPXU0srWk3siaTHOtbeIw39V3EWtJXV-fXEWo/edit?usp=sharing
-  description: Presentation
+# - name: Championship Presentation 2022
+#   category: championship
+#   type: link
+#   link: https://docs.google.com/presentation/d/1GlQr31yPXU0srWk3siaTHOtbeIw39V3EWtJXV-fXEWo/edit?usp=sharing
+#   description: Presentation
 
 - name: Houston Championships
   category: championship
