@@ -20,6 +20,10 @@ Coach
 Coach  
 [pat@team3128.org](mailto:pat@team3128.org)
 
+*Michael Brown*
+Coach  
+[michael@team3128.org](mailto:michael@team3128.org)
+
 
 **Student Leadership**  
 *Leo L.*  
