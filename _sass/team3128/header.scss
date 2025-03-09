@@ -5,7 +5,8 @@
     background: $navy;
     z-index: 999;
 
-    position: relative;
+    position: sticky;
+    top: 0;
 }
 
 .site-nav {
