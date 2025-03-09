@@ -5,7 +5,7 @@ subtitle: SDR Visitors
 permalink: /outreach/sdr-visitors/
 ---
 
-# **San Diego Regional: March 20-23, 2024**
+# **San Diego Regional: March 20-23, 2025**
 
 ## FRC Teams in San Diego
 If you have found this website, Hello from FRC 3128 "The Aluminum Narwhals"
@@ -21,7 +21,7 @@ Please contact us at [info@team3128.org](info@team3128.org)
 
 SDR will be held at the Lion Tree Arena on the campus of the University of California at San Diego (UCSD)  -  [9730 Hopkins Dr. La Jolla CA 92093](https://maps.app.goo.gl/bxYfCJs3iHreUewR8)
 
-- [2024 San Diego Regional Website](https://www.firstinspires.org/team-event-search/event?id=68496)
+- [2025 San Diego Regional Website](https://www.firstinspires.org/team-event-search/event?id=72540)
 - [Printable UCSD Map](https://ucsdtritons.com/documents/2019/9/19/CampusMap.pdf)
 - [Interactive UCSD Map and Transportation](https://newtriton.ucsd.edu/get-around/index.html)
 
@@ -48,7 +48,7 @@ The closest Blue Line Trolley station to some hotels listed below is [Nobel Driv
 For more information about MTS services and buying trolley or bus tickets, please visit the [MTS website](http://sdapublic.etaspot.net/)
 
 ## Hotels
-San Diego has many hotesl in many price ranges (in the [SDR Google Map](https://www.google.com/maps/d/u/0/edit?mid=10U3aCFIjo9u0KhcygBLPZHqY0XeNu7v1&ll=32.887237842882584%2C-117.23393556385933&z=15), search for "hotel").
+San Diego has many hotels in many price ranges (in the [SDR Google Map](https://www.google.com/maps/d/u/0/edit?mid=10U3aCFIjo9u0KhcygBLPZHqY0XeNu7v1&ll=32.887237842882584%2C-117.23393556385933&z=15), search for "hotel").
 These are the five closest hotels to the San Diego Regional. The first 3 are walking distance to the San Diego Regional.
 ### Hotels - Walking distance to San Diego Regional at UCSD Liontree arena
 [Residence Inn by Marriott San Diego La Jolla](https://www.marriott.com/en-us/hotels/lajca-residence-inn-san-diego-la-jolla/overview/)

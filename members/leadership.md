@@ -14,4 +14,4 @@ Our two Co-Presidents are elected in May by a team vote by all active Juniors, S
 
 ### Appointed Positions
 
-Our Leadership Team, Coaches and Mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time. For the 2023-2024 season, each of our departments will have a Departmet Coordinator and multiple Project Leads. [Learn more about our departments](/about/departments/).
+Our Leadership Team, Coaches and Mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time. For the 2024-2025 season, each of our departments will have a Department Coordinator and multiple Project Leads. [Learn more about our departments](/about/departments/).

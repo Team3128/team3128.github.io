@@ -73,12 +73,12 @@ Through the locked gate, the first left is The Nest.  If you continue walking an
 
 Pretty much. You are required to attend at least 75% of all meetings each month. 
 Ask your Department Coordinator for more specific information regarding your department's meetings.  
-Please see our [2023-2024 Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
+Please see our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
 
 
 ## **Is it mandatory that I stay for the entire meeting?**
 
-You are expected to stay for the entire meeting. If you need to leave early, then be sure to contact your department coordinator ahead of time.  Please see our [2023-2024 Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
+You are expected to stay for the entire meeting. If you need to leave early, then be sure to contact your department coordinator ahead of time.  Please see our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
 
 ## **I have a fall sport. Can I be involved?**
 
@@ -86,7 +86,7 @@ If you can manage the time commitment of the Robotics Team and a Sport - yes.
 
 If a student is a multi-sport athlete, we have found that students are spread too thin to meaningfully participate in Robotics.  
 
-Please see our [2023-2024 Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
+Please see our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for more information.
 
 
 ## **Who goes to your competitions? What are competition positions? Who are they open to?**
