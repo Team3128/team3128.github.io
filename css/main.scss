@@ -13,13 +13,14 @@ $base-line-height: 1.5;
 
 $spacing-unit: 30px;
 
-$navy:             #1b1464;
-$royal:            #1b347e;
-$light:            #1b3a98;
-$bright:           #2a7ae2;
+$midnight:         #000137;
+$navy:             #02055A;
+$royal:            #02198B;
+$light:            #253DA1;
+$bright:           #B0DBF1;
 
 $text-color:       #111;
-$background:       $navy;
+$background:       $midnight;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
