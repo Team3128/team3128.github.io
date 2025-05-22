@@ -104,12 +104,6 @@
   blurb: 'Pat is no stranger to FIRST. He has been mentoring FRC Team 3128 since 2018 and prior to that he was a coach for several FLL teams competing in the SD area. He has a BSEE and worked for many years doing embedded software development, but currently he works as a Cloud Security Architect. He brings a wide variety of skills to the team including: wood working, coding, wiring, networking, and agile program management.'
 
 - group: mentors
-  name: Fred Chen
-  photo: fred
-  title: Coach - Controls
-  blurb: Fred has a B.S. in Electrical Enginering from Cornell University with an emphasis in digital signal processing. He started his career at a large company in San Diego, gloriously pulling cables out of cellular telecom equipment, before he realized software and Legos were his calling. He worked at several enterprise software company startups in the Bay Area before moving back to San Diego to pursue his ultimate passion in mobile application software. Incubating mobile application products on a fledgling “Android 1.0” mobile platform, he was unsuccessful in convincing executives to invest in this game changing mobile platform because it was “unproven with limited market potential”, and investments were better made in “tried and true mobile platforms that would stand the test of time” - Symbian, Windows Mobile, and Blackberry O/S... Fred spent the remainder of his career managing large mobile software engineering teams developing Android and iOS connectivity application products. In his spare time, he enjoys racing and breaking his Miatas at autocrosses and track day events or adding to his growing tool collection.
-
-- group: mentors
   name: Michael Brown
   title: Coach - Strategy, Controls
   photo: Michael_Brown
@@ -140,28 +134,10 @@
   blurb: Wendy’s introduction to robotics was when her son joined as a freshman. Now her daughter is a member and her youngest can’t wait to join the team! She has no engineering or computer background but loves to support her kids. After traveling with the team as a chaperone in 2022 she was hooked and joined the Narwhals herself as a Marketing Mentor. Outside of robotics Wendy is a Lactation Consultant and loves to read, travel with her family and watch football (Go Pack Go!).
   
 - group: mentors
-  name: Ningze Sun
-  photo: ningze
-  title: Controls
-  blurb: Ningze has a mechanical engineering training background and a lot of project management experience. He really enjoys sharing his learning with the young adults in the team. He is quite amazed by the CCA FRC team talent and organization and is excited to be part of community!
-
-- group: mentors
   name: Christine Lau Dizon
   photo: christine
   title: Mentor
   blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
-
-- group: mentors
-  name: Jessica Xiang
-  photo: jess
-  title: Mentor
-  blurb: Jessica works for a defense startup as a instrumentation software engineer. She is an alumni of 3128 (‘16-‘19) and has a BS in Computer Science from Rose-Hulman. While in the Midwest, she worked with FRC 5188 as a non-technical mentor and volunteered at FIN events. She’s excited to be back and assist with marketing and travel planning. In her limited free time, she enjoys baking, beach volleyball, pottery, and exploring LA, where she is now based out of.
-
-- group: mentors
-  name: Jessie Belden
-  photo: jessie
-  title: Mechanical
-  blurb: Jessie recently graduated from the Rochester Institute of Technology (RIT) with her Bachelor's and Master's in Mechanical Engineering. She now works as an engineer with ATA Engineering, primarily focused on assisting with the design and analysis of theme park rides and attractions. Originally from New Jersey, Jessie is an alumnus of FRC team 1676 the Pascack Pi-oneers and is excited to be on the mentor side of a team. In her free time, Jessie spends as much time as she can at local theme parks, going to concerts, and volunteering at a local animal shelter.
 
 - group: mentors
   name: Daniel Rothfusz
@@ -183,12 +159,6 @@
 
 - group: mentors
   name: Cole Reiner
-  photo: default
-  title: Mentor
-  blurb: TBD
-
-- group: mentors
-  name: Chad Sweet
   photo: default
   title: Mentor
   blurb: TBD
