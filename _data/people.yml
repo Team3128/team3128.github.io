@@ -43,9 +43,9 @@
 
 - group: projectleads
   name: Coming soon...
-  photo: william
+  photo: default
   title: Controls Software Lead
-  blurb: Hey, I go by Wallim. I like to draw. I have a dog. I am best friends with Colton. I code once in a while.
+  blurb: Coming soon...
 
 - group: projectleads
   name: Coming soon...
@@ -93,7 +93,7 @@
 - group: mentors
   name: Christine Low
   photo: chris
-  title: Coach - Mechanical, Travel
+  title: Coach - Mechanical
   blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
   
 - group: mentors
@@ -108,18 +108,6 @@
   title: Coach - Strategy, Controls
   photo: Michael_Brown
   blurb: Michael Brown is a 25 year veteran of the software development industry.  In that time he's helped develop time and attendance systems, semi-conductor manufacturing control systems and Laboratory Informatics systems for the pharmaceutical industry. For the last 5 years Michael has been a Director of Operations for both Cloud and Software Development. In that role he's been focused on tools and processes of R&D, making the teams more efficient and effective. Michael is committed to playing a role in developing the next generation of Software Developers who are going to be instrumental in solving some of the most important problems faced in the world today.
-
-- group: mentors
-  name: Lisa Saam
-  photo: lisa_saam
-  title: Mechanical
-  blurb: Lisa is Vice President-Projects at ATA Engineering – an engineering services company – where she has worked for more than two decades doing analysis-driven mechanical design of structures ranging from satellites and launch vehicles to theme park attractions and aerospace ground support equipment. She received her M.S. in Structural Engineering from Cornell University, B.S. in Engineering from Harvey Mudd College, and B.A. in Management–Engineering from Claremont McKenna College. Lisa supports Team 3128 with parent communication, travel, and looks forward to working more with the mechanical department. In her spare time, she enjoys hiking, camping, yoga, and beach picnics.
-
-- group: mentors
-  name: Paul Saam
-  photo: Paul_Saam
-  title: Liaison, Business
-  blurb: Paul has a B.S. in Engineering from Harvey Mudd College. He worked as a medical device engineer for two startups, driving them both out of business, before deciding to obtain his MBA at Duke University. He has spent the last 17 years working in Business Development for Zimmer Biomet, a global orthopedics company. He works primarily with the Business team, supporting the Robotics Summer Camp and acts as a liaison with the Canyon Crest Academy Foundation.
 
 - group: mentors
   name: Sylvia Chan
@@ -140,10 +128,10 @@
   blurb: Christine graduated from the University of California, Riverside in 2007 and holds a B.S.  in mechanical engineering with a concentration in manufacturing. She has eleven years in the oil and gas industry. Currently, she works at Solar Turbines where she has been a mechanical engineer, a process & instrumentation engineer, and now a controls engineer. In her free time, she enjoys being a member of Solar Turbines’ Solar Women Engineers (SWE), cycling, and spending time with her husband and two children.
 
 - group: mentors
-  name: Daniel Rothfusz
-  photo: daniel
-  title: Controls
-  blurb: Daniel works as a MAC Engineer for Trellisware Technologies, developing software for walkie-talkies. He graduated with a B.S. in Electrical and Computer Engineering and a Certificate in Engineering Leadership from Rice University in 2022. Daniel grew attached to FRC during high school through his time on 5442 Mechanical Monarchy in Central Illinois, and is excited to find ways to give back to the FRC community. When not following technical pursuits, Daniel can be found singing in choir, playing piano, reading, hiking, or playing board games.
+  name: Aaron Dolgin
+  title: Controls, Money Guy, Web Admin
+  photo: default
+  blurb: Coming soon...
 
 - group: mentors
   name: Sam Kleinberg
@@ -152,16 +140,41 @@
   blurb: Sam is a graduate of Arizona State University with a BS in Supply Chain Management. He currently serves as an Area Manager at Amazon and is a proud alum of FRC Team 980. In addition to his professional duties, Sam is an active business mentor for FRC 3128, the Aluminum Narwhals, and FRC 9432, Team 8-bit.In his spare time, Sam volunteers as a robot inspector for FRC and relishes spending time outdoors, exploring nature and participating in outdoor activities. His dedication to nurturing young engineers and his enthusiasm for outdoor pursuits reflect his deep commitment to both professional and personal growth.
 
 - group: mentors
-  name: Dave Snodgrass
-  photo: dave
-  title: Liason
-  blurb: Dave works at DRS Daylight as VP/GM where they make quantum cascade lasers for use in Defense.  He holds a BS and MS in Particle Physics, and and MS in Electro-Optics.  He was dragged into Robotics as both of his kids and his wife were always in the Robotics workshop.  He has volunteered with FIRST as a Judge and Queuer, but is most well known as the driver of the team trailer, the load-in and load-out guy, and travel chaperone.
+  name: Sam Kleinberg
+  photo: sam
+  title: Business, Finance
+  blurb: Sam is a graduate of Arizona State University with a BS in Supply Chain Management. He currently serves as an Area Manager at Amazon and is a proud alum of FRC Team 980. In addition to his professional duties, Sam is an active business mentor for FRC 3128, the Aluminum Narwhals, and FRC 9432, Team 8-bit.In his spare time, Sam volunteers as a robot inspector for FRC and relishes spending time outdoors, exploring nature and participating in outdoor activities. His dedication to nurturing young engineers and his enthusiasm for outdoor pursuits reflect his deep commitment to both professional and personal growth.
 
 - group: mentors
   name: Cole Reiner
   photo: default
   title: Mentor
-  blurb: TBD
+  blurb: Coming soon...
+  
+- group: mentors
+  name: Daniel Rothfusz
+  photo: daniel
+  title: Controls
+  blurb: Daniel works as a MAC Engineer for Trellisware Technologies, developing software for walkie-talkies. He graduated with a B.S. in Electrical and Computer Engineering and a Certificate in Engineering Leadership from Rice University in 2022. Daniel grew attached to FRC during high school through his time on 5442 Mechanical Monarchy in Central Illinois, and is excited to find ways to give back to the FRC community. When not following technical pursuits, Daniel can be found singing in choir, playing piano, reading, hiking, or playing board games.
+  
+- group: mentors
+  name: Lisa Saam
+  photo: lisa_saam
+  title: Mechanical
+  blurb: Lisa is Vice President-Projects at ATA Engineering – an engineering services company – where she has worked for more than two decades doing analysis-driven mechanical design of structures ranging from satellites and launch vehicles to theme park attractions and aerospace ground support equipment. She received her M.S. in Structural Engineering from Cornell University, B.S. in Engineering from Harvey Mudd College, and B.A. in Management–Engineering from Claremont McKenna College. Lisa supports Team 3128 with parent communication, travel, and looks forward to working more with the mechanical department. In her spare time, she enjoys hiking, camping, yoga, and beach picnics.
+
+- group: mentors
+  name: Paul Saam
+  photo: Paul_Saam
+  title: Liaison, Business
+  blurb: Paul has a B.S. in Engineering from Harvey Mudd College. He worked as a medical device engineer for two startups, driving them both out of business, before deciding to obtain his MBA at Duke University. He has spent the last 17 years working in Business Development for Zimmer Biomet, a global orthopedics company. He works primarily with the Business team, supporting the Robotics Summer Camp and acts as a liaison with the Canyon Crest Academy Foundation.
+
+- group: mentors
+  name: Dave Snodgrass
+  photo: dave
+  title: Liason
+  blurb: Dave works at DRS Daylight as VP/GM where they make quantum cascade lasers for use in Defense.  He holds a BS and MS in Particle Physics, and and MS in Electro-Optics.  He was dragged into Robotics as both of his kids and his wife were always in the Robotics workshop.  He has volunteered with FIRST as a Judge and Queuer, but is most well known as the driver of the team trailer, the load-in and load-out guy, and travel chaperone.
+
 
 #   Leaders
 - group: leaders
