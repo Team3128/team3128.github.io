@@ -25,7 +25,7 @@
 
 - group: projectleads
   name: Coming soon...
-  photo: logan
+  photo: default
   title: Mechanical Curriculum Lead
   blurb: Coming soon...
   
@@ -132,12 +132,6 @@
   title: Controls, Money Guy, Web Admin
   photo: default
   blurb: Coming soon...
-
-- group: mentors
-  name: Sam Kleinberg
-  photo: sam
-  title: Business, Finance
-  blurb: Sam is a graduate of Arizona State University with a BS in Supply Chain Management. He currently serves as an Area Manager at Amazon and is a proud alum of FRC Team 980. In addition to his professional duties, Sam is an active business mentor for FRC 3128, the Aluminum Narwhals, and FRC 9432, Team 8-bit.In his spare time, Sam volunteers as a robot inspector for FRC and relishes spending time outdoors, exploring nature and participating in outdoor activities. His dedication to nurturing young engineers and his enthusiasm for outdoor pursuits reflect his deep commitment to both professional and personal growth.
 
 - group: mentors
   name: Sam Kleinberg
