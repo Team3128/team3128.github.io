@@ -42,7 +42,7 @@
   link: https://www.rtx.com/raytheon
 
 # 2023/2024 Sponsor
-- level: Bronze
+- level: Platinum
   name: Solar Turbines
   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner.
   logo: /assets/sponsorlogos/SolarTurbines.png
@@ -54,6 +54,13 @@
   description: TE Connectivity is a US-Swiss company focused on developing sensors and making innovations in connectivity.
   logo: /assets/sponsorlogos/teconnectivity.png
   link: https://www.te.com/usa-en/home.html
+
+# 2023/2024 Sponsor
+- level: Silver
+  name: BAE Systems
+  description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
+  logo: /assets/sponsorlogos/baesystems1.png
+  link: https://www.baesystems.com/en/home
 
 # ----------------- Current sponsors above -----------------------
 
