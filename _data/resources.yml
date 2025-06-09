@@ -21,37 +21,37 @@
 #   link: https://docs.google.com/presentation/d/1Bfxi1IMxTQ-Oio1klFpzVsyv8czBfIgeRORGaaUGJ0c/edit#slide=
 #   description: The link to the Parent Information Night Presentation
 
-- name: 2025 Championship Information Presentation
-  category: info
-  type: link
-  link: https://docs.google.com/presentation/d/1T_sBy1J32akv1v5JpohVcdA_-IhuU9BVYb1JpSDxdg4/edit?usp=sharing
-  description: The link to the 2025 Houston World Championship Info Presentation
+# - name: 2025 Championship Information Presentation
+#  category: info
+#  type: link
+#  link: https://docs.google.com/presentation/d/1T_sBy1J32akv1v5JpohVcdA_-IhuU9BVYb1JpSDxdg4/edit?usp=sharing
+#  description: The link to the 2025 Houston World Championship Info Presentation
 
-- name: 2025 Championship Commitment Form [PDF]
-  category: info
-  type: link
-  link: https://drive.google.com/file/d/1uDbHL7zmjZpJfQnlUSjbx2RTetmUM-Z9/view?usp=sharing
-  description: The link to the commitment form (pdf) for the 2025 Houston World Championship
+# - name: 2025 Championship Commitment Form [PDF]
+#  category: info
+#  type: link
+#  link: https://drive.google.com/file/d/1uDbHL7zmjZpJfQnlUSjbx2RTetmUM-Z9/view?usp=sharing
+#  description: The link to the commitment form (pdf) for the 2025 Houston World Championship
 
-- name: 2025 Championship Commitment (Form)
-  category: info
-  type: link
-  link: https://forms.gle/XaQ9KfNnfxa8ZBL99
-  description: The link to the commitment form (google form) for the 2025 Houston World Championship
+# - name: 2025 Championship Commitment (Form)
+#  category: info
+#  type: link
+#  link: https://forms.gle/XaQ9KfNnfxa8ZBL99
+#  description: The link to the commitment form (google form) for the 2025 Houston World Championship
   
-- name: 2024-2025 Handbook
-  category: info
-  type: link
-  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
-  description: The link to the 2024-2025 Team 3128 Handbook.
+# - name: 2024-2025 Handbook
+#  category: info
+#  type: link
+#  link: https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing
+#  description: The link to the 2024-2025 Team 3128 Handbook.
 
-- name: Parent Night Presentation
-  category: info
-  type: link
-  link: https://docs.google.com/presentation/d/1AXmdPMLvvp3Dhd6BQOF96p3logyv52el4Q0tzmgqr2s/edit?usp=sharing
-  description: The link to the 2024-25 Parent Night slide deck.
+# - name: Parent Night Presentation
+#  category: info
+#  type: link
+#  link: https://docs.google.com/presentation/d/1AXmdPMLvvp3Dhd6BQOF96p3logyv52el4Q0tzmgqr2s/edit?usp=sharing
+#  description: The link to the 2024-25 Parent Night slide deck.
  
-- name: FAQ Page
+ - name: FAQ Page
   category: info
   type: link
   link: http://team3128.org/members/faq/
