@@ -1,0 +1,40 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches:
+      - master
+
+env:
+  DEPLOY_DIR: /home/team3128/htdocs/team3128.org
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up SSH
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Add VPS to know hosts
+      run: ssh-keyscan -H cp.team3128.org >> ~/.ssh/known_hosts
+
+
+    - name: Deploy to VPS
+      run: |
+        ssh team3128@cp.team3128.org << 'EOF'
+        if [ ! -d "${{ env.DEPLOY_DIR }}/.git" ]; then
+          git clone git@github.com:Team3128/team3128.github.io.git ${{ env.DEPLOY_DIR }}/
+        else
+          git config --global --add safe.directory ${{ env.DEPLOY_DIR }}
+          cd ${{ env.DEPLOY_DIR }}/
+          git pull origin master
+        fi
+        # Add any additional commands to build or restart services
+        
+        EOF
