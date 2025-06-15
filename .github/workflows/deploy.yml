@@ -36,5 +36,6 @@ jobs:
           git pull origin master
         fi
         # Add any additional commands to build or restart services
-        
+        #TODO: Add Ruby build for github.io replacement
+        bundle exec jekyll build
         EOF
