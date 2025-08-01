@@ -7,7 +7,7 @@ permalink: /members/important-dates/
 
 ## Weekly Meetings
 
-Our weekly meetings for the 2024-2025 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability: 
+Our weekly meetings for the 2025-2026 school year are in person. Our workshop schedule is below, but may be changed due to mentor availability:
 
 **Monday:** 3:30-6:30 PM
 
@@ -45,14 +45,14 @@ Meetings are online (via google meet). Please check the Team [calendar](http://t
 
 Our Build Season is an exhilarating (and stressful) season to design and build a robot to compete against many other teams in the California Region, and hopefully the World.
 
-**For the 2024-2025 school year, Build Season/Kickoff begins on Saturday, January 4, 2025 at 8:00 AM PST in San Diego, with the game reveal. Attendance for all Team members is mandatory for Kickoff and the 3 days following Kickoff.**
+**For the 2025-2026 school year, Build Season/Kickoff begins on Saturday, January 10, 2025 at 8:00 AM PST in San Diego, with the game reveal. Attendance for all Team members is mandatory for Kickoff and the 3 days following Kickoff.**
 
-Since the discontinuation of "Bag Day", Build Season will last until the end of our last Competition event - either early April (last Regional event) or World Championships in Houston (April 16-19, 2025).
+Since the discontinuation of "Bag Day", Build Season will last until the end of our last Competition event - either mid April (last District event) or World Championships in Houston (April 28-May 2, 2026).
 
 
 ## FRC Competition Season
 
-As soon as FIRST releases more information, this section will be updated. Right now, competition season dates begin February 26th, 2025, and will last until a week 6 or week 7 regional (early April 2025).
+As soon as FIRST releases more information, this section will be updated. Right now, competition season dates begin March 6th, 2026, and will last until a week 6 or week 7 District event (mid April 2026).
 
 **Additional FRC Competition Information**
 + [FIRST California Competitions](https://cafirst.org/frc/)

@@ -11,7 +11,7 @@ redirect_from:
 
 ## **When You Can Join Team 3128**
 
-Team 3128 is no longer accepting applicants for the 2024-2025 season. You must be a *current student at CCA* to join Team 3128. Applications happen at the beginning of every school year. 
+You must be a *current student at CCA* to join Team 3128. Applications happen at the beginning of every school year.
 
 Team 3128 is capped at 80 students - available spots are limited and competitive.
 
@@ -21,13 +21,13 @@ Team 3128 is capped at 80 students - available spots are limited and competitive
 
 **You must attend at least one day of Narweek - in person - to be considered for the Team.** 
 
-**Narweek** begins with **Intro Day** on **Friday August 23, 2024 at 3:30 PM** in the robotics workshop.
+**Narweek** begins with **Intro Day** on **Friday August 15, 2025 at 3:30 PM** in the robotics workshop.
 
 **Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
-- Monday Aug. 26 – Mechanical 
-- Tuesday Aug. 27 – Controls
-- Wednesday Aug. 28 – Strategy
-- Thursday Aug. 29 – Business/Marketing    
+- Monday Aug. 18 – Mechanical
+- Tuesday Aug. 19 – Controls
+- Wednesday Aug. 20 – Strategy
+- Thursday Aug. 21 – Business/Marketing
 
 Each department will present on their day and give a brief introduction of what they do.  You will have the opportunity to meet current members, see what we do, ask questions, and check out the workshop.
 
@@ -37,20 +37,19 @@ For example – if you are most interested in Marketing and Strategy, you **must
 
 ## **Steps to Join Team 3128**
 - Be a current student at CCA*
-- Attend **Intro Day** on **August 23rd at 3:30pm in the Robotics Workshop**
-- Attend **Narweek (Aug 26 – Aug. 29) for the departments that interest you**
+- Attend **Intro Day** on **August 15th at 3:30pm in the Robotics Workshop**
+- Attend **Narweek (Aug 18 – Aug. 21) for the departments that interest you**
 - Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
 - **Fill out an Application**, choosing your top 2 departments.
-   - APPLICATIONS ARE CLOSED
-   - Applications are due Thursday August 29, 2024 at 8 PM.  **No late applications will be accepted.**
+   - Applications are due DATE TBD at 8 PM.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
 *This is a requirement of the CCA Foundation
 <!-- #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
 -->
 
-### **Acceptance emails will be sent on Monday, September 2 at approximately 5 PM.**
+### **Acceptance emails will be sent DATE TBD at approximately 5 PM.**
 - If accepted, your email will list required rostering tasks with a DUE DATE.  You have ~72 hours to finish all the steps, which take several hours to complete (hint: don't wait until the last minute).
 - If the rostering tasks are NOT complete by the due date, your acceptance will be rescinded, and your spot on the Team will be offered to the next student in line.
 - *If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
@@ -86,7 +85,7 @@ If any prospective member fails to complete rostering by that date, we will assu
 These are the primary criteria our Team members will use to rank applicants. Coaches and Mentors may give input, but are not part of the new member selection process (so it's OK to ignore the adults during Narweek). 
  Prior robotics experience is certainly helpful, but not required. Each [department](/about/departments/) has a certain number of available spots, and applicants will be given these spots (based on their ranking) until the department slate is full.
 
-2024-2025 Open Positions: Mechanical (8 spots), Controls (8 spots), Strategy (5 spots), and Business/Marketing (6 spots).
+<!-- 2024-2025 Open Positions: Mechanical (8 spots), Controls (8 spots), Strategy (5 spots), and Business/Marketing (6 spots). -->
 
 ## **Questions?** 
 If you have any questions, feel free to contact our [Presidents or Coaches](/contact/) or email [info@team3128.org](/info@team3128.org/) for more information!

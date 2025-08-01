@@ -9,7 +9,7 @@ Have a question about our robotics program? Here are some of the most often aske
 
 ## **When does the Team meet?**
 
-Our weekly meetings for Fall Term 2024 are below, but may be changed due to Coach availability:
+Our weekly meetings for Fall Term 2025 are below, but may be changed due to Coach availability:
 
 - Monday: 3:30-6:30 PM
 - Tuesday: 4:00-7:00 PM
@@ -33,15 +33,15 @@ The link to add this calendar is [https://calendar.google.com/calendar/u/1?cid=a
 ## **Does the Team meet over School Holidays?**
 
 In short - Yes.  
-The Game for 2025 will be released on Saturday Jan. 4 at 8 AM PST at **KICKOFF** (this is during the CCA Winter Break).  
+The Game for 2026 will be released on Saturday Jan. 10 at 8 AM PST at **KICKOFF**.
 
-**The Team will meet all day, every day, until school begins on Wednesday Jan. 8, 2024.**
+<!-- **The Team will meet all day, every day, until school begins on Wednesday Jan. 8, 2024. NOTE: not relevant for 2026** -->
 
-**Attendance is mandatory for all Team members for these 4 days.**
+<!-- **Attendance is mandatory for all Team members for these 4 days.** -->
 
-Additionally, the Team will meet on the following days when there is no school:
-- Monday Jan. 20 2025  (9 AM - 5 PM) - Martin Luther King Jr. Day
-- Monday Feb. 17 & Tuesday Feb. 18, 2025 (9 AM - 5 PM)
+The Team will also meet on the following days when there is no school:
+- Monday Jan. 19, 2025  (9 AM - 5 PM) - Martin Luther King Jr. Day
+- Monday Feb. 16 & Tuesday Feb. 17, 2025 (9 AM - 5 PM)
 
 ### **Why?**
 (During winter break) Having 4 solid days of prototyping and workshop access gives the Team a tremendous advantage in robot build and test.  
@@ -91,14 +91,14 @@ Please see our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPp
 
 ## **Who goes to your competitions? What are competition positions? Who are they open to?**
 
-Regional competition events are held March 1 - April 7 2024.    Team 3128 will bring our **Travel Team** to any Travel Regional events.  
+California District competition events are held March 6 - April 12 2026.    Team 3128 will bring our **Travel Team** to any Travel events.
 
 **Travel Team** is made up of the students that choose to apply, and are selected, for competition positions. These are different roles that students can interview for if they have met the position requirements. 
 While all Team members are expected to attend our home Regional Competition, the Travel Team has very specific positions that are vital to our success.
 
 Interviews for specific, key positions on the Travel Team are held throughout November & December, during preseason.  Most Travel Team positions are selected near the end of build season based on performance during build.
 
-All Team members may attend World Championships (if we qualify) in Houston TX Championships (April 16-20, 2025). It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
+All Team members may attend World Championships (if we qualify) in Houston TX Championships (April 28-May 2, 2026). It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
 
 ## **I have some other questions. How can I contact the team?**
 
