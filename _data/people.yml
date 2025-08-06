@@ -91,12 +91,6 @@
   blurb: Garrison works for the Navy as a civilian researcher with a focus on augmented and virtual reality. He has a BS in Computer Science from San Diego State University and is currently working towards a MS in Computer Science at his alma mater. He is a founding member of Team 3128 and focuses primarily on mechanical design. He is currently too busy to have any other hobbies but when he is able to sneak away from the workshop, he enjoys hiking, rock climbing, and cooking.
   
 - group: mentors
-  name: Christine Low
-  photo: chris
-  title: Coach - Mechanical
-  blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
-  
-- group: mentors
   name: Pat Maynard
   photo: pat
   title: Coach - Strategy, Controls
@@ -129,7 +123,7 @@
 
 - group: mentors
   name: Aaron Dolgin
-  title: Controls, Money Guy, Web Admin
+  title: Controls, Admin
   photo: default
   blurb: Coming soon...
 
@@ -139,11 +133,11 @@
   title: Business, Finance
   blurb: Sam Kleinberg is a dedicated mentor for FRC Team 3128, supporting students in financial literacy, logistics, operations, and leadership development. He holds a Bachelor of Science in Supply Chain Management from Arizona State University’s W. P. Carey School of Business, where he focused on strategic operations and process improvement. Professionally, Sam works as an Operations Manager 1 at an Amazon Storage Distribution Site, where he leads daily logistics operations, manages frontline teams, and ensures efficient movement of inventory throughout the supply chain. He brings this real-world experience mentoring in the areas of operations and business finance, helping students connect classroom concepts to practical applications. In addition to his work with FRC 3128, Sam is an Eagle Scout and active adult leader in the Boy Scouts of America. He has been recognized with Congressional Merit Awards from both the City of Los Angeles and the State of California for his commitment to community service and youth leadership. Sam is passionate about mentoring the next generation of innovators through STEM education, hands-on experience, and values-based leadership.
   
-- group: mentors
-  name: Cole Reiner
-  photo: default
-  title: Mentor
-  blurb: Coming soon...
+  group: mentors
+  name: Christine Low
+  photo: chris
+  title: Mechanical
+  blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
   
 - group: mentors
   name: Daniel Rothfusz
@@ -162,12 +156,6 @@
   photo: Paul_Saam
   title: Liaison
   blurb: Paul has a B.S. in Engineering from Harvey Mudd College. He worked as a medical device engineer for two startups, driving them both out of business, before deciding to obtain his MBA at Duke University. He has spent the last 17 years working in Business Development for Zimmer Biomet, a global orthopedics company. He works primarily with the Business team, supporting the Robotics Summer Camp and acts as a liaison with the Canyon Crest Academy Foundation.
-
-- group: mentors
-  name: Dave Snodgrass
-  photo: dave
-  title: Liason
-  blurb: Dave works at DRS Daylight as VP/GM where they make quantum cascade lasers for use in Defense.  He holds a BS and MS in Particle Physics, and and MS in Electro-Optics.  He was dragged into Robotics as both of his kids and his wife were always in the Robotics workshop.  He has volunteered with FIRST as a Judge and Queuer, but is most well known as the driver of the team trailer, the load-in and load-out guy, and travel chaperone.
 
 - group: mentors
   name: Kenneth Wah
