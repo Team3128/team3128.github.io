@@ -45,9 +45,9 @@ For example – if you are most interested in Marketing and Strategy, you **must
    - Applications are due Aug 21st at 8 PM.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
+#### [**Applications are now open! Click here for the application link!**](https://docs.google.com/forms/d/e/1FAIpQLSfC-bpYJRnwtmalvgjrD8wu07nZ5VIl3U-ay0EfozN0BDpntg/viewform?usp=header)
+
 *This is a requirement of the CCA Foundation
-<!-- #### [Applications are now open! Click here for the application link:](https://docs.google.com/forms/d/e/1FAIpQLSdfcDF-iE6YUBzg_dt-5Y2yW_UEYTA0SdGY07uJ2QvRiYqzsw/viewform)
--->
 
 ### **Acceptance emails will be sent at the end of the day on Sunday, Aug 24th.**
 - If accepted, your email will list required rostering tasks with a DUE DATE.  You have ~72 hours to finish all the steps, which take several hours to complete (hint: don't wait until the last minute).
