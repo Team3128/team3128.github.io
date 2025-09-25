@@ -4,6 +4,11 @@ on:
     branches:
       - master
   workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to deploy from'
+        required: true
+        default: 'master'
 permissions:
   contents: read
   pages: write
