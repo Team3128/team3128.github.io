@@ -33,6 +33,7 @@ jobs:
           repository: Team3128/build-blog
           submodules: recursive
           fetch-depth: 0
+          token: ${{ secrets.PAT }}
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
