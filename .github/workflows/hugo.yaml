@@ -2,7 +2,7 @@ name: Build and deploy build blog
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 permissions:
   contents: read
