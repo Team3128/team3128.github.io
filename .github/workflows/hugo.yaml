@@ -30,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
         with:
-          repository: build-blog
+          repository: Team3128/build-blog
           submodules: recursive
           fetch-depth: 0
       - name: Setup Go
