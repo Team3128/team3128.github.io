@@ -17,7 +17,7 @@ Please contact us at [info@team3128.org](info@team3128.org)
 
 # Location of SDR
 ### Map of everything San Diego Regional (SDR):
-<iframe src="https://www.google.com/maps/d/embed?mid=10U3aCFIjo9u0KhcygBLPZHqY0XeNu7v1&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1111.0223054722815!2d-117.2406171950995!3d32.8900755774947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc06ec0ca0cab5%3A0x1c9e49556689543f!2s9730%20Hopkins%20Dr%2C%20San%20Diego%2C%20CA%2092121!5e0!3m2!1sen!2sus!4v1765327438039!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 SDR will be held at the Lion Tree Arena on the campus of the University of California at San Diego (UCSD)  -  [9730 Hopkins Dr. La Jolla CA 92093](https://maps.app.goo.gl/bxYfCJs3iHreUewR8)
 
