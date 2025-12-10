@@ -10,6 +10,16 @@
 #   weight: 312.8 lbs
 #   speed: 31.28 mph
 #   description: blah blah blah #a cool and nice mini-bio about the robot (i.e. the story of its ideation, any fun anecdotes about construction/design changes, and how well it did)
+- year: 2025
+  game: "REEFSCAPE"
+  name: Gillbert
+  code: 3128-robot-2025
+  yt: _eTev_ZdTsM
+  stats: true
+  dimensions: 26.5” x 26.5”
+  weight: 115 lbs
+  description: Coming soon...
+
 - year: 2024
   game: "CRESCENDO"
   name: G-Minor
@@ -100,7 +110,7 @@
   name: The Claw
   code: robot-TheClawwww
   yt: 4_vVo1oC554
-  description: Our robot this year was a versatile machine with a really, really large claw. It moved quickly and was able to move and stack the trash cans with ease. The Claw also had a state of the art autonomous, which dealt with trash cans with ease.
+  description: Our robot this year was a versatile machine with a really, really large claw. It moved quickly and was able to move and stack the trash cans with ease. The Claw also had an extremely good autonomous, which let it move trash cans smoothly.
 
 - year: 2014
   game: AERIAL ASSIST
