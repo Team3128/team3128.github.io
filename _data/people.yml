@@ -12,76 +12,77 @@
 
  #sub-team leads 
 - group: projectleads
-  name: Coming soon...
+  name: Vivian Lewis
   photo: default
   title: Mechanical Design Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Claire Robinson
   photo: default
   title: Mechanical Manufacturing Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Beatrice Au
   photo: default
   title: Mechanical Curriculum Lead
-  blurb: Coming soon...
+  blurb: 
   
 - group: projectleads
-  name: Coming soon...
+  name: Eben Chan
   photo: default
   title: Mechanical Curriculum Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Bryce Brown
   photo: default
   title: Controls Electrical Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Lucas Han
   photo: default
   title: Controls Software Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Maggie Liang
   photo: default
   title: Controls Curriculum Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Samarth Kaashyap
+  photo: default
+  title: Controls Curriculum Lead
+  blurb: 
+
+- group: projectleads
+  name: Vinh Olanrewaju
   photo: default
   title: Scouting Systems Lead
-  blurb: Coming soon...
+  blurb:
 
 - group: projectleads
-  name: Coming soon...
+  name: Abraham Jiang
   photo: default
   title: Strategic Design Lead
-  blurb: Coming soon...
+  blurb: 
 
-- group: projectleads
-  name: Coming soon...
+  group: projectleads
+  name: Vanyaa Khandelwal
   photo: default
   title: Strategy Curriculum Lead
-  blurb: Coming soon...
+  blurb: 
 
 - group: projectleads
-  name: Coming soon...
+  name: Claire Lin
   photo: default
-  title: Business Lead
-  blurb: Coming soon...
+  title: Barketing Lead
+  blurb: 
 
-- group: projectleads
-  name: Coming soon...
-  photo: default
-  title: Business/Marketing Curriculum Lead
-  blurb: Coming soon...
 
 #   Mentors
 - group: mentors
@@ -161,42 +162,42 @@
   name: Kenneth Wah
   photo: default
   title: Mentor
-  blurb: Coming soon...
+  blurb: 
   
 
 #   Leaders
 - group: leaders
-  name: Coming soon...
+  name: Colton Cumberland
   photo: default
   title: President
-  blurb: Coming soon...
+  blurb: 
   
 - group: leaders
-  name: Coming soon...
+  name: Isabel Lai
   photo: default
   title: President
-  blurb: Coming soon...
+  blurb: 
 
 - group: leaders
-  name: Coming soon...
+  name: Audrey Zheng
   photo: default
   title: Controls Coordinator
-  blurb: Coming soon...
+  blurb: 
   
 - group: leaders
-  name: Coming soon...
+  name: Claire Lin
   photo: default
-  title: Business/Marketing Coordinator
-  blurb: Coming soon...
+  title: Barketing Coordinator
+  blurb: 
   
 - group: leaders
-  name: Coming soon...
+  name: Emmi Dimmock
   photo: default
   title: Mechanical Coordinator
-  blurb: Coming soon...
+  blurb: 
 
 - group: leaders
-  name: Coming soon...
+  name: Raynor Sanam
   photo: default
   title: Strategy Coordinator
-  blurb: Coming soon...
+  blurb: 
