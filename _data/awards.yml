@@ -8,6 +8,20 @@
 #      awards: #the list of the awards that we won at that event
 #       - Really Cool First Award
 #       - Even Cooler Second Award
+- year: 2025
+  events:
+  - name: Canadian Pacific Regional
+    awards:
+    - Regional Finalists
+    - Excellence in Engineering Award
+  - name: San Diego Regional
+    awards:
+    - Regional Finalists
+    - Autonomous Award
+  - name: Fairbotics Pacific Showdown
+    awards: 
+    - Winner of Event
+
 - year: 2024
   events:
   - name: Hueneme Port Regional

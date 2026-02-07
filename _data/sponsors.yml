@@ -22,17 +22,31 @@
 
 # 2023/2024 Sponsor
 - level: Bronze
-  name: Lockheed Martin
-  description: Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology corporation. Its goal is to develop innovative technology and advance the boundaries of science.
-  logo: /assets/sponsorlogos/lockheed.png
-  link: https://www.lockheedmartin.com/en-us/index.html
+  name: Jimbos
+  description: Jimbo’s Market is a community-focused grocery store known for high-quality, natural, and organic foods. The market offers fresh produce, locally sourced products, prepared meals, and specialty items, all with an emphasis on quality, transparency, and sustainability. With a welcoming neighborhood feel and a strong commitment to healthy living, Jimbo’s Market makes it easy for customers to shop thoughtfully while supporting local growers and producers.
+  logo: /assets/sponsorlogos/jimbos.png
+  link: https://jimbos.com/
 
 # 2023/2024 Sponsor
-- level: Silver
-  name: Qualcomm
-  description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
-  logo: /assets/sponsorlogos/qualcomm.png
-  link: http://qualcomm.com
+- level: Bronze
+  name: West Coast Products
+  description: West Coast Products is a manufacturer and supplier of high-quality mechanical components and solutions for robotics teams and engineers. The company is best known for its durable, precision-made parts—such as gearboxes, drivetrain components, and structural systems—that help teams build reliable, competitive robots. With a strong focus on performance, accessibility, and community support, West Coast Products plays a key role in empowering innovation and hands-on engineering across the robotics ecosystem.
+  logo: /assets/sponsorlogos/wcplogo.png
+  link: https://wcproducts.com/
+
+# 2023/2024 Sponsor
+- level: Bronze
+  name: Smart And Final
+  description: Smart & Final is a grocery and supply store that serves both households and businesses with a wide selection of food, fresh produce, and essential supplies. Known for its warehouse-style convenience and value-driven pricing, the store makes it easy to shop for everyday groceries or stock up in bulk. With a focus on affordability, efficiency, and convenience, Smart & Final supports families, small businesses, and community organizations with reliable products at competitive prices.
+  logo: /assets/sponsorlogos/smartandfinallogo.png
+  link: https://www.smartandfinal.com/sm/pickup/rsid/522
+
+# 2023/2024 Sponsor
+- level: Bronze
+  name: The Robotics Hub
+  description: Smart & Final is a grocery and supply store that serves both households and businesses with a wide selection of food, fresh produce, and essential supplies. Known for its warehouse-style convenience and value-driven pricing, the store makes it easy to shop for everyday groceries or stock up in bulk. With a focus on affordability, efficiency, and convenience, Smart & Final supports families, small businesses, and community organizations with reliable products at competitive prices.
+  logo: /assets/sponsorlogos/theroboticshub.png
+  link: https://www.coalhillventures.com/
 
 # 2023/2024 Sponsor
 - level: Silver
@@ -42,11 +56,11 @@
   link: https://www.rtx.com/raytheon
 
 # 2023/2024 Sponsor
-- level: Platinum
-  name: Solar Turbines
-  description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner.
-  logo: /assets/sponsorlogos/SolarTurbines.png
-  link: https://www.solarturbines.com/
+- level: Silver
+  name: Microsoft Azure
+  description: Microsoft Azure is Microsoft’s cloud platform that helps organizations build, run, and manage applications and services securely at scale. Azure provides a wide range of cloud capabilities, including computing, data storage, artificial intelligence, analytics, and cybersecurity, allowing teams to modernize systems, improve performance, and respond quickly to changing needs. Trusted by businesses and governments around the world, Azure supports everything from everyday IT operations to mission-critical workloads, helping organizations stay secure, flexible, and future-ready.
+  logo: /assets/sponsorlogos/azure.png
+  link: https://azure.microsoft.com/en-us
 
 # 2023/2024 Sponsor
 - level: Bronze
@@ -56,13 +70,34 @@
   link: https://www.te.com/usa-en/home.html
 
 # 2023/2024 Sponsor
-- level: Silver
+- level: Bronze
   name: BAE Systems
   description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
   logo: /assets/sponsorlogos/baesystems1.png
   link: https://www.baesystems.com/en/home
 
 # ----------------- Current sponsors above -----------------------
+
+# # 2023/2024 Sponsor
+# - level: Bronze
+#   name: Lockheed Martin
+#   description: Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology corporation. Its goal is to develop innovative technology and advance the boundaries of science.
+#   logo: /assets/sponsorlogos/lockheed.png
+#   link: https://www.lockheedmartin.com/en-us/index.html
+
+# # 2023/2024 Sponsor
+# - level: Silver
+#   name: Qualcomm
+#   description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
+#   logo: /assets/sponsorlogos/qualcomm.png
+#   link: http://qualcomm.com
+
+# 2023/2024 Sponsor
+#  - level: Platinum
+#    name: Solar Turbines
+#    description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner.
+#    logo: /assets/sponsorlogos/SolarTurbines.png
+#    link: https://www.solarturbines.com/
 
 # 2021/2022 Sponsor
 #  - level: Title
