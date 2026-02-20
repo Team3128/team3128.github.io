@@ -12,7 +12,7 @@
    - title: Our Leaders
      permalink: /about/leaders/
    - title: Our Sub-Team Leads
-     permalink: /about/subteamleads/   
+     permalink: /about/subteamleads/
    - title: Our Mentors
      permalink: /about/mentors/
    - title: Outreach
@@ -45,10 +45,10 @@
      permalink: /members/important-dates/
    - title: Donate
      permalink: /support-us/donate/
-       
+
 - title: Sponsors
   permalink: /sponsors/
-    
+
 - title: Outreach
   permalink: /outreach/
   subpages:
@@ -60,15 +60,15 @@
     permalink: /outreach/camp/
   - title: Exhibitions
     permalink: /outreach/exhibitions/
-  - title: Mentoring 
+  - title: Mentoring
     permalink: /outreach/mentoring/
   - title: School Visits
     permalink: /outreach/presentations/
   - title: Narwhal Connections
     permalink: /outreach/narwhal-connections/
-    
+
 - title: Camp
-  permalink: https://camp.team3128.org
+  permalink: https://camp.team3128.org/camp/
 
 - title: Blog
   permalink: /blog/
