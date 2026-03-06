@@ -5,7 +5,7 @@ subtitle: Summer Camp
 permalink: /outreach/camp/
 ---
 
-<img src = "/assets/page_photos/outreach/camp1.png" class="rightimage">
+<img src = "/assets/page_photos/outreach/camp2.png" class="rightimage">
 
 Our robotics summer camp is one of our main ways that we are able to contribute to the community. Through this 3-week camp, we bring students on campus for a week-long course using the VEX IQ and VEX EDR kits to teach them basic principles of engineering and programming while sparking a future interest in robotics. 
 

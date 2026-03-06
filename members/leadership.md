@@ -5,7 +5,7 @@ subtitle: Team Leadership
 permalink: /members/leadership/
 ---
 
-<img src="/assets/page_photos/members/13.jpg" class="leftimage">
+<img src="/assets/page_photos/members/14.png" class="leftimage">
 Our team is led by two elected Presidents and Appointed Department Coordinators. They meet during weekly Leadership meetings where the Team Leaders, Coaches, Mentors, and Project leads discuss the current happenings of the Team. Learn out more about [our leadership team](/about/leaders/).
 
 ### Elected Positions
