@@ -8,6 +8,13 @@
 #      awards: #the list of the awards that we won at that event
 #       - Really Cool First Award
 #       - Even Cooler Second Award
+- year: 2026
+  events:
+  - name: Hueneme Port District
+    awards:
+    - Winner of Event
+    - Excellence in Engineering Award
+
 - year: 2025
   events:
   - name: Canadian Pacific Regional

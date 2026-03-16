@@ -12,67 +12,67 @@
 
  #sub-team leads 
 - group: projectleads
-  name: Vivian Lewis
+  name: Vivian L.
   photo: vivian
   title: Mechanical Design Lead
   blurb: 
 
 - group: projectleads
-  name: Claire Robinson
+  name: Claire R.
   photo: claire2
   title: Mechanical Manufacturing Lead
   blurb: 
 
 - group: projectleads
-  name: Beatrice Au
+  name: Beatrice A.
   photo: default
   title: Mechanical Curriculum Lead
   blurb: 
   
 - group: projectleads
-  name: Eben Chan
+  name: Eben C.
   photo: default
   title: Mechanical Curriculum Lead
   blurb: 
 
 - group: projectleads
-  name: Bryce Brown
+  name: Bryce B.
   photo: bryce
   title: Controls Electrical Lead
   blurb: 
 
 - group: projectleads
-  name: Lucas Han
+  name: Lucas H.
   photo: lucas
   title: Controls Software Lead
   blurb: 
 
 - group: projectleads
-  name: Maggie Liang
+  name: Maggie L.
   photo: default
   title: Controls Curriculum Lead
   blurb: 
 
 - group: projectleads
-  name: Samarth Kaashyap
+  name: Samarth K.
   photo: default
   title: Controls Curriculum Lead
   blurb: 
 
 - group: projectleads
-  name: Vinh Olanrewaju
+  name: Vinh O.
   photo: vinh
   title: Scouting Systems Lead
   blurb:
 
 - group: projectleads
-  name: Abraham Jiang
+  name: Abraham J.
   photo: abraham
   title: Strategic Design Lead
   blurb: 
 
   group: projectleads
-  name: Vanyaa Khandelwal
+  name: Vanyaa K.
   photo: default
   title: Strategy Curriculum Lead
   blurb: 
@@ -163,37 +163,37 @@
 
 #   Leaders
 - group: leaders
-  name: Colton Cumberland
+  name: Colton C.
   photo: colton
   title: President
   blurb: 
   
 - group: leaders
-  name: Isabel Lai
+  name: Isabel L.
   photo: isabel
   title: President
   blurb: 
 
 - group: leaders
-  name: Audrey Zheng
+  name: Audrey Z.
   photo: audrey
   title: Controls Coordinator
   blurb: 
   
 - group: leaders
-  name: Claire Lin
+  name: Claire L.
   photo: claire
   title: Barketing Coordinator
   blurb: 
   
 - group: leaders
-  name: Emmi Dimmock
+  name: Emmi D.
   photo: emmi
   title: Mechanical Coordinator
   blurb: 
 
 - group: leaders
-  name: Raynor Sanam
+  name: Raynor S.
   photo: raynor
   title: Strategy Coordinator
   blurb: 

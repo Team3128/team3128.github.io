@@ -80,8 +80,8 @@
 #    permalink: /resources/championship
   - title: Team Information
     permalink: /resources/
-  # - title: Branding
-  #   permalink: /resources/branding/
+  - title: Branding
+    permalink: /resources/branding/
   # - title: Technical
   #   permalink: /resources/technical/
 

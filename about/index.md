@@ -20,8 +20,9 @@ permalink: /about/
   </tr>
 </table>
 
-<img src="/assets/page_photos/about/beachblitz2025.png" class="centerimage">
-Team 3128, Beach Blitz 2025
+<img src="/assets/page_photos/about/hueneme2026.png" class="centerimage">
+Team 3128, Port Hueneme Winners, 2026
+<br>
 
 ### Our History
 Our team was founded in September of 2009 at Canyon Crest Academy in San Diego, California, at a school where math, science, and technology were valued, but hadn’t found a way to be manifested yet. A handful of students, one engineering mentor, and a computer programming teacher felt those values were important – and thus the Aluminum Narwhals were born.
