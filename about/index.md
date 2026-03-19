@@ -20,8 +20,9 @@ permalink: /about/
   </tr>
 </table>
 
-<img src="/assets/page_photos/about/sandiego2022.png" class="centerimage">
-Team 3128, Regional Winners, 2022 San Diego Regional, CA
+<img src="/assets/page_photos/about/hueneme2026.png" class="centerimage">
+Team 3128, Port Hueneme Winners, 2026
+<br>
 
 ### Our History
 Our team was founded in September of 2009 at Canyon Crest Academy in San Diego, California, at a school where math, science, and technology were valued, but hadn’t found a way to be manifested yet. A handful of students, one engineering mentor, and a computer programming teacher felt those values were important – and thus the Aluminum Narwhals were born.
@@ -32,6 +33,6 @@ During the 2010 competition season, our team entered brand new and won the Rooki
 
 We grew for the next 9 years, developing our [Robotics Summer Camp](/camp/), a week-long session for students grades 1 through 8 to design, build, and program their very own robots over the summer.
 
-<img src="/assets/page_photos/about/vegas2016.jpg" class="leftimage">
+<img src="/assets/page_photos/about/superpit2025.png" class="leftimage">
 
 Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' first decade, we've gone further than we could have ever imagined, making several notable accomplishments, including the Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalist, and Engineering Inspiration awards.

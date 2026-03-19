@@ -12,76 +12,72 @@
 
  #sub-team leads 
 - group: projectleads
-  name: Vivian Lewis
-  photo: default
+  name: Vivian L.
+  photo: vivian
   title: Mechanical Design Lead
   blurb: 
 
 - group: projectleads
-  name: Claire Robinson
-  photo: default
+  name: Claire R.
+  photo: claire2
   title: Mechanical Manufacturing Lead
   blurb: 
 
 - group: projectleads
-  name: Beatrice Au
+  name: Beatrice A.
   photo: default
   title: Mechanical Curriculum Lead
   blurb: 
   
 - group: projectleads
-  name: Eben Chan
+  name: Eben C.
   photo: default
   title: Mechanical Curriculum Lead
   blurb: 
 
 - group: projectleads
-  name: Bryce Brown
-  photo: default
+  name: Bryce B.
+  photo: bryce
   title: Controls Electrical Lead
   blurb: 
 
 - group: projectleads
-  name: Lucas Han
-  photo: default
+  name: Lucas H.
+  photo: lucas
   title: Controls Software Lead
   blurb: 
 
 - group: projectleads
-  name: Maggie Liang
+  name: Maggie L.
   photo: default
   title: Controls Curriculum Lead
   blurb: 
 
 - group: projectleads
-  name: Samarth Kaashyap
+  name: Samarth K.
   photo: default
   title: Controls Curriculum Lead
   blurb: 
 
 - group: projectleads
-  name: Vinh Olanrewaju
-  photo: default
+  name: Vinh O.
+  photo: vinh
   title: Scouting Systems Lead
   blurb:
 
 - group: projectleads
-  name: Abraham Jiang
-  photo: default
+  name: Abraham J.
+  photo: abraham
   title: Strategic Design Lead
   blurb: 
 
   group: projectleads
-  name: Vanyaa Khandelwal
+  name: Vanyaa K.
   photo: default
   title: Strategy Curriculum Lead
   blurb: 
 
-- group: projectleads
-  name: Claire Lin
-  photo: default
-  title: Barketing Lead
-  blurb: 
+
 
 
 #   Mentors
@@ -161,37 +157,37 @@
 
 #   Leaders
 - group: leaders
-  name: Colton Cumberland
-  photo: default
+  name: Colton C.
+  photo: colton
   title: President
   blurb: 
   
 - group: leaders
-  name: Isabel Lai
-  photo: default
+  name: Isabel L.
+  photo: isabel
   title: President
   blurb: 
 
 - group: leaders
-  name: Audrey Zheng
-  photo: default
+  name: Audrey Z.
+  photo: audrey
   title: Controls Coordinator
   blurb: 
   
 - group: leaders
-  name: Claire Lin
-  photo: default
+  name: Claire L.
+  photo: claire
   title: Barketing Coordinator
   blurb: 
   
 - group: leaders
-  name: Emmi Dimmock
-  photo: default
+  name: Emmi D.
+  photo: emmi
   title: Mechanical Coordinator
   blurb: 
 
 - group: leaders
-  name: Raynor Sanam
-  photo: default
+  name: Raynor S.
+  photo: raynor
   title: Strategy Coordinator
   blurb: 

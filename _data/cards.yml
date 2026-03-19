@@ -1,14 +1,14 @@
 - title: Join Team 3128!
   link: /members/
-  imageSource: /assets/homepage/introday.jpg
-  fullImage: /assets/homepage/introday-full.png
+  imageSource: /assets/homepage/workshopCropped.png
+  fullImage: /assets/homepage/workshop.png
   info: Interested in joining CCA's FRC robotics team? Visit the Members page for instructions on how to roster for the team!
 
 - title: Robotics Summer Camp
   link: /camp/
-  imageSource: /assets/homepage/camp.jpeg
-  fullImage:  /assets/homepage/camp-full.jpeg
-  info: After two years in the pandemic, we've brought our summer camp back!
+  imageSource: /assets/homepage/summercampCropped.png
+  fullImage:  /assets/homepage/summercamp.jpeg
+  info: Team 3128 Summer Camp is a hands-on robotics and STEM camp run by Team 3128 Aluminum Narwhals.
   
   #Summer camp dates this year are July 13-31! Keep an eye out for registration coming in Spring 2020. Click to visit our camp website, where you'll be able to find more information.
   
@@ -16,8 +16,8 @@
 
 - title: Support Us!
   link: /support-us/
-  imageSource: /assets/homepage/dmrGroupPhoto.jpg
-  fullImage: /assets/homepage/dmrGroupPhoto-full.jpg
+  imageSource: /assets/homepage/supportCropped.png
+  fullImage: /assets/homepage/support.jpg
   info: Be a part of creating an amazing STEM-based program for our students. Every company sponsorship and parent donation enables us to engage and inspire our students to pursue their passions in science, technology, engineering, and math.
 
 - title: Giving Back to the Community

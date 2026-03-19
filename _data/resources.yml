@@ -52,11 +52,11 @@
    link: http://team3128.org/members/faq/
    description: The link to the frequently asked questions page on our team.
 
-- name: Calendar
-  category: info
-  type: link
-  link: http://team3128.org/members/calendar/
-  description: The calendar contains information about team meetings and important events.
+ - name: Calendar
+   category: info
+   type: link
+   link: http://team3128.org/members/calendar/
+   description: The calendar contains information about team meetings and important events.
 
 # - name: Mentors
 #   category: info
@@ -71,11 +71,11 @@
 #   description: Get to know our amazing student leaders!
 
 
-- name: Team 3128 Brand Standard
-  category: branding
-  type: pdf
-  link: /resources/Team3128BrandStandard.pdf
-  description: We are a team of dedicated students who, when we put our heads together, can accomplish amazing things. In order to make our team recognizable, we have created a set of visual identity standards to ensure consitency of all team imagery.
+ - name: Team 3128 Brand Standard
+   category: branding
+   type: pdf
+   link: /resources/Team3128BrandStandard.pdf
+   description: We are a team of dedicated students who, when we put our heads together, can accomplish amazing things. In order to make our team recognizable, we have created a set of visual identity standards to ensure consitency of all team imagery.
 
 - name: Mechanical Resources
   category: technical
