@@ -1,18 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.5)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
-    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.5)
     http_parser.rb (0.8.0)
@@ -62,8 +60,6 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.64.2-x64-mingw-ucrt)
       google-protobuf (~> 3.23)
-    sass-embedded (1.64.2-x64-mingw32)
-      google-protobuf (~> 3.23)
     sass-embedded (1.64.2-x86_64-darwin)
       google-protobuf (~> 3.23)
     sass-embedded (1.64.2-x86_64-linux-gnu)
@@ -75,7 +71,6 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  x64-mingw32
   x86_64-darwin-21
   x86_64-linux
 
