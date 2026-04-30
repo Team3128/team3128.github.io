@@ -10,6 +10,13 @@
 #       - Even Cooler Second Award
 - year: 2026
   events:
+  - name: California Southern District Championship
+    awards:
+    - Event Finalist
+  - name: San Diego District Event
+    awards:
+    - Winner of Event
+    - Excellence in Engineering Award
   - name: Hueneme Port District
     awards:
     - Winner of Event
