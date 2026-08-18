@@ -21,7 +21,7 @@ Team 3128 is capped at 80 students - available spots are limited and competitive
 
 **You must attend at least two days of Narweek - in person - to be considered for the Team.** 
 
-**Narweek** begins with **Intro Day** on **Friday August 14, 2025 at 3:30 PM** in the robotics workshop.
+**Narweek** begins with **Intro Day** on **Friday August 14, 2026 at 3:30 PM** in the robotics workshop.
 
 **Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
 - Monday Aug. 17 – Mechanical
