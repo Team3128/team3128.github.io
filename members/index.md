@@ -19,15 +19,15 @@ Team 3128 is capped at 80 students - available spots are limited and competitive
 
 **Attend Narweek Events:**  Our Robotics recruitment event is called “Narweek”.  
 
-**You must attend at least one day of Narweek - in person - to be considered for the Team.** 
+**You must attend at least two days of Narweek - in person - to be considered for the Team.** 
 
-**Narweek** begins with **Intro Day** on **Friday August 15, 2025 at 3:30 PM** in the robotics workshop.
+**Narweek** begins with **Intro Day** on **Friday August 14, 2026 at 3:30 PM** in the robotics workshop.
 
 **Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
-- Monday Aug. 18 – Mechanical
-- Tuesday Aug. 19 – Controls
-- Wednesday Aug. 20 – Strategy
-- Thursday Aug. 21 – Business/Marketing
+- Monday Aug. 17 – Mechanical
+- Tuesday Aug. 18 – Controls
+- Wednesday Aug. 19 – Strategy
+- Thursday Aug. 20 – Business/Marketing
 
 Each department will present on their day and give a brief introduction of what they do.  You will have the opportunity to meet current members, see what we do, ask questions, and check out the workshop.
 
@@ -38,18 +38,18 @@ For example – if you are most interested in Marketing and Strategy, you **must
 ## **Steps to Join Team 3128**
 - Be a current student at CCA*
 - Attend **Intro Day** on **August 15th at 3:30pm in the Robotics Workshop**
-- Attend **Narweek (Aug 18 – Aug. 21) for the departments that interest you**
+- Attend **Narweek (Aug 17 – Aug. 20) for the departments that interest you**
 - Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
 - **Fill out an Application**, choosing your top 2 departments.
-   - Applications are due Aug 21st at 8 PM.  **No late applications will be accepted.**
+   - Applications are due Thursday at 8 PM.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
-#### [**Applications are now open! Click here for the application link!**](https://docs.google.com/forms/d/e/1FAIpQLSfC-bpYJRnwtmalvgjrD8wu07nZ5VIl3U-ay0EfozN0BDpntg/viewform?usp=header)
+#### [**Applications are now open! Click here for the application link!**](https://forms.gle/n3DL2VYCh9P4X8YBA)
 
 *This is a requirement of the CCA Foundation
 
-### **Acceptance emails will be sent at the end of the day on Sunday, Aug 24th.**
+### **Acceptance emails will be sent at the end of the day on Sunday, Aug 23th.**
 - If accepted, your email will list required rostering tasks with a DUE DATE.  You have ~72 hours to finish all the steps, which take several hours to complete (hint: don't wait until the last minute).
 - If the rostering tasks are NOT complete by the due date, your acceptance will be rescinded, and your spot on the Team will be offered to the next student in line.
 - *If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
