@@ -14,43 +14,74 @@
 
 - group: projectleads
   name: Esha A.
-  photo: default
+  photo: esha
   title: Mechanical Manufacturing Lead
   blurb: 
 
 - group: projectleads
+  name: Jack R.
+  photo: jack
+  title: Mechanical Curriculum Lead
+  blurb: 
+
+- group: projectleads
+  name: Steve P.
+  photo: steve
+  title: Mechanical Curriculum Lead
+  blurb: 
+
+
+- group: projectleads
   name: Henry G.
-  photo: default
+  photo: henry
   title: Mechanical Design Lead
   blurb: 
 
 - group: projectleads
   name: Rishi K.
-  photo: default
+  photo: rishi
   title: Controls Programming Lead
   blurb: 
 
 - group: projectleads
   name: Timmy D.
-  photo: default
+  photo: timmy
   title: Controls Wiring Lead
   blurb: 
 
 - group: projectleads
+  name: Avani G.
+  photo: avani
+  title: Controls Curriculum Lead
+  blurb: 
+
+- group: projectleads
+  name: Sid N.
+  photo: sid
+  title: Controls Curriculum Lead
+  blurb: 
+
+- group: projectleads
   name: Saevin H.
-  photo: default
+  photo: saevin
   title: Scouting Systems Lead
   blurb:
 
 - group: projectleads
   name: Justin W.
-  photo: default
+  photo: justin
   title: Strategic Design Lead
+  blurb: 
+
+- group: projectleads
+  name: Julia B.
+  photo: julia
+  title: Strategic Curriculum Lead
   blurb: 
 
   group: projectleads
   name: Lindsay Z. 
-  photo: default
+  photo: lindsay
   title: Barketing Curriculum Lead
   blurb: 
 
@@ -135,36 +166,36 @@
 #   Leaders
 - group: leaders
   name: Beatrice Au
-  photo: default
+  photo: beatrice
   title: Technical President
   blurb: 
   
 - group: leaders
   name: Claire Lin
-  photo: default
+  photo: claireL
   title: Operations President
   blurb: 
 
 - group: leaders
   name: Samarth K.
-  photo: default
+  photo: samarth
   title: Controls Coordinator
   blurb: 
   
 - group: leaders
   name: Derick C.
-  photo: default
+  photo: derick
   title: Barketing Coordinator
   blurb: 
   
 - group: leaders
   name: Claire R.
-  photo: default
+  photo: claireR
   title: Mechanical Coordinator
   blurb: 
 
 - group: leaders
   name: Dhruv B.
-  photo: default
+  photo: dhruv
   title: Strategy Coordinator
   blurb: 
