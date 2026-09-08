@@ -43,14 +43,14 @@
  - name: Parent Night Presentation
    category: info
    type: link
-   link: https://drive.google.com/file/d/1pYNROEkzXIDl1lRuzE5O4bbsVKM3kUKF/view?usp=drive_link
+   link: https://drive.google.com/file/d/1xIFj-K-xPGXM05Rn541ifEKXgbNWzaV5/view?usp=drivesdk
    description: The link to the 2025-26 Parent Night slide deck.
 
- - name: 2026 Travel Info Presentation
-   category: info
-   type: link
-   link: https://docs.google.com/presentation/d/1ymQHWKFtJVtJQD1la377-SsCmA1BIACGd1YxKh4tCg4/edit?usp=drivesdk
-   description: The link to the 2026 Presentation from travel info night.
+#  - name: 2026 Travel Info Presentation
+#    category: info
+#    type: link
+#    link: https://docs.google.com/presentation/d/1ymQHWKFtJVtJQD1la377-SsCmA1BIACGd1YxKh4tCg4/edit?usp=drivesdk
+#    description: The link to the 2026 Presentation from travel info night.
 
 - name: 2026 World Travel Commitment Form
    category: info
