@@ -8,10 +8,12 @@ redirect_from:
  - join/
  - members
 ---
+<div style="color: red; font-weight: bold; font-size: 1.8em; font-family: 'Raleway', sans-serif;">Applications are now closed for the 2026-2027 school year. Thank you to everyone who applied!</div>
+<br>
 
 ## **When You Can Join Team 3128**
 
-You must be a *current student at CCA* to join Team 3128. Applications happen at the beginning of every school year.
+You must be a *current student at CCA* to join Team 3128. Applications happen at the beginning of every school year. 
 
 Team 3128 is capped at 80 students - available spots are limited and competitive.
 
@@ -21,13 +23,13 @@ Team 3128 is capped at 80 students - available spots are limited and competitive
 
 **You must attend at least two days of Narweek - in person - to be considered for the Team.** 
 
-**Narweek** begins with **Intro Day** on **Friday August 14, 2026 at 3:30 PM** in the robotics workshop.
+**Narweek** begins with **Intro Day** <!-- on **Friday August 14, 2026 at 3:30 PM** --> in the robotics workshop.
 
-**Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
-- Monday Aug. 17 – Mechanical
+<!-- **Narweek continutes the following week** - our workshop will open every day at 3:30 PM.  
+Monday Aug. 17 – Mechanical
 - Tuesday Aug. 18 – Controls
 - Wednesday Aug. 19 – Strategy
-- Thursday Aug. 20 – Business/Marketing
+- Thursday Aug. 20 – Business/Marketing -->
 
 Each department will present on their day and give a brief introduction of what they do.  You will have the opportunity to meet current members, see what we do, ask questions, and check out the workshop.
 
@@ -37,29 +39,29 @@ For example – if you are most interested in Marketing and Strategy, you **must
 
 ## **Steps to Join Team 3128**
 - Be a current student at CCA*
-- Attend **Intro Day** on **August 15th at 3:30pm in the Robotics Workshop**
-- Attend **Narweek (Aug 17 – Aug. 20) for the departments that interest you**
+- Attend **Intro Day** <!-- on **August 15th at 3:30pm**  --> in the Robotics Workshop
+- Attend **Narweek Days <!-- (Aug 17 – Aug. 20) --> for the departments that interest you**
 - Narweek is for students only - interested parents are encouraged to email our Coaches if you have any questions: [info@team3128.org](/info@team3128.org/)
     - To join any department, you must have attended their Narweek presentation day.
 - **Fill out an Application**, choosing your top 2 departments.
-   - Applications are due Thursday at 8 PM.  **No late applications will be accepted.**
+   - Applications are due <!-- Thursday --> at 8 PM.  **No late applications will be accepted.**
    - *If you apply from/contact us using your school email ( ----@my.sduhsd.net ), we cannot respond. All emails from outside my.sdhusd.net are blocked.*
 
-#### [**Applications are now open! Click here for the application link!**](https://forms.gle/n3DL2VYCh9P4X8YBA)
+#### [**Applications are closed for 2026. Thank you to everyone who applied!**]()
 
 *This is a requirement of the CCA Foundation
 
-### **Acceptance emails will be sent at the end of the day on Sunday, Aug 23th.**
+<!-- ### **Acceptance emails will be sent at the end of the day on Sunday, Aug 23th.**
 - If accepted, your email will list required rostering tasks with a DUE DATE.  You have ~72 hours to finish all the steps, which take several hours to complete (hint: don't wait until the last minute).
 - If the rostering tasks are NOT complete by the due date, your acceptance will be rescinded, and your spot on the Team will be offered to the next student in line.
-- *If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.*
+- *If you email us from your @my.sduhsd.net school email, we cannot respond. All emails from outside my.sdhusd.net are blocked.* -->
 
 ## **Time Commitment Expected**
 ### **Joining Team 3128 is a large time commitment.**
-- All Departments will meet 3 times a week in the fall, plus all-day Saturday (and some Sundays) from January – April.
-  - See the Team [Calendar](http://team3128.org/members/calendar) for specifics 
-- All members must attend at least 75% of all meetings, for the duration of the meeting.  Students who do not meet attendance will be dropped from the Team.
-- See our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) for full information.
+- All Departments will meet 3 times a week in the fall, plus all-day Saturday from January – April. For specifics about the Team Calandar, Handbook, or Attendance Policy, click the links below.
+  - See the Team [Calendar](http://team3128.org/members/calendar)
+  - See our [Team Handbook](https://docs.google.com/document/d/1IsABwOmq6wGPpTip8KwKWtAobRK0flMNmsGCDEmx5CA/edit?usp=sharing) 
+  - See our [2026 Attendance Policy](https://docs.google.com/document/d/1gjFw_opEA_1Te_KUbHIFIKajByQ5aEcB71waGM6CZow/edit?tab=t.0#heading=h.2et92p0) 
 
 <!-- Team member applications and selection are complete for the 2023-2024 school year. 
 We had many more applicants than spots available, and selection was extremely difficult. <br>
