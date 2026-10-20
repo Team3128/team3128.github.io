@@ -31,7 +31,7 @@ Our robotics team, along with several others found at our school, participates i
 
 During the 2010 competition season, our team entered brand new and won the Rookie All-Star award for our stellar performance despite being a first-year team, landing us a spot in the FRC World Competition.
 
-We grew for the next 9 years, developing our [Robotics Summer Camp](/camp/), a week-long session for students grades 1 through 8 to design, build, and program their very own robots over the summer.
+We continue to grow developing our [Robotics Summer Camp](/camp/), a week-long session for students grades 1 through 8 to design, build, and program their very own robots over the summer.
 
 <img src="/assets/page_photos/about/superpit2025.png" class="leftimage">
 
